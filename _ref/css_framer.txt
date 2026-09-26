@@ -1,0 +1,8 @@
+`.`
+`.framer-text.framer-image`
+`@supports ${s} and (not (grid-template-rows: subgrid)) { body { ${VS}: transform; } }`
+`@supports ${s} and (not (position-area: top right)) { body { ${US}: filter; } }`
+`.svgContainer svg { display: block; }`
+`.framer-lightbox-container { opacity: 1 !important; pointer-events: auto !important; }`
+`.${dT}, .${dT} * { cursor: none !important; }`
+`.${fT}, .${fT} * { pointer-events: none !important; }`

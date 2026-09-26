@@ -1,0 +1,213 @@
+/* Tall brown torn edge that leads into the principles band. */
+.edge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 131px;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  background-color: var(--color-brown);
+}
+
+.inner {
+  position: relative;
+  z-index: 3;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 64px 24px;
+  width: 100%;
+  max-width: var(--container-max);
+  padding: 100px 32px;
+}
+
+.title {
+  z-index: 1;
+  width: 100%;
+  max-width: 600px;
+  --text-align: start;
+  --text-wrap: balance;
+  --text-color: var(--color-white);
+}
+
+.body {
+  display: flex;
+  align-items: flex-start;
+  gap: 40px;
+  width: 100%;
+}
+
+.aside {
+  display: flex;
+  flex: 1 0 0;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  align-self: stretch;
+  width: 1px;
+  max-width: 250px;
+}
+
+.review {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 10px;
+  overflow: hidden;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  overflow: hidden;
+}
+
+.brandName,
+.rating {
+  white-space: pre;
+  --text-color: var(--color-white);
+}
+
+.slideshow {
+  flex: 1 0 0;
+  width: 1px;
+  height: 232px;
+}
+
+/* ---------- Principle card ---------- */
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 32px;
+  border-radius: 24px;
+  background-color: var(--color-surface);
+  overflow: hidden;
+}
+
+.author {
+  position: relative;
+  z-index: 6;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 0 0 12px;
+  border-bottom: 1px solid var(--color-border);
+  overflow: hidden;
+}
+
+.avatar {
+  position: relative;
+  display: flex;
+  flex: none;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 42px;
+  border-radius: 90px;
+  background-color: var(--color-brown);
+  color: var(--color-surface);
+  overflow: hidden;
+}
+
+.avatarIcon {
+  width: 100%;
+  height: 100%;
+}
+
+.meta {
+  display: flex;
+  flex: 1 0 0;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 3px;
+  width: 1px;
+}
+
+.name {
+  white-space: pre;
+  --text-color: var(--color-text);
+}
+
+.topic {
+  white-space: pre;
+  --text-align: left;
+  --text-color: var(--color-text-muted);
+}
+
+.quote {
+  width: 100%;
+  max-width: 400px;
+  min-height: 90px;
+  margin: 0;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow: clip;
+  --text-color: var(--color-text);
+}
+
+@media (max-width: 1199.98px) {
+  .inner {
+    padding: 100px 16px;
+  }
+}
+
+@media (max-width: 809.98px) {
+  .edge {
+    height: 42px;
+  }
+
+  .section {
+    padding: 0 0 64px;
+  }
+
+  .inner {
+    gap: 24px;
+  }
+
+  .title {
+    --text-align: center;
+  }
+
+  .body {
+    flex-direction: column;
+  }
+
+  .aside {
+    flex: none;
+    align-items: center;
+    align-self: auto;
+    justify-content: center;
+    gap: 24px;
+    width: 100%;
+    max-width: none;
+  }
+
+  .review {
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+  }
+
+  .rating {
+    min-width: 310px;
+    --text-align: center;
+  }
+
+  .slideshow {
+    flex: none;
+    width: 100%;
+  }
+}

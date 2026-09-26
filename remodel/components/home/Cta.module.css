@@ -1,0 +1,164 @@
+.section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 100px 32px;
+}
+
+.card {
+  position: relative;
+  z-index: 3;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  max-width: var(--container-max);
+  padding: 64px 0 0;
+  border-radius: 24px;
+  background-color: var(--color-surface);
+  overflow: hidden;
+}
+
+.frame {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  pointer-events: none;
+}
+
+.edgeBottom,
+.edgeTop {
+  position: absolute;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  width: 100%;
+  height: 41px;
+  object-fit: cover;
+}
+
+.edgeBottom {
+  bottom: -13px;
+}
+
+.edgeTop {
+  top: -14px;
+  transform: rotate(180deg);
+}
+
+.edgeLeft,
+.edgeRight {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  z-index: 1;
+  width: 30px;
+  height: 100%;
+  object-fit: cover;
+}
+
+.edgeLeft {
+  left: 0;
+}
+
+.edgeRight {
+  right: 0;
+  transform: rotate(180deg);
+}
+
+.content {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  width: 100%;
+  padding: 48px 0 0;
+  transform: translateX(-50%);
+}
+
+.title {
+  z-index: 3;
+  width: 100%;
+  max-width: 600px;
+  --text-wrap: balance;
+  --text-color: var(--color-black);
+}
+
+.body {
+  z-index: 3;
+  width: 100%;
+  max-width: 500px;
+  --text-align: center;
+  --text-wrap: balance;
+  --text-color: var(--color-black);
+}
+
+.button {
+  z-index: 4;
+}
+
+.media {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  aspect-ratio: 1.7778;
+}
+
+.video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+@media (max-width: 1199.98px) {
+  .section {
+    padding: 64px 16px;
+  }
+
+  .card {
+    padding: 115px 16px 0;
+  }
+
+  /* Tablet shows the subtitle in the serif "Heading 3" style. */
+  .body {
+    width: auto;
+    font-family: var(--font-serif);
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 1.2em;
+    letter-spacing: 0;
+  }
+}
+
+@media (max-width: 809.98px) {
+  .card {
+    padding: 200px 0 0;
+    border-radius: 16px;
+  }
+
+  /* The frame collapses to zero height on phones in the original. */
+  .frame {
+    display: none;
+  }
+
+  .content {
+    top: 48px;
+    padding: 0 16px;
+  }
+
+  .body {
+    width: auto;
+    font-family: var(--font-sans);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.4em;
+    letter-spacing: 0.02em;
+    --text-color: var(--color-text-muted);
+  }
+}

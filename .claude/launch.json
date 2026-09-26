@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "remodel-dev",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "remodel", "run", "dev", "--", "-p", "3100"],
+      "port": 3100
+    }
+  ]
+}

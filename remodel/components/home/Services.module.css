@@ -1,0 +1,357 @@
+.section {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  background-color: var(--color-bg);
+}
+
+.inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 48px;
+  width: 100%;
+  max-width: var(--container-max);
+  padding: 100px 32px;
+  overflow: clip;
+}
+
+.title {
+  width: 100%;
+  max-width: 500px;
+  --text-wrap: balance;
+}
+
+.list {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.switcher {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+}
+
+/* ---------- Desktop tabs ---------- */
+
+.tabs {
+  position: relative;
+  z-index: 4;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 0 12px;
+  width: 100%;
+  overflow: clip;
+}
+
+.tab {
+  display: flex;
+  flex: 1 0 0;
+  align-self: stretch;
+  align-items: center;
+  gap: 12px;
+  width: 1px;
+  padding: 24px;
+  border-radius: 12px;
+  background-color: var(--color-bg);
+  box-shadow: inset 0 0 0 1px var(--color-border);
+  cursor: pointer;
+  --text-wrap: balance;
+  --text-color: var(--color-text-muted);
+  transition:
+    background-color 0.4s var(--ease-framer),
+    box-shadow 0.4s var(--ease-framer),
+    color 0.4s var(--ease-framer);
+}
+
+.tab:hover {
+  background-color: var(--color-surface);
+  --text-color: var(--color-black);
+}
+
+.tab[aria-selected="true"] {
+  background-color: var(--color-brown);
+  box-shadow: inset 0 0 0 0 transparent;
+  --text-color: var(--color-white);
+}
+
+/* ---------- Desktop card: text and media side by side ---------- */
+
+.cards {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  border-radius: 24px;
+  box-shadow: 0 0 0 1px var(--color-brown);
+  overflow: hidden;
+}
+
+.cards::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-right: 1px solid var(--color-brown);
+  pointer-events: none;
+}
+
+.card {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(50px, 1fr));
+  grid-template-rows: minmax(0, 1fr);
+  width: 100%;
+  aspect-ratio: 3.1596;
+  border-radius: 24px;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+  height: 100%;
+  padding: 32px;
+  border-right: 1px solid var(--color-brown);
+}
+
+.card[data-side="right"] .details {
+  order: 1;
+  border-right: 0;
+  border-left: 1px solid var(--color-brown);
+}
+
+.heading {
+  width: 100%;
+  font: inherit;
+}
+
+.headingButton {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 0 0 16px;
+  border-bottom: 1px solid var(--color-border);
+  text-align: left;
+  cursor: pointer;
+}
+
+.headingButton:disabled {
+  cursor: default;
+}
+
+.icon {
+  flex: none;
+  width: 31px;
+  height: 31px;
+  color: var(--color-text);
+}
+
+.headingText {
+  white-space: pre;
+  --text-color: var(--color-text);
+}
+
+.collapse,
+.collapseInner {
+  display: contents;
+}
+
+.description {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  max-width: 500px;
+  --text-wrap: balance;
+}
+
+.action {
+  display: flex;
+  flex: 1 0 0;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: 24px;
+  width: 100%;
+  height: 1px;
+  padding: 32px 0 0;
+}
+
+.media {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.card[data-side="right"] .media {
+  order: 0;
+}
+
+.mediaFrame {
+  position: absolute;
+  inset: 0;
+}
+
+.video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* ---------- Tablet & phone: accordion ---------- */
+
+@media (max-width: 1199.98px) {
+  .list {
+    border-left: 1px dashed var(--color-border);
+    border-right: 1px dashed var(--color-border);
+  }
+
+  .tabs {
+    display: none;
+  }
+
+  .cards {
+    gap: 16px;
+    border-radius: 0;
+    box-shadow: none;
+    overflow: visible;
+  }
+
+  .cards::after {
+    content: none;
+  }
+
+  .card {
+    display: flex;
+    flex-direction: column;
+    aspect-ratio: auto;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: inset 0 0 0 1px var(--color-border);
+    transition: box-shadow 0.3s var(--ease-framer);
+  }
+
+  .card[data-open="true"] {
+    box-shadow: 0 0 0 1px var(--color-brown);
+  }
+
+  .details,
+  .card[data-side="right"] .details {
+    order: 0;
+    gap: 0;
+    height: auto;
+    padding: 0 16px;
+    border: 0;
+  }
+
+  .headingButton {
+    padding: 16px 0;
+    border-bottom-color: transparent;
+    transition:
+      padding 0.3s var(--ease-framer),
+      border-color 0.3s var(--ease-framer);
+  }
+
+  .card[data-open="true"] .headingButton {
+    padding: 24px 0 16px;
+    border-bottom-color: var(--color-border);
+    cursor: default;
+  }
+
+  .icon {
+    width: 30px;
+    height: 30px;
+  }
+
+  .headingText {
+    flex: 1 0 0;
+    width: 1px;
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+
+  /* Height animates between 0 and auto via grid rows. */
+  .collapse,
+  .media {
+    display: grid;
+    grid-template-rows: 0fr;
+    width: 100%;
+    height: auto;
+    transition: grid-template-rows 0.3s var(--ease-framer);
+  }
+
+  .card[data-open="true"] .collapse,
+  .card[data-open="true"] .media {
+    grid-template-rows: 1fr;
+  }
+
+  .collapseInner {
+    display: block;
+    min-height: 0;
+    overflow: hidden;
+  }
+
+  .description {
+    margin-top: 24px;
+  }
+
+  .action {
+    flex: none;
+    gap: 16px;
+    justify-content: center;
+    height: auto;
+    margin-top: 24px;
+    padding: 0;
+  }
+
+  .card[data-side="right"] .media {
+    order: 1;
+  }
+
+  .mediaFrame {
+    position: relative;
+    inset: auto;
+    width: 100%;
+    margin-top: 24px;
+    aspect-ratio: 1.5702;
+  }
+
+  .video {
+    position: absolute;
+    inset: 0;
+  }
+}
+
+@media (max-width: 809.98px) {
+  .inner {
+    padding: 64px 16px 128px;
+  }
+
+  .title {
+    --text-align: left;
+  }
+
+  .list {
+    border: 0;
+  }
+}
+
+@media (min-width: 810px) and (max-width: 1199.98px) {
+  .inner {
+    padding: 64px 16px;
+  }
+}

@@ -1,0 +1,259 @@
+/*
+ * Design tokens, reset and shared text styles.
+ * Values are taken from the Framer export (tokens, text presets and base CSS).
+ * Breakpoints: desktop >= 1200px, tablet 810px-1199.98px, phone <= 809.98px.
+ */
+
+:root {
+  --color-bg: #f7f1ec;
+  --color-surface: #eee6de;
+  --color-accent: #cf3000;
+  --color-brown: #968071;
+  --color-border: #d1d1d1;
+  --color-text: #0a0a0a;
+  --color-text-muted: #545454;
+  --color-black: #000;
+  --color-white: #fff;
+
+  --font-serif: var(--font-cormorant), "Times New Roman", serif;
+  --font-sans: var(--font-inter), Arial, sans-serif;
+  --font-ui: var(--font-manrope), Arial, sans-serif;
+  --font-numeric: var(--font-switzer), Arial, sans-serif;
+
+  --container-max: 1300px;
+  --button-shadow:
+    0.398px 0.398px 0.563px -0.3125px rgba(0, 0, 0, 0.07), 1.207px 1.207px 1.707px -0.625px rgba(0, 0, 0, 0.08),
+    3.191px 3.191px 4.513px -0.9375px rgba(0, 0, 0, 0.1), 10px 10px 14.142px -1.25px rgba(0, 0, 0, 0.19);
+  --ease-framer: cubic-bezier(0.5, 0, 0.88, 0.77);
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-black);
+  font-family: var(--font-sans);
+  font-size: 12px;
+  overflow-x: clip;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+figure,
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+}
+
+img,
+video {
+  display: block;
+  max-width: none;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Lenis smooth scroll (same rules the Framer Smooth Scroll component injects). */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+.lenis.lenis-scrolling iframe {
+  pointer-events: none;
+}
+
+/* ---------- Text presets ---------- */
+
+.t-display,
+.t-h2,
+.t-h3,
+.t-h4,
+.t-body,
+.t-label,
+.t-caption {
+  text-wrap: var(--text-wrap, wrap);
+  text-align: var(--text-align, start);
+  color: var(--text-color, var(--color-text));
+}
+
+/* "Heading 1" (hero) */
+.t-display {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  font-size: 59px;
+  line-height: 1.2em;
+  letter-spacing: 0;
+  --text-align: center;
+}
+
+/* "Heading 2" (section titles) */
+.t-h2 {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: 65px;
+  line-height: 1.1em;
+  --text-align: center;
+}
+
+/* "Heading 3" (card titles) */
+.t-h3 {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 1.2em;
+}
+
+/* "Heading 4" (small serif titles) */
+.t-h4 {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 1.2em;
+}
+
+/* "Body" */
+.t-body {
+  font-family: var(--font-sans);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.4em;
+  letter-spacing: 0.02em;
+  --text-color: var(--color-text-muted);
+}
+
+/* "Label" (small UI text) */
+.t-label {
+  font-family: var(--font-ui);
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.4em;
+  --text-align: center;
+  --text-color: var(--color-text-muted);
+}
+
+/* "Caption" (award badges) */
+.t-caption {
+  font-family: var(--font-ui);
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.4em;
+  --text-align: center;
+  --text-color: var(--color-text-muted);
+}
+
+@media (max-width: 1199.98px) {
+  .t-display {
+    font-size: 50px;
+    letter-spacing: -0.02em;
+  }
+  .t-h2 {
+    font-size: 50px;
+  }
+  .t-h3 {
+    font-size: 30px;
+  }
+  .t-h4 {
+    font-size: 22px;
+  }
+}
+
+@media (max-width: 809.98px) {
+  .t-display {
+    font-size: 40px;
+  }
+  .t-h2 {
+    font-size: 35px;
+  }
+  .t-h3 {
+    font-size: 26px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Framer spring presets rendered as CSS easing (generated with motion's spring()). */
+/* prettier-ignore */
+:root {
+  /* spring { bounce: 0.2, duration: 0.4 }: hover scale, link colours */
+  --spring-hover: 400ms linear(0, 0.1873, 0.4978, 0.7484, 0.9025, 0.9795, 1.0091, 1.0152, 1.0123, 1.0076, 1.0038, 1.0015, 1);
+  /* spring { bounce: 0, duration: 0.4 }: menu open/close */
+  --spring-menu: 400ms linear(0, 0.1803, 0.4551, 0.6711, 0.8122, 0.8966, 0.9445, 0.9708, 0.9848, 0.9922, 0.996, 0.998, 1);
+  /* spring { stiffness: 320, damping: 42 }: menu links fade-in */
+  --spring-fade: 750ms linear(0, 0.103, 0.283, 0.453, 0.5916, 0.6982, 0.7781, 0.8372, 0.8808, 0.9127, 0.9361, 0.9533, 0.9658, 0.975, 0.9817, 0.9866, 0.9902, 0.9928, 0.9948, 0.9962, 0.9972, 0.9979, 0.9985, 0.9989, 1);
+  /* spring { stiffness: 500, damping: 60 }: FAQ items */
+  --spring-accordion: 750ms linear(0, 0.1379, 0.3419, 0.5128, 0.6424, 0.7381, 0.8083, 0.8598, 0.8974, 0.9249, 0.9451, 0.9598, 0.9706, 0.9785, 0.9843, 0.9885, 0.9916, 0.9938, 0.9955, 0.9967, 0.9976, 0.9982, 0.9987, 1, 1);
+  /* spring { stiffness: 200, damping: 40 }: principles slideshow */
+  --spring-slide: 1150ms linear(0, 0.0655, 0.1861, 0.3095, 0.4203, 0.5153, 0.5955, 0.6626, 0.7187, 0.7655, 0.8046, 0.8371, 0.8642, 0.8868, 0.9056, 0.9214, 0.9344, 0.9454, 0.9545, 0.962, 0.9684, 0.9736, 0.978, 0.9817, 0.9847, 0.9873, 0.9894, 0.9912, 0.9926, 0.9939, 0.9949, 0.9957, 0.9964, 0.997, 0.9975, 0.9979, 0.9983, 1);
+  /* spring { stiffness: 250, damping: 80 }: FAQ list appear */
+  --spring-soft: 1800ms linear(0, 0.0587, 0.1443, 0.225, 0.2982, 0.3646, 0.4247, 0.4792, 0.5284, 0.5731, 0.6134, 0.65, 0.6831, 0.7131, 0.7402, 0.7648, 0.7871, 0.8072, 0.8255, 0.842, 0.8569, 0.8705, 0.8827, 0.8938, 0.9039, 0.913, 0.9212, 0.9286, 0.9354, 0.9415, 0.947, 0.952, 0.9566, 0.9607, 0.9644, 0.9678, 0.9708, 0.9736, 0.9761, 0.9783, 0.9804, 0.9823, 0.9839, 0.9855, 0.9868, 0.9881, 0.9892, 0.9902, 0.9911, 0.992, 0.9927, 0.9934, 0.9941, 0.9946, 0.9951, 0.9956, 0.996, 0.9964, 0.9967, 1);
+}

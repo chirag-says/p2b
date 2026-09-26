@@ -1,0 +1,225 @@
+.header {
+  position: fixed;
+  inset: 0 0 auto;
+  z-index: 10;
+  display: flex;
+  justify-content: center;
+  background-color: rgba(238, 230, 222, 0);
+  transition: background-color var(--spring-menu);
+}
+
+.header[data-open="true"] {
+  background-color: var(--color-surface);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  max-width: var(--container-max);
+  height: 70px;
+  transition: height var(--spring-menu);
+}
+
+.header[data-open="true"] .container {
+  height: 100vh;
+  height: 100dvh;
+}
+
+.bar {
+  display: flex;
+  flex: none;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 8px 32px;
+}
+
+.logo {
+  position: relative;
+  display: block;
+  flex: none;
+  width: 181px;
+  height: 54px;
+  transition: height var(--spring-menu);
+}
+
+/* Text wordmark in place of an image logo. */
+.wordmark {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  font-family: var(--font-serif);
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 1;
+  color: var(--color-black);
+  white-space: nowrap;
+}
+
+/* Hamburger: two 16x2 bars that rotate into a cross. */
+.toggle {
+  position: relative;
+  z-index: 3;
+  flex: none;
+  width: 45px;
+  height: 45px;
+  border-radius: 90px;
+  background-color: var(--color-surface);
+}
+
+.lineTop,
+.lineBottom {
+  position: absolute;
+  left: 14.5px;
+  width: 16px;
+  height: 2px;
+  border-radius: 10px;
+  background-color: var(--color-black);
+  transition: transform var(--spring-menu);
+}
+
+.lineTop {
+  top: 16.5px;
+}
+
+.lineBottom {
+  top: 26.5px;
+}
+
+.header[data-open="true"] .lineTop {
+  transform: translate(0.5px, 5.5px) rotate(45deg);
+}
+
+.header[data-open="true"] .lineBottom {
+  transform: translate(0.5px, -4.5px) rotate(-45deg);
+}
+
+/* ---------- Open panel ---------- */
+
+.panel {
+  display: flex;
+  flex: 1 0 0;
+  align-items: center;
+  justify-content: center;
+  gap: 48px;
+  width: 100%;
+  min-height: 0;
+  padding: 24px 32px 32px;
+}
+
+.menu {
+  order: 1;
+  display: flex;
+  flex: 1 0 0;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 1px;
+  max-width: 450px;
+  height: 100%;
+  padding: 0 32px;
+  overflow: clip;
+  animation: panel-in var(--spring-fade) 100ms both;
+}
+
+@keyframes panel-in {
+  from {
+    opacity: 0.001;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.link {
+  display: flex;
+  padding: 4px;
+  white-space: pre;
+  --text-color: var(--color-black);
+  transition: color 0.5s cubic-bezier(0.93, 0.21, 0.42, 0.97);
+}
+
+.link:hover,
+.link[aria-current="page"] {
+  --text-color: var(--color-accent);
+}
+
+.contact {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  width: 396px;
+  max-width: 100%;
+  padding-top: 32px;
+}
+
+.contactLink {
+  opacity: 0.8;
+}
+
+.contactLink:hover {
+  --text-color: var(--color-accent);
+}
+
+.video {
+  order: 0;
+  flex: 1 0 0;
+  width: 1px;
+  height: 100%;
+  border-radius: 24px;
+  object-fit: cover;
+}
+
+/* Tablet and phone use the "Phone" variants of the nav bar. */
+@media (max-width: 1199.98px) {
+  .bar {
+    padding: 8px 16px;
+  }
+
+  .header[data-open="true"] .logo {
+    height: 54px;
+  }
+
+  .header[data-open="true"] .lineTop {
+    transform: translate(0.5px, 6.5px) rotate(45deg);
+  }
+
+  .header[data-open="true"] .lineBottom {
+    transform: translate(0.5px, -3.5px) rotate(-45deg);
+  }
+
+  .panel {
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 24px 16px 32px;
+  }
+
+  .menu {
+    width: 100%;
+    max-width: none;
+    height: 1px;
+    flex: 1 0 0;
+    padding: 0 0 32px;
+  }
+
+  .contact {
+    width: 100%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .header[data-open="true"] .logo {
+    height: 34px;
+  }
+}

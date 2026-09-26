@@ -1,0 +1,1067 @@
+div
+  div.framer-XnZTp.framer-1bk0vel style="min-height: 100vh; width: auto"
+    div.framer-ax14j6
+      div.framer-q8ya82-container
+        div.ssr-variant.hidden-o1qzy2.hidden-o5e008
+          div.framer-4wUDf.framer-63HkM.framer-Dbitq.framer-19ddog0.framer-v-19ddog0 [Desktop Closed] style="background-color: rgba(0, 0, 0, 0); width: 100%; opacity: 1"
+            div.framer-evvopr [Container] style="opacity: 1"
+              div.framer-vj7ewy [Logo & nav bar] style="opacity: 1"
+                div.framer-cdb05x [Logo] style="opacity: 1"
+                  a.framer-rbovaf.framer-1bl1oel [Logo] href=./ style="opacity: 1"
+                    div style="position: absolute; border-radius: inherit; corner-shape: inherit; top: 0; right: 0; bottom: 0; left: 0"
+                      img src=./assets/images/HU0mN0pkyOiUymm1JMpPIrjQYSk-9fe11a.png style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: left center; object-fit: contain"
+                div.framer-14c1xyr [Menu] style="background-color: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(238, 230, 222)); border-radius: 90px; opacity: 1"
+                  div.framer-1vhen5f [Top] style="background-color: var(--token-f2dc4843-1d06-43ac-9b40-3e998873a17c, rgb(0, 0, 0)); border-radius: 10px; transform: none; opacity: 1"
+                  div.framer-4j77lr [Bottom] style="background-color: var(--token-f2dc4843-1d06-43ac-9b40-3e998873a17c, rgb(0, 0, 0)); border-radius: 10px; transform: none; opacity: 1"
+    div.framer-ps6yJ.framer-Y7PzC.framer-63HkM.framer-CDupi.framer-D8sCW.framer-exJWR.framer-oPDLJ.framer-1bqzvwo style="min-height: 100vh; width: auto; display: contents"
+      div.framer-um1u70-container
+        div
+      main.framer-yj12ww [Main]
+        div.ssr-variant.hidden-1g9k2v9
+          section.framer-12svfce [Hero] style="will-change: transform; opacity: 1; transform: none"
+            div.framer-134503r [Hero section]
+              div.ssr-variant
+                div.framer-likbir-container
+                  div.framer-AbRDk.framer-16ahd6p.framer-v-15gmy5e [Open] style="height: 100%; width: 100%; border-radius: 0px; opacity: 1"
+                    div.framer-1koo5rq [Up] style="opacity: 1"
+                      div.framer-12e1qeb style="background-color: var(--token-a5af7ff8-0198-4958-836d-98f2108fe5aa, rgb(255, 255, 255)); opacity: 1"
+                    div.framer-1bgriju [Video] style="opacity: 1"
+                      div.framer-15spl54-container style="opacity: 1"
+                        video src=./assets/videos/6WpUlqTWj1VFA4RNQ9snLmJxk-c1d766.mp4 style="cursor: auto; width: 100%; height: 100%; border-radius: 0px; display: block; object-fit: cover; background-color: rgba(0, 0, 0, 0); object-position: 50% 50%"
+              header.framer-1ugytsn [Header]
+                div.framer-mttbew appear=mttbew-0 style="opacity: 1; transform: none; will-change: transform"
+                  h1.framer-text.framer-styles-preset-1a5yxrz style="--framer-text-alignment: center; --framer-text-color: var(--token-f2dc4843-1d06-43ac-9b40-3e998873a17c, rgb(0, 0, 0))"
+                    "Interior Design for Dallas Homes"
+                div.framer-1ncv6lw appear=1ncv6lw-0 style="opacity: 1; transform: none; will-change: transform"
+                  p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: center; --framer-text-color: var(--token-f2dc4843-1d06-43ac-9b40-3e998873a17c, rgb(0, 0, 0))"
+                    "We design beautiful homes for families in Dallas and Fort Worth."
+                div.framer-1ncfy0p [Button]
+                  div.ssr-variant
+                    div.framer-h129pf-container
+                      a.framer-1RMtz.framer-1oto7d7.framer-v-1oto7d7.framer-13l8g7p [Variant 1] href=./contact/
+                        div.framer-1k85wgo [Text]
+                          p.framer-text
+                            "Talk to Us Today"
+                        div.framer-1kvpqiy-container style="opacity: 1"
+                          div style="height: 33px; width: 33px; background-color: transparent; display: flex; align-items: center; justify-content: center; gap: 0; overflow: visible; position: relative"
+                            div style="width: 33px; height: 33px; border-radius: 50%; overflow: hidden"
+                              div
+                                div
+                  div.framer-2ng5m5 [Review Box]
+                    div.framer-n15uoz [Logo]
+                      div.ssr-variant
+                        div.framer-1l7huc6-container
+                          div.framer-s5TNc.framer-1qjtxvc.framer-v-b3tynz [Google] style="height: 100%; width: 100%; opacity: 1"
+                            div.framer-12pdhq [Image] style="opacity: 1"
+                              div style="position: absolute; border-radius: inherit; corner-shape: inherit; top: 0; right: 0; bottom: 0; left: 0"
+                                img src=./assets/images/FZmmaU0xjYBGqxCuQchHFQlwEk-1bcf06.png style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center; object-fit: cover"
+                    div.framer-deo1ze [Google]
+                      div.framer-1s17e5 [Stars]
+                        div.framer-4zAy8.framer-1paz4wb
+                        div.framer-4zAy8.framer-1uh7toj
+                        div.framer-4zAy8.framer-e9fw3e
+                        div.framer-4zAy8.framer-1ojpa3p
+                        div.framer-4zAy8.framer-1g1928s
+                      div.framer-1vluiyz
+                        div.framer-2avqfz [Text] style="transform: none"
+                          p.framer-text.framer-styles-preset-lqeg3j style="--framer-text-color: var(--token-f2dc4843-1d06-43ac-9b40-3e998873a17c, rgb(0, 0, 0))"
+                            "4.9/5 (200+ Reviews)"
+        section.framer-wr6vb9 [Reviews]
+          div.framer-191re8y [Reviews]
+            div.framer-102g4nl [Line]
+              div.ssr-variant
+                div.framer-1432ykq [Desktop background] style="height: auto; aspect-ratio: 25.557377049180328"
+                  div style="position: absolute; border-radius: inherit; corner-shape: inherit; top: 0; right: 0; bottom: 0; left: 0"
+                    img src=./assets/images/sI0bco2opGtbrzyBHwn0AQJAlD0-f386cc.png style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center; object-fit: cover"
+            div.framer-ap6824 [Houzz]
+              div.framer-1iba9p7 [Ratings]
+                div.ssr-variant.hidden-1g9k2v9
+                  div.framer-1omm9fn-container
+                    div.framer-0TpM8.framer-xn28h5.framer-v-s0dlqo [Desktop 2] style="background-color: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(246, 245, 250)); border-radius: 16px; opacity: 1"
+                      div.framer-57ni19-container style="opacity: 1"
+                        div
+                          "5.0"
+                      div.framer-14oz5pt [Image] style="opacity: 1"
+                        div.framer-6xflmk [Home advisor] style="opacity: 1"
+                          div style="position: absolute; border-radius: inherit; corner-shape: inherit; top: 0; right: 0; bottom: 0; left: 0"
+                            img src=./assets/images/LjmZJ9uXcyr7VxCbjoNlhmWT9Cg-96f1fd.png style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center; object-fit: contain"
+                div.ssr-variant.hidden-1g9k2v9
+                  div.framer-3rzksu-container
+                    div.framer-0TpM8.framer-xn28h5.framer-v-178oqp6 [Houzz 2] style="background-color: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(246, 245, 250)); border-radius: 16px; opacity: 1"
+                      div.framer-57ni19-container style="opacity: 1"
+                        div
+                          "5.0"
+                      div.framer-7i0qw3 [Logo] style="opacity: 1"
+                        div.framer-v14fc.framer-11eosqw style="--frkg9v: var(--token-ad774ffe-642e-4b93-94e2-ddff7b90343a, rgb(1, 148, 33)); opacity: 1"
+                        div.framer-mxoyds
+                          p.framer-text
+                            "Houzz"
+              div.framer-zw6ymq [Awards]
+                div.ssr-variant
+                  div.framer-18wn9yy-container
+                    div.framer-4eyHP.framer-63HkM.framer-okxGu.framer-1x2xa.framer-v-1x2xa [Design] style="opacity: 1"
+                      div.framer-1sx173l [Tex] style="opacity: 1"
+                        div.framer-v14fc.framer-vvp5nf style="--frkg9v: var(--token-e1bc1f5a-8498-49bf-9b3c-fcb2a0fd6f00, rgb(255, 255, 255)); opacity: 1"
+                        div.framer-1wsu74o
+                          p.framer-text.framer-styles-preset-piej36 style="--framer-text-color: var(--extracted-r6o4lv, var(--token-f2dc4843-1d06-43ac-9b40-3e998873a17c, rgb(0, 0, 0)))"
+                            "2024"
+                        div.framer-1cq0crh
+                          p.framer-text.framer-styles-preset-1w3vw8y style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-f2dc4843-1d06-43ac-9b40-3e998873a17c, rgb(0, 0, 0)))"
+                            "Best of Houzz Design"
+                      div.framer-mPRVA.framer-165n3zu style="--1r59l1l: rgb(81, 184, 73); opacity: 1"
+                div.ssr-variant
+                  div.framer-g9mhbf-container
+                    div.framer-4eyHP.framer-63HkM.framer-okxGu.framer-1x2xa.framer-v-1x2xa [Design] style="opacity: 1"
+                      div.framer-1sx173l [Tex] style="opacity: 1"
+                        div.framer-v14fc.framer-vvp5nf style="--frkg9v: var(--token-e1bc1f5a-8498-49bf-9b3c-fcb2a0fd6f00, rgb(255, 255, 255)); opacity: 1"
+                        div.framer-1wsu74o
+                          p.framer-text.framer-styles-preset-piej36 style="--framer-text-color: var(--extracted-r6o4lv, var(--token-f2dc4843-1d06-43ac-9b40-3e998873a17c, rgb(0, 0, 0)))"
+                            "2026"
+                        div.framer-1cq0crh
+                          p.framer-text.framer-styles-preset-1w3vw8y style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-f2dc4843-1d06-43ac-9b40-3e998873a17c, rgb(0, 0, 0)))"
+                            "Best of Houzz Design"
+                      div.framer-mPRVA.framer-165n3zu style="--1r59l1l: rgb(81, 184, 73); opacity: 1"
+                div.ssr-variant
+                  div.framer-1c5ttsl-container
+                    div.framer-4eyHP.framer-63HkM.framer-okxGu.framer-1x2xa.framer-v-13ihoto [Service] style="opacity: 1"
+                      div.framer-1sx173l [Tex] style="opacity: 1"
+                        div.framer-v14fc.framer-vvp5nf style="--frkg9v: var(--token-e1bc1f5a-8498-49bf-9b3c-fcb2a0fd6f00, rgb(255, 255, 255)); opacity: 1"
+                        div.framer-1wsu74o
+                          p.framer-text.framer-styles-preset-piej36 style="--framer-text-color: var(--extracted-r6o4lv, var(--token-f2dc4843-1d06-43ac-9b40-3e998873a17c, rgb(0, 0, 0)))"
+                            "2025"
+                        div.framer-1cq0crh
+                          p.framer-text.framer-styles-preset-1w3vw8y style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-f2dc4843-1d06-43ac-9b40-3e998873a17c, rgb(0, 0, 0)))"
+                            "Best of Houzz Service"
+                      div.framer-mPRVA.framer-165n3zu style="--1r59l1l: rgb(243, 186, 54); opacity: 1"
+        section.framer-1xiq5b0 [Projects ]
+          div.ssr-variant.hidden-1g9k2v9
+            div.framer-1alcj9b [Projects]
+              div.framer-1tvrgh [Title & Button]
+                div.framer-mh30dz style="transform: none"
+                  h2.framer-text.framer-styles-preset-48d53 style="--framer-text-alignment: left; --framer-text-color: var(--token-f2dc4843-1d06-43ac-9b40-3e998873a17c, rgb(0, 0, 0))"
+                    "SEE OUR WORK"
+                div.ssr-variant
+                  div.framer-o2s20h-container
+                    a.framer-1RMtz.framer-1oto7d7.framer-v-1oto7d7.framer-13l8g7p [Variant 1] href=./projects/
+                      div.framer-1k85wgo [Text]
+                        p.framer-text
+                          "See all Projects"
+                      div.framer-1kvpqiy-container style="opacity: 1"
+                        div style="height: 33px; width: 33px; background-color: transparent; display: flex; align-items: center; justify-content: center; gap: 0; overflow: visible; position: relative"
+                          div style="width: 33px; height: 33px; border-radius: 50%; overflow: hidden"
+                            div
+                              div
+              div.framer-tm3h9o [Projects]
+                div.framer-1n7lm09 [Projects]
+                  div.framer-1ij94ov style="will-change: transform; opacity: 1; transform: none"
+                    div.ssr-variant.hidden-gf9ou0
+                      div.framer-e51lvl-container
+                        div.framer-P05TW.framer-exJWR.framer-oPDLJ.framer-1ozdky0.framer-v-ygqioc [Variant 4] style="background-color: rgba(0, 0, 0, 0); height: 100%; width: 100%; border-radius: 0px; opacity: 1"
+                          div style="position: absolute; border-radius: inherit; corner-shape: inherit; top: 0; right: 0; bottom: 0; left: 0"
+                            img src=./assets/images/TbmHyQ7TTmZuM79UUZucYi8Qigw-106c3a.jpeg style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center; object-fit: cover"
+                          div.framer-1sgpvvb [Tag] style="background-color: rgba(0, 0, 0, 0); border-radius: 24px; opacity: 1"
+                            div.framer-8r7u37
+                              h3.framer-text.framer-styles-preset-1pr57h3 style="--framer-text-alignment: center; --framer-text-color: var(--extracted-a0htzi, var(--token-e1bc1f5a-8498-49bf-9b3c-fcb2a0fd6f00, rgb(255, 255, 255)))"
+                                "Quiet Retreat"
+                            div.framer-yq9tbf-container style="opacity: 1"
+                              div.framer-OJsoj.framer-3j5rai.framer-v-3j5rai [Variant 1] style="backdrop-filter: blur(5px); background-color: rgba(0, 0, 0, 0.39); height: 100%; width: 100%; opacity: 1"
+                            div.framer-hfuotp-container style="opacity: 1"
+                              a.framer-1RMtz.framer-1oto7d7.framer-v-1oto7d7.framer-13l8g7p [Variant 1] href=./projects/quiet-retreat/
+                                div.framer-1k85wgo [Text]
+                                  p.framer-text
+                                    "View Project"
+                                div.framer-1kvpqiy-container style="opacity: 1"
+                                  div
+                                    div style="width: 33px; height: 33px; border-radius: 50%; overflow: hidden"
+                                      div
+                                        div
+                    div.ssr-variant.hidden-gf9ou0
+                      div.framer-e51lvl-container
+                        div.framer-P05TW.framer-exJWR.framer-oPDLJ.framer-1ozdky0.framer-v-ygqioc [Variant 4] style="background-color: rgba(0, 0, 0, 0); height: 100%; width: 100%; border-radius: 0px; opacity: 1"
+                          div style="position: absolute; border-radius: inherit; corner-shape: inherit; top: 0; right: 0; bottom: 0; left: 0"
+                            img src=./assets/images/ifBOIqm4Im7UR8o68qpdEJLpI-855d6d.jpeg style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center; object-fit: cover"
+                          div.framer-1sgpvvb [Tag] style="background-color: rgba(0, 0, 0, 0); border-radius: 24px; opacity: 1"
+                            div.framer-8r7u37
+                              h3.framer-text.framer-styles-preset-1pr57h3 style="--framer-text-alignment: center; --framer-text-color: var(--extracted-a0htzi, var(--token-e1bc1f5a-8498-49bf-9b3c-fcb2a0fd6f00, rgb(255, 255, 255)))"
+                                "Bright Office"
+                            div.framer-yq9tbf-container style="opacity: 1"
+                              div.framer-OJsoj.framer-3j5rai.framer-v-3j5rai [Variant 1] style="backdrop-filter: blur(5px); background-color: rgba(0, 0, 0, 0.39); height: 100%; width: 100%; opacity: 1"
+                            div.framer-hfuotp-container style="opacity: 1"
+                              a.framer-1RMtz.framer-1oto7d7.framer-v-1oto7d7.framer-13l8g7p [Variant 1] href=./projects/bright-office/
+                                div.framer-1k85wgo [Text]
+                                  p.framer-text
+                                    "View Project"
+                                div.framer-1kvpqiy-container style="opacity: 1"
+                                  div
+                                    div style="width: 33px; height: 33px; border-radius: 50%; overflow: hidden"
+                                      div
+                                        div
+                    div.ssr-variant.hidden-gf9ou0
+                      div.framer-e51lvl-container
+                        div.framer-P05TW.framer-exJWR.framer-oPDLJ.framer-1ozdky0.framer-v-ygqioc [Variant 4] style="background-color: rgba(0, 0, 0, 0); height: 100%; width: 100%; border-radius: 0px; opacity: 1"
+                          div style="position: absolute; border-radius: inherit; corner-shape: inherit; top: 0; right: 0; bottom: 0; left: 0"
+                            img src=./assets/images/AUTGBz2hD9eOP1DvdPxZKQezc-af60e5.jpeg style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center; object-fit: cover"
+                          div.framer-1sgpvvb [Tag] style="background-color: rgba(0, 0, 0, 0); border-radius: 24px; opacity: 1"
+                            div.framer-8r7u37
+                              h3.framer-text.framer-styles-preset-1pr57h3 style="--framer-text-alignment: center; --framer-text-color: var(--extracted-a0htzi, var(--token-e1bc1f5a-8498-49bf-9b3c-fcb2a0fd6f00, rgb(255, 255, 255)))"
+                                "Family Haven"
+                            div.framer-yq9tbf-container style="opacity: 1"
+                              div.framer-OJsoj.framer-3j5rai.framer-v-3j5rai [Variant 1] style="backdrop-filter: blur(5px); background-color: rgba(0, 0, 0, 0.39); height: 100%; width: 100%; opacity: 1"
+                            div.framer-hfuotp-container style="opacity: 1"
+                              a.framer-1RMtz.framer-1oto7d7.framer-v-1oto7d7.framer-13l8g7p [Variant 1] href=./projects/family-haven/
+                                div.framer-1k85wgo [Text]
+                                  p.framer-text
+                                    "View Project"
+                                div.framer-1kvpqiy-container style="opacity: 1"
+                                  div
+                                    div style="width: 33px; height: 33px; border-radius: 50%; overflow: hidden"
+                                      div
+                                        div
+                div.framer-1bnxjv.hidden-gf9ou0.hidden-1g9k2v9
+                div.framer-1t7z7jg.hidden-gf9ou0.hidden-1g9k2v9
+        section.framer-is74mn [Services ]
+          div.framer-1reqtqd [Services]
+            div.ssr-variant.hidden-1g9k2v9
+              div.framer-18futtt style="transform: none"
+                h2.framer-text.framer-styles-preset-48d53 style="--framer-text-alignment: center"
+                  "WHAT WE DO"
+            div.ssr-variant.hidden-gf9ou0.hidden-1g9k2v9
+              div.framer-1hjn8f9 [Services 3]
+                div.framer-rqxyvn-container
+                  div.framer-Cibzq.framer-1xb6h6x.framer-v-1xb6h6x [Service 1] style="width: 100%; opacity: 1"
+                    div.framer-19l195d style="opacity: 1"
+                      div.framer-gve1y6 [Services] style="--18l0xta: 1 0 0px; --1r8n1c0: 1px; --y6xi9c: row; opacity: 1"
+                        div.framer-ko3uc9-container style="opacity: 1"
+                          div.framer-4AjXH.framer-63HkM.framer-nsxryj.framer-v-nsxryj [Active]
+                            div.framer-bsosxj
+                              p.framer-text.framer-styles-preset-piej36 style="--framer-text-color: var(--extracted-r6o4lv, var(--token-e1bc1f5a-8498-49bf-9b3c-fcb2a0fd6f00, rgb(255, 255, 255)))"
+                                "Residential"
+                        div.framer-1ofxkfw-container style="opacity: 1"
+                          div.framer-4AjXH.framer-63HkM.framer-nsxryj.framer-v-1bvv1uq [Inactive]
+                            div.framer-bsosxj
+                              p.framer-text.framer-styles-preset-piej36 style="--framer-text-color: var(--extracted-r6o4lv, var(--token-3ff1c3af-d0e9-4f21-8434-380760732dd4, rgb(84, 84, 84)))"
+                                "Commercial"
+                    div.framer-139be8y style="border-radius: 24px; box-shadow: 0px 0px 0px 1px var(--token-83576c6d-486a-4974-ab02-7017628e9739, rgb(150, 128, 113)); opacity: 1"
+                      div.framer-1qu1i3i
+                        div.framer-19z8g5-container style="opacity: 1"
+                          div.framer-tClvd.framer-oPDLJ.framer-63HkM.framer-nac5ny.framer-v-nac5ny [Left]
+                            div.framer-19u51tf [Details]
+                              div.framer-1t26waq [Title]
+                                div.framer-d6BUc.framer-1envj8o style="--syh4gt: var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(10, 10, 10)); opacity: 1"
+                                div.framer-1il4qad
+                                  h3.framer-text.framer-styles-preset-1pr57h3 style="--framer-text-alignment: center; --framer-text-color: var(--extracted-a0htzi, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                    "Residential"
+                              div.framer-wrbh73 style="--framer-link-text-color: rgb(0, 153, 255); --framer-link-text-decoration: underline; transform: none; opacity: 1"
+                                p.framer-text.framer-styles-preset-piej36
+                                  "We design homes for families of all sizes. From new furniture to a full remodel,"
+                              div.framer-1retxq5 [Description] style="opacity: 1"
+                                div.framer-1aqk2h-container style="opacity: 1"
+                                  a.framer-1RMtz.framer-1oto7d7.framer-v-1oto7d7.framer-13l8g7p [Variant 1] href=./contact/
+                                    div.framer-1k85wgo [Text]
+                                      p.framer-text
+                                        "Talk to Us Today"
+                                    div.framer-1kvpqiy-container style="opacity: 1"
+                                      div
+                                        div style="width: 33px; height: 33px; border-radius: 50%; overflow: hidden"
+                                          div
+                                            div
+                            div.framer-4nx753-container style="opacity: 1"
+                              div.framer-b5ust.framer-iql97e.framer-v-7piy8l [Playing video] style="height: 100%; width: 100%; border-radius: 0px; opacity: 1"
+                                div.framer-17aqcaw-container style="opacity: 1"
+                                  video src=./assets/videos/Jd6ASXPMm3T9JUWByIT4SG0xc4o-8d1286.mp4 style="cursor: auto; width: 100%; height: 100%; border-radius: 0px; display: block; object-fit: cover; background-color: rgba(0, 0, 0, 0); object-position: 50% 50%"
+                                div.framer-oqiqnb [Image] style="opacity: 0"
+                                  div style="position: absolute; border-radius: inherit; corner-shape: inherit; top: 0; right: 0; bottom: 0; left: 0"
+                                    img src=./assets/images/6COzd5XuJeONLjcQsiyDO0fmNAA-8ce5af.jpeg style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: right center; object-fit: cover"
+        div.framer-xqsuft [Line]
+          div.ssr-variant
+            div.framer-ofj00t [Desktop background] style="height: auto; aspect-ratio: 4.964968152866242"
+              div style="position: absolute; border-radius: inherit; corner-shape: inherit; top: 0; right: 0; bottom: 0; left: 0"
+                img src=./assets/images/6OvYtLHAWTYFEnAqT5IR4pMIo2g-28a8a8.png style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center; object-fit: cover"
+        section.framer-11ewfsl [Testimonial ]
+          div.framer-1tzidwz [Testimonial]
+            div.ssr-variant.hidden-1g9k2v9
+              div.framer-1r8nuuv style="transform: none"
+                h2.framer-text.framer-styles-preset-48d53 style="--framer-text-alignment: start; --framer-text-color: var(--token-e1bc1f5a-8498-49bf-9b3c-fcb2a0fd6f00, rgb(255, 255, 255))"
+                  "WHAT OUR CLIENTS SAY"
+            div.framer-btpfxp [Container Bottom]
+              div.framer-a76t6r [Column Right]
+                div.framer-9n9376 [Review Box]
+                  div.framer-gery36 [Logo]
+                    div.ssr-variant
+                      div.framer-9ms9kt-container
+                        div.framer-s5TNc.framer-1qjtxvc.framer-v-b3tynz [Google] style="opacity: 1"
+                          div.framer-12pdhq [Image] style="opacity: 1"
+                            div style="position: absolute; border-radius: inherit; corner-shape: inherit; top: 0; right: 0; bottom: 0; left: 0"
+                              img src=./assets/images/FZmmaU0xjYBGqxCuQchHFQlwEk-1bcf06.png style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center; object-fit: cover"
+                    div.framer-vky9qe style="transform: none"
+                      p.framer-text.framer-styles-preset-piej36 style="--framer-text-color: var(--token-e1bc1f5a-8498-49bf-9b3c-fcb2a0fd6f00, rgb(255, 255, 255))"
+                        "Google"
+                  div.framer-1ysxycp [Stars]
+                    div.framer-4zAy8.framer-1wfjcki
+                    div.framer-4zAy8.framer-1o4bpxb
+                    div.framer-4zAy8.framer-1hrg8lq
+                    div.framer-4zAy8.framer-xun66m
+                    div.framer-4zAy8.framer-p5fxbl
+                  div.framer-tusff3 [Text] style="transform: none"
+                    p.framer-text.framer-styles-preset-lqeg3j style="--framer-text-color: var(--token-e1bc1f5a-8498-49bf-9b3c-fcb2a0fd6f00, rgb(255, 255, 255))"
+                      "4.9/5 (200+ Reviews)"
+                div.ssr-variant
+                  div.framer-3lv6or-container
+                    a.framer-1RMtz.framer-1oto7d7.framer-v-1oto7d7.framer-13l8g7p [Variant 1] href=./testimonial/
+                      div.framer-1k85wgo [Text]
+                        p.framer-text
+                          "View al Reviews"
+                      div.framer-1kvpqiy-container style="opacity: 1"
+                        div style="height: 33px; width: 33px; background-color: transparent; display: flex; align-items: center; justify-content: center; gap: 0; overflow: visible; position: relative"
+                          div style="width: 33px; height: 33px; border-radius: 50%; overflow: hidden"
+                            div
+                              div
+              div.framer-15yna38-container
+                div.ssr-variant.hidden-gf9ou0.hidden-1g9k2v9
+                  section.framer-slideshow.framer-slideshow-axis-x
+                    div style="width: 100%; height: 100%; margin: 0; padding: inherit; position: absolute; inset: 0; overflow: hidden; border-radius: 0; user-select: none; perspective: 1200px"
+                      ul
+                        li style="display: contents"
+                          div.framer-15wfw95 style="flex-shrink: 0; user-select: none; width: calc(50% - 12.5px); height: 100%; opacity: 1; visibility: hidden; transform: none; transform-origin: 100% 50% 0px"
+                            div.framer-16mz0x4-container
+                              div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop] style="background-color: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(238, 230, 222)); height: 100%; width: 100%; border-radius: 24px; opacity: 1"
+                                div.framer-1r4lyeu [Text & Icon]
+                                  div.framer-w2rd9w [Text & Icon] style="border-radius: 90px; opacity: 1"
+                                    div style="position: absolute; border-radius: inherit; corner-shape: inherit; top: 0; right: 0; bottom: 0; left: 0"
+                                      img src=./assets/images/CCf9ZXNHdvj9abCByequTbvRYI-e90b07.jpg style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: 49% 31.9%; object-fit: cover"
+                                  div.framer-5nj9xp style="opacity: 1"
+                                    div.framer-b32r5z
+                                      p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                        "Lisa Thompson"
+                                    div.framer-1rgbdep [Star] style="opacity: 1"
+                                      div.framer-4zAy8.framer-17nsh46 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-o99zg3 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-13w8rhu style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-1ekiszw style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-gdpop7 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                div.framer-1ogq05j
+                                  p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                    ""Our kitchen looks beautiful now. The team worked carefully and finished the pro"
+                        li style="display: contents"
+                          div.framer-3gt3g8 style="flex-shrink: 0; user-select: none; width: calc(50% - 12.5px); height: 100%; opacity: 1; visibility: visible; transform: none; transform-origin: 100% 50% 0px"
+                            div.framer-v27v3c-container
+                              div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop] style="background-color: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(238, 230, 222)); height: 100%; width: 100%; border-radius: 24px; opacity: 1"
+                                div.framer-1r4lyeu [Text & Icon]
+                                  div.framer-w2rd9w [Text & Icon] style="border-radius: 90px; opacity: 1"
+                                    div style="position: absolute; border-radius: inherit; corner-shape: inherit; top: 0; right: 0; bottom: 0; left: 0"
+                                      img src=./assets/images/0zFcAQWGsGsQb16vo7UtTSpgZ44-fc5b83.jpg style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: 47.8% 40.6%; object-fit: cover"
+                                  div.framer-5nj9xp style="opacity: 1"
+                                    div.framer-b32r5z
+                                      p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                        "Michael Daniel"
+                                    div.framer-1rgbdep [Star] style="opacity: 1"
+                                      div.framer-4zAy8.framer-17nsh46 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-o99zg3 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-13w8rhu style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-1ekiszw style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-gdpop7 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                div.framer-1ogq05j
+                                  p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                    "“Our home feels brand new. The renovation opened up the space and made our bedro"
+                        li style="display: contents"
+                          div.framer-vxf96b style="flex-shrink: 0; user-select: none; width: calc(50% - 12.5px); height: 100%; opacity: 1; visibility: visible; transform: none; transform-origin: 100% 50% 0px"
+                            div.framer-97pebc-container
+                              div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop] style="background-color: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(238, 230, 222)); height: 100%; width: 100%; border-radius: 24px; opacity: 1"
+                                div.framer-1r4lyeu [Text & Icon]
+                                  div.framer-w2rd9w [Text & Icon] style="border-radius: 90px; opacity: 1"
+                                    div style="position: absolute; border-radius: inherit; corner-shape: inherit; top: 0; right: 0; bottom: 0; left: 0"
+                                      img src=./assets/images/DVxbRJYtO9u2XOVBTlemH2EFd0-850b0f.jpg style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: 53.6% 25.3%; object-fit: cover"
+                                  div.framer-5nj9xp style="opacity: 1"
+                                    div.framer-b32r5z
+                                      p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                        "Marcus R."
+                                    div.framer-1rgbdep [Star] style="opacity: 1"
+                                      div.framer-4zAy8.framer-17nsh46 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-o99zg3 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-13w8rhu style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-1ekiszw style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-gdpop7 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                div.framer-1ogq05j
+                                  p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                    "“Our old bathroom is completely transformed. The new shower and vanity look amaz"
+                        li style="display: contents"
+                          div.framer-1gj8mzq style="flex-shrink: 0; user-select: none; width: calc(50% - 12.5px); height: 100%; opacity: 1; visibility: visible; transform: none; transform-origin: 100% 50% 0px"
+                            div.framer-1nzpa5f-container
+                              div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop] style="background-color: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(238, 230, 222)); height: 100%; width: 100%; border-radius: 24px; opacity: 1"
+                                div.framer-1r4lyeu [Text & Icon]
+                                  div.framer-w2rd9w [Text & Icon] style="border-radius: 90px; opacity: 1"
+                                    div style="position: absolute; border-radius: inherit; corner-shape: inherit; top: 0; right: 0; bottom: 0; left: 0"
+                                      img src=./assets/images/vRV0SewxhVXANq9cpM5NmXPfMw-99ee9e.jpg style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: 46.9% 43.1%; object-fit: cover"
+                                  div.framer-5nj9xp style="opacity: 1"
+                                    div.framer-b32r5z
+                                      p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                        "Daniel Von"
+                                    div.framer-1rgbdep [Star] style="opacity: 1"
+                                      div.framer-4zAy8.framer-17nsh46 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-o99zg3 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-13w8rhu style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-1ekiszw style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-gdpop7 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                div.framer-1ogq05j
+                                  p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                    ""The renovation opened up the space and made our kitchen and living area much br"
+                        li style="display: contents"
+                          div.framer-15wfw95 style="flex-shrink: 0; user-select: none; width: calc(50% - 12.5px); height: 100%; opacity: 1; visibility: visible; transform: none; transform-origin: 100% 50% 0px"
+                            div.framer-16mz0x4-container
+                              div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop] style="background-color: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(238, 230, 222)); height: 100%; width: 100%; border-radius: 24px; opacity: 1"
+                                div.framer-1r4lyeu [Text & Icon]
+                                  div.framer-w2rd9w [Text & Icon] style="border-radius: 90px; opacity: 1"
+                                    div style="position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px"
+                                      img src=./assets/images/CCf9ZXNHdvj9abCByequTbvRYI-e90b07.jpg style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: 49% 31.9%; object-fit: cover"
+                                  div.framer-5nj9xp style="opacity: 1"
+                                    div.framer-b32r5z
+                                      p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                        "Lisa Thompson"
+                                    div.framer-1rgbdep [Star] style="opacity: 1"
+                                      div.framer-4zAy8.framer-17nsh46 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-o99zg3 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-13w8rhu style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-1ekiszw style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-gdpop7 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                div.framer-1ogq05j
+                                  p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                    ""Our kitchen looks beautiful now. The team worked carefully and finished the pro"
+                        li style="display: contents"
+                          div.framer-3gt3g8 style="flex-shrink: 0; user-select: none; width: calc(50% - 12.5px); height: 100%; opacity: 1; visibility: visible; transform: none; transform-origin: 4.89716% 50% 0px"
+                            div.framer-v27v3c-container
+                              div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop] style="background-color: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(238, 230, 222)); height: 100%; width: 100%; border-radius: 24px; opacity: 1"
+                                div.framer-1r4lyeu [Text & Icon]
+                                  div.framer-w2rd9w [Text & Icon] style="border-radius: 90px; opacity: 1"
+                                    div style="position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px"
+                                      img src=./assets/images/0zFcAQWGsGsQb16vo7UtTSpgZ44-fc5b83.jpg style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: 47.8% 40.6%; object-fit: cover"
+                                  div.framer-5nj9xp style="opacity: 1"
+                                    div.framer-b32r5z
+                                      p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                        "Michael Daniel"
+                                    div.framer-1rgbdep [Star] style="opacity: 1"
+                                      div.framer-4zAy8.framer-17nsh46 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-o99zg3 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-13w8rhu style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-1ekiszw style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-gdpop7 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                div.framer-1ogq05j
+                                  p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                    "“Our home feels brand new. The renovation opened up the space and made our bedro"
+                        li style="display: contents"
+                          div.framer-vxf96b style="flex-shrink: 0; user-select: none; width: calc(50% - 12.5px); height: 100%; opacity: 1; visibility: visible; transform: none; transform-origin: 0% 50% 0px"
+                            div.framer-97pebc-container
+                              div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop] style="background-color: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(238, 230, 222)); height: 100%; width: 100%; border-radius: 24px; opacity: 1"
+                                div.framer-1r4lyeu [Text & Icon]
+                                  div.framer-w2rd9w [Text & Icon] style="border-radius: 90px; opacity: 1"
+                                    div style="position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px"
+                                      img src=./assets/images/DVxbRJYtO9u2XOVBTlemH2EFd0-850b0f.jpg style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: 53.6% 25.3%; object-fit: cover"
+                                  div.framer-5nj9xp style="opacity: 1"
+                                    div.framer-b32r5z
+                                      p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                        "Marcus R."
+                                    div.framer-1rgbdep [Star] style="opacity: 1"
+                                      div.framer-4zAy8.framer-17nsh46 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-o99zg3 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-13w8rhu style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-1ekiszw style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-gdpop7 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                div.framer-1ogq05j
+                                  p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                    "“Our old bathroom is completely transformed. The new shower and vanity look amaz"
+                        li style="display: contents"
+                          div.framer-1gj8mzq style="flex-shrink: 0; user-select: none; width: calc(50% - 12.5px); height: 100%; opacity: 1; visibility: visible; transform: none; transform-origin: 0% 50% 0px"
+                            div.framer-1nzpa5f-container
+                              div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop] style="background-color: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(238, 230, 222)); height: 100%; width: 100%; border-radius: 24px; opacity: 1"
+                                div.framer-1r4lyeu [Text & Icon]
+                                  div.framer-w2rd9w [Text & Icon] style="border-radius: 90px; opacity: 1"
+                                    div style="position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px"
+                                      img src=./assets/images/vRV0SewxhVXANq9cpM5NmXPfMw-99ee9e.jpg style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: 46.9% 43.1%; object-fit: cover"
+                                  div.framer-5nj9xp style="opacity: 1"
+                                    div.framer-b32r5z
+                                      p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                        "Daniel Von"
+                                    div.framer-1rgbdep [Star] style="opacity: 1"
+                                      div.framer-4zAy8.framer-17nsh46 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-o99zg3 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-13w8rhu style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-1ekiszw style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-gdpop7 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                div.framer-1ogq05j
+                                  p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                    ""The renovation opened up the space and made our kitchen and living area much br"
+                        li style="display: contents"
+                          div.framer-15wfw95 style="flex-shrink: 0; user-select: none; width: calc(50% - 12.5px); height: 100%; opacity: 1; visibility: visible; transform: none; transform-origin: 0% 50% 0px"
+                            div.framer-16mz0x4-container
+                              div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop] style="background-color: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(238, 230, 222)); height: 100%; width: 100%; border-radius: 24px; opacity: 1"
+                                div.framer-1r4lyeu [Text & Icon]
+                                  div.framer-w2rd9w [Text & Icon] style="border-radius: 90px; opacity: 1"
+                                    div style="position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px"
+                                      img src=./assets/images/CCf9ZXNHdvj9abCByequTbvRYI-e90b07.jpg style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: 49% 31.9%; object-fit: cover"
+                                  div.framer-5nj9xp style="opacity: 1"
+                                    div.framer-b32r5z
+                                      p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                        "Lisa Thompson"
+                                    div.framer-1rgbdep [Star] style="opacity: 1"
+                                      div.framer-4zAy8.framer-17nsh46 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-o99zg3 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-13w8rhu style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-1ekiszw style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-gdpop7 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                div.framer-1ogq05j
+                                  p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                    ""Our kitchen looks beautiful now. The team worked carefully and finished the pro"
+                        li style="display: contents"
+                          div.framer-3gt3g8 style="flex-shrink: 0; user-select: none; width: calc(50% - 12.5px); height: 100%; opacity: 1; visibility: hidden; transform: none; transform-origin: 0% 50% 0px"
+                            div.framer-v27v3c-container
+                              div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop] style="background-color: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(238, 230, 222)); height: 100%; width: 100%; border-radius: 24px; opacity: 1"
+                                div.framer-1r4lyeu [Text & Icon]
+                                  div.framer-w2rd9w [Text & Icon] style="border-radius: 90px; opacity: 1"
+                                    div style="position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px"
+                                      img src=./assets/images/0zFcAQWGsGsQb16vo7UtTSpgZ44-fc5b83.jpg style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: 47.8% 40.6%; object-fit: cover"
+                                  div.framer-5nj9xp style="opacity: 1"
+                                    div.framer-b32r5z
+                                      p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                        "Michael Daniel"
+                                    div.framer-1rgbdep [Star] style="opacity: 1"
+                                      div.framer-4zAy8.framer-17nsh46 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-o99zg3 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-13w8rhu style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-1ekiszw style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-gdpop7 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                div.framer-1ogq05j
+                                  p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                    "“Our home feels brand new. The renovation opened up the space and made our bedro"
+                        li style="display: contents"
+                          div.framer-vxf96b style="flex-shrink: 0; user-select: none; width: calc(50% - 12.5px); height: 100%; opacity: 1; visibility: hidden; transform: none; transform-origin: 0% 50% 0px"
+                            div.framer-97pebc-container
+                              div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop] style="background-color: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(238, 230, 222)); height: 100%; width: 100%; border-radius: 24px; opacity: 1"
+                                div.framer-1r4lyeu [Text & Icon]
+                                  div.framer-w2rd9w [Text & Icon] style="border-radius: 90px; opacity: 1"
+                                    div style="position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px"
+                                      img src=./assets/images/DVxbRJYtO9u2XOVBTlemH2EFd0-850b0f.jpg style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: 53.6% 25.3%; object-fit: cover"
+                                  div.framer-5nj9xp style="opacity: 1"
+                                    div.framer-b32r5z
+                                      p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                        "Marcus R."
+                                    div.framer-1rgbdep [Star] style="opacity: 1"
+                                      div.framer-4zAy8.framer-17nsh46 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-o99zg3 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-13w8rhu style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-1ekiszw style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-gdpop7 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                div.framer-1ogq05j
+                                  p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                    "“Our old bathroom is completely transformed. The new shower and vanity look amaz"
+                        li style="display: contents"
+                          div.framer-1gj8mzq style="flex-shrink: 0; user-select: none; width: calc(50% - 12.5px); height: 100%; opacity: 1; visibility: hidden; transform: none; transform-origin: 0% 50% 0px"
+                            div.framer-1nzpa5f-container
+                              div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop] style="background-color: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(238, 230, 222)); height: 100%; width: 100%; border-radius: 24px; opacity: 1"
+                                div.framer-1r4lyeu [Text & Icon]
+                                  div.framer-w2rd9w [Text & Icon] style="border-radius: 90px; opacity: 1"
+                                    div style="position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px"
+                                      img src=./assets/images/vRV0SewxhVXANq9cpM5NmXPfMw-99ee9e.jpg style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: 46.9% 43.1%; object-fit: cover"
+                                  div.framer-5nj9xp style="opacity: 1"
+                                    div.framer-b32r5z
+                                      p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                        "Daniel Von"
+                                    div.framer-1rgbdep [Star] style="opacity: 1"
+                                      div.framer-4zAy8.framer-17nsh46 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-o99zg3 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-13w8rhu style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-1ekiszw style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-gdpop7 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                div.framer-1ogq05j
+                                  p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                    ""The renovation opened up the space and made our kitchen and living area much br"
+                        li style="display: contents"
+                          div.framer-15wfw95 style="flex-shrink: 0; user-select: none; width: calc(50% - 12.5px); height: 100%; opacity: 1; visibility: hidden; transform: none; transform-origin: 0% 50% 0px"
+                            div.framer-16mz0x4-container
+                              div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop] style="background-color: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(238, 230, 222)); height: 100%; width: 100%; border-radius: 24px; opacity: 1"
+                                div.framer-1r4lyeu [Text & Icon]
+                                  div.framer-w2rd9w [Text & Icon] style="border-radius: 90px; opacity: 1"
+                                    div style="position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px"
+                                      img src=./assets/images/CCf9ZXNHdvj9abCByequTbvRYI-e90b07.jpg style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: 49% 31.9%; object-fit: cover"
+                                  div.framer-5nj9xp style="opacity: 1"
+                                    div.framer-b32r5z
+                                      p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                        "Lisa Thompson"
+                                    div.framer-1rgbdep [Star] style="opacity: 1"
+                                      div.framer-4zAy8.framer-17nsh46 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-o99zg3 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-13w8rhu style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-1ekiszw style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-gdpop7 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                div.framer-1ogq05j
+                                  p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                    ""Our kitchen looks beautiful now. The team worked carefully and finished the pro"
+                        li style="display: contents"
+                          div.framer-3gt3g8 style="flex-shrink: 0; user-select: none; width: calc(50% - 12.5px); height: 100%; opacity: 1; visibility: hidden; transform: none; transform-origin: 0% 50% 0px"
+                            div.framer-v27v3c-container
+                              div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop] style="background-color: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(238, 230, 222)); height: 100%; width: 100%; border-radius: 24px; opacity: 1"
+                                div.framer-1r4lyeu [Text & Icon]
+                                  div.framer-w2rd9w [Text & Icon] style="border-radius: 90px; opacity: 1"
+                                    div style="position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px"
+                                      img src=./assets/images/0zFcAQWGsGsQb16vo7UtTSpgZ44-fc5b83.jpg style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: 47.8% 40.6%; object-fit: cover"
+                                  div.framer-5nj9xp style="opacity: 1"
+                                    div.framer-b32r5z
+                                      p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                        "Michael Daniel"
+                                    div.framer-1rgbdep [Star] style="opacity: 1"
+                                      div.framer-4zAy8.framer-17nsh46 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-o99zg3 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-13w8rhu style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-1ekiszw style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-gdpop7 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                div.framer-1ogq05j
+                                  p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                    "“Our home feels brand new. The renovation opened up the space and made our bedro"
+                        li style="display: contents"
+                          div.framer-vxf96b style="flex-shrink: 0; user-select: none; width: calc(50% - 12.5px); height: 100%; opacity: 1; visibility: hidden; transform: none; transform-origin: 0% 50% 0px"
+                            div.framer-97pebc-container
+                              div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop] style="background-color: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(238, 230, 222)); height: 100%; width: 100%; border-radius: 24px; opacity: 1"
+                                div.framer-1r4lyeu [Text & Icon]
+                                  div.framer-w2rd9w [Text & Icon] style="border-radius: 90px; opacity: 1"
+                                    div style="position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px"
+                                      img src=./assets/images/DVxbRJYtO9u2XOVBTlemH2EFd0-850b0f.jpg style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: 53.6% 25.3%; object-fit: cover"
+                                  div.framer-5nj9xp style="opacity: 1"
+                                    div.framer-b32r5z
+                                      p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                        "Marcus R."
+                                    div.framer-1rgbdep [Star] style="opacity: 1"
+                                      div.framer-4zAy8.framer-17nsh46 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-o99zg3 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-13w8rhu style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-1ekiszw style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-gdpop7 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                div.framer-1ogq05j
+                                  p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                    "“Our old bathroom is completely transformed. The new shower and vanity look amaz"
+                        li style="display: contents"
+                          div.framer-1gj8mzq style="flex-shrink: 0; user-select: none; width: calc(50% - 12.5px); height: 100%; opacity: 1; visibility: hidden; transform: none; transform-origin: 0% 50% 0px"
+                            div.framer-1nzpa5f-container
+                              div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop] style="background-color: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(238, 230, 222)); height: 100%; width: 100%; border-radius: 24px; opacity: 1"
+                                div.framer-1r4lyeu [Text & Icon]
+                                  div.framer-w2rd9w [Text & Icon] style="border-radius: 90px; opacity: 1"
+                                    div style="position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px"
+                                      img src=./assets/images/vRV0SewxhVXANq9cpM5NmXPfMw-99ee9e.jpg style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: 46.9% 43.1%; object-fit: cover"
+                                  div.framer-5nj9xp style="opacity: 1"
+                                    div.framer-b32r5z
+                                      p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                        "Daniel Von"
+                                    div.framer-1rgbdep [Star] style="opacity: 1"
+                                      div.framer-4zAy8.framer-17nsh46 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-o99zg3 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-13w8rhu style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-1ekiszw style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                      div.framer-4zAy8.framer-gdpop7 style="--frkg9v: rgb(250, 151, 39); opacity: 1"
+                                div.framer-1ogq05j
+                                  p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(0, 0, 0)))"
+                                    ""The renovation opened up the space and made our kitchen and living area much br"
+                    fieldset.framer--slideshow-controls
+                      div
+                        button
+                          img src=./assets/images/uXyJBPl3aO9UsHoQ4Ze6aLOM-53af7c.png
+                        button
+                          img src=./assets/images/u3fT3R5ryGuCv19Zr1do5gzbgno-d6d541.png
+        section.framer-dt0z7m [About]
+          div.framer-q2zqbz [About]
+            div.ssr-variant
+              div.framer-1s4sbxl [Image]
+                div style="position: absolute; border-radius: inherit; corner-shape: inherit; top: 0; right: 0; bottom: 0; left: 0"
+                  img src=./assets/images/e5IZ8hNvxlmSdymVUVaVlFRw-08a75c.jpg style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: 50.3% 40.7%; object-fit: cover"
+            div.framer-xsyr2o [About details]
+              div.framer-132l9qo style="transform: none"
+                h2.framer-text.framer-styles-preset-48d53
+                  "Meet Joanie"
+              div.framer-11eahk5 style="transform: none"
+                p.framer-text.framer-styles-preset-piej36
+                  "Joanie started this studio over 30 years ago. Since then, she's helped hundreds "
+              div.ssr-variant
+                div.framer-cpdiyb-container
+                  a.framer-1RMtz.framer-1oto7d7.framer-v-1oto7d7.framer-13l8g7p [Variant 1] href=./about/
+                    div.framer-1k85wgo [Text]
+                      p.framer-text
+                        "Learn More About Us"
+                    div.framer-1kvpqiy-container style="opacity: 1"
+                      div style="height: 33px; width: 33px; background-color: transparent; display: flex; align-items: center; justify-content: center; gap: 0; overflow: visible; position: relative"
+                        div style="width: 33px; height: 33px; border-radius: 50%; overflow: hidden"
+                          div
+                            div
+        div.framer-qs1bgd [Line]
+          div.ssr-variant
+            div.framer-8hdjha [Desktop background] style="height: auto; aspect-ratio: 25.557377049180328"
+              div style="position: absolute; border-radius: inherit; corner-shape: inherit; top: 0; right: 0; bottom: 0; left: 0"
+                img src=./assets/images/sI0bco2opGtbrzyBHwn0AQJAlD0-f386cc.png style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center; object-fit: cover"
+        section.framer-1702m92 [Process ]
+          div.framer-6abaur [Process]
+            div.ssr-variant.hidden-1g9k2v9
+              div.framer-qmha03 style="transform: none"
+                h2.framer-text.framer-styles-preset-48d53 style="--framer-text-alignment: center; --framer-text-color: var(--token-f2dc4843-1d06-43ac-9b40-3e998873a17c, rgb(0, 0, 0))"
+                  "HOW WE GET IT DONE"
+            div.framer-6fqgmj [Proces]
+              div.framer-gun7vn.hidden-1g9k2v9 [1]
+                div.framer-h0jhd6 style="transform: none"
+                  h4.framer-text.framer-styles-preset-1nvzv7u style="--framer-text-color: var(--token-e1bc1f5a-8498-49bf-9b3c-fcb2a0fd6f00, rgb(255, 255, 255))"
+                    "01"
+              div.ssr-variant.hidden-gf9ou0.hidden-1g9k2v9
+                div.framer-1gjelnp-container
+                  div.framer-WvO6S.framer-oPDLJ.framer-63HkM.framer-1f0rqrl.framer-v-hy0iiu [Left 2]
+                    div.framer-1mia9px [Steps] style="opacity: 1"
+                      div.framer-4le8pe-container style="opacity: 1"
+                        div.framer-ypCPq.framer-1f5afh3.framer-v-1f5afh3 [Dot 1] style="opacity: 1"
+                          div.framer-LrXqP.framer-1q688l4 style="--frkg9v: var(--token-440156fa-50ac-4faf-baf1-398af31f7753, rgb(207, 48, 0)); opacity: 1"
+                          div.framer-LrXqP.framer-19cmjwz style="--frkg9v: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(238, 230, 222)); opacity: 1"
+                          div.framer-LrXqP.framer-f0qvcj style="--frkg9v: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(238, 230, 222)); opacity: 1"
+                          div.framer-LrXqP.framer-lyxc73 style="--frkg9v: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(238, 230, 222)); opacity: 1"
+                      div.framer-qjcgj6 [Open] style="opacity: 1"
+                        div.framer-zljlbb
+                          h3.framer-text.framer-styles-preset-1pr57h3 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-a0htzi, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(10, 10, 10)))"
+                            "Talk to Us"
+                        div.framer-1ymdlu8 [Line] style="background-color: var(--token-83576c6d-486a-4974-ab02-7017628e9739, rgb(150, 128, 113)); border-radius: 90px; opacity: 1"
+                        div.framer-1ygdxl9
+                          p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-3ff1c3af-d0e9-4f21-8434-380760732dd4, rgb(71, 71, 71)))"
+                            "Tell us about your project and what you need."
+                    div.framer-1ml6ti3 [Video] style="mask: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 6%, rgb(0, 0, 0) 100%); opacity: 1"
+                      div.framer-1hrju11-container style="opacity: 1"
+                        video src=./assets/videos/Q2Nvlc7p3y5ZTqJlbQKgyg8lJUc-ad9b80.mp4 style="cursor: auto; width: 100%; height: 100%; border-radius: 0px; display: block; object-fit: cover; background-color: rgba(0, 0, 0, 0); object-position: 50% 50%"
+                    div.framer-qpps6w-container style="opacity: 1"
+                      div.framer-JrwUD.framer-1vg3pox.framer-v-1vg3pox [Progress Bar] style="height: 100%; width: 100%; opacity: 1"
+                        div.framer-xq09dt [Container] style="background-color: var(--token-3b0e5039-05df-4d34-a3f8-aa47210d6ab4, rgb(209, 209, 209)); opacity: 1"
+                          div.framer-1scwecl [Progress filler] style="background-color: var(--token-83576c6d-486a-4974-ab02-7017628e9739, rgb(150, 128, 113)); will-change: transform; opacity: 1; transform: none"
+              div.framer-m8v6lc.hidden-1g9k2v9 [2]
+                div.framer-mmyz1r style="transform: none"
+                  h4.framer-text.framer-styles-preset-1nvzv7u style="--framer-text-color: var(--token-e1bc1f5a-8498-49bf-9b3c-fcb2a0fd6f00, rgb(255, 255, 255))"
+                    "02"
+              div.ssr-variant.hidden-gf9ou0.hidden-1g9k2v9
+                div.framer-fva6ax-container style="will-change: transform; opacity: 1; transform: none"
+                  div.framer-WvO6S.framer-oPDLJ.framer-63HkM.framer-1f0rqrl.framer-v-hy0iiu [Left 2]
+                    div.framer-1mia9px [Steps] style="opacity: 1"
+                      div.framer-4le8pe-container style="opacity: 1"
+                        div.framer-ypCPq.framer-1f5afh3.framer-v-noe4p5 [Dot 2] style="opacity: 1"
+                          div.framer-LrXqP.framer-1q688l4 style="--frkg9v: var(--token-440156fa-50ac-4faf-baf1-398af31f7753, rgb(207, 48, 0)); opacity: 1"
+                          div.framer-LrXqP.framer-19cmjwz style="--frkg9v: var(--token-440156fa-50ac-4faf-baf1-398af31f7753, rgb(207, 48, 0)); opacity: 1"
+                          div.framer-LrXqP.framer-f0qvcj style="--frkg9v: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(238, 230, 222)); opacity: 1"
+                          div.framer-LrXqP.framer-lyxc73 style="--frkg9v: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(238, 230, 222)); opacity: 1"
+                      div.framer-qjcgj6 [Open] style="opacity: 1"
+                        div.framer-zljlbb
+                          h3.framer-text.framer-styles-preset-1pr57h3 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-a0htzi, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(10, 10, 10)))"
+                            "Plan Your Design"
+                        div.framer-1ymdlu8 [Line] style="background-color: var(--token-83576c6d-486a-4974-ab02-7017628e9739, rgb(150, 128, 113)); border-radius: 90px; opacity: 1"
+                        div.framer-1ygdxl9
+                          p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-3ff1c3af-d0e9-4f21-8434-380760732dd4, rgb(71, 71, 71)))"
+                            "We create a design plan made just for your space.We create a design plan made ju"
+                    div.framer-1ml6ti3 [Video] style="mask: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 6%, rgb(0, 0, 0) 100%); opacity: 1"
+                      div.framer-1hrju11-container style="opacity: 1"
+                        video src=./assets/videos/bK3qDdQJW3v6ZtLGQ1iESR1DNwE-778053.mp4 style="cursor: auto; width: 100%; height: 100%; border-radius: 0px; display: block; object-fit: cover; background-color: rgba(0, 0, 0, 0); object-position: 50% 50%"
+                    div.framer-qpps6w-container style="opacity: 1"
+                      div.framer-JrwUD.framer-1vg3pox.framer-v-1vg3pox [Progress Bar] style="height: 100%; width: 100%; opacity: 1"
+                        div.framer-xq09dt [Container] style="background-color: var(--token-3b0e5039-05df-4d34-a3f8-aa47210d6ab4, rgb(209, 209, 209)); opacity: 1"
+                          div.framer-1scwecl [Progress filler] style="background-color: var(--token-83576c6d-486a-4974-ab02-7017628e9739, rgb(150, 128, 113)); will-change: transform; opacity: 1; transform: none"
+              div.framer-t1fo78.hidden-1g9k2v9 [3]
+                div.framer-7t0iah style="transform: none"
+                  h4.framer-text.framer-styles-preset-1nvzv7u style="--framer-text-color: var(--token-e1bc1f5a-8498-49bf-9b3c-fcb2a0fd6f00, rgb(255, 255, 255))"
+                    "03"
+              div.ssr-variant.hidden-gf9ou0.hidden-1g9k2v9
+                div.framer-xpzsho-container style="will-change: transform; opacity: 1; transform: none"
+                  div.framer-WvO6S.framer-oPDLJ.framer-63HkM.framer-1f0rqrl.framer-v-hy0iiu [Left 2]
+                    div.framer-1mia9px [Steps] style="opacity: 1"
+                      div.framer-4le8pe-container style="opacity: 1"
+                        div.framer-ypCPq.framer-1f5afh3.framer-v-3rbst1 [Dot 3] style="opacity: 1"
+                          div.framer-LrXqP.framer-1q688l4 style="--frkg9v: var(--token-440156fa-50ac-4faf-baf1-398af31f7753, rgb(207, 48, 0)); opacity: 1"
+                          div.framer-LrXqP.framer-19cmjwz style="--frkg9v: var(--token-440156fa-50ac-4faf-baf1-398af31f7753, rgb(207, 48, 0)); opacity: 1"
+                          div.framer-LrXqP.framer-f0qvcj style="--frkg9v: var(--token-440156fa-50ac-4faf-baf1-398af31f7753, rgb(207, 48, 0)); opacity: 1"
+                          div.framer-LrXqP.framer-lyxc73 style="--frkg9v: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(238, 230, 222)); opacity: 1"
+                      div.framer-qjcgj6 [Open] style="opacity: 1"
+                        div.framer-zljlbb
+                          h3.framer-text.framer-styles-preset-1pr57h3 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-a0htzi, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(10, 10, 10)))"
+                            "Bring It to Life"
+                        div.framer-1ymdlu8 [Line] style="background-color: var(--token-83576c6d-486a-4974-ab02-7017628e9739, rgb(150, 128, 113)); border-radius: 90px; opacity: 1"
+                        div.framer-1ygdxl9
+                          p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-3ff1c3af-d0e9-4f21-8434-380760732dd4, rgb(71, 71, 71)))"
+                            "Our team handle the details, from furniture to final touches."
+                    div.framer-1ml6ti3 [Video] style="mask: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 6%, rgb(0, 0, 0) 100%); opacity: 1"
+                      div.framer-1hrju11-container style="opacity: 1"
+                        video src=./assets/videos/zVAbNiDcfmCezC2jmGLUMxoTZuA-ff4159.mp4 style="cursor: auto; width: 100%; height: 100%; border-radius: 0px; display: block; object-fit: cover; background-color: rgba(0, 0, 0, 0); object-position: 50% 50%"
+                    div.framer-qpps6w-container style="opacity: 1"
+                      div.framer-JrwUD.framer-1vg3pox.framer-v-1vg3pox [Progress Bar] style="height: 100%; width: 100%; opacity: 1"
+                        div.framer-xq09dt [Container] style="background-color: var(--token-3b0e5039-05df-4d34-a3f8-aa47210d6ab4, rgb(209, 209, 209)); opacity: 1"
+                          div.framer-1scwecl [Progress filler] style="background-color: var(--token-83576c6d-486a-4974-ab02-7017628e9739, rgb(150, 128, 113)); will-change: transform; opacity: 1; transform: none"
+              div.framer-1iydg2i.hidden-1g9k2v9 [3]
+                div.framer-m10cp6 style="transform: none"
+                  h4.framer-text.framer-styles-preset-1nvzv7u style="--framer-text-color: var(--token-e1bc1f5a-8498-49bf-9b3c-fcb2a0fd6f00, rgb(255, 255, 255))"
+                    "04"
+              div.ssr-variant.hidden-gf9ou0.hidden-1g9k2v9
+                div.framer-y1g0db-container style="will-change: transform; opacity: 1; transform: none"
+                  div.framer-WvO6S.framer-oPDLJ.framer-63HkM.framer-1f0rqrl.framer-v-hy0iiu [Left 2]
+                    div.framer-1mia9px [Steps] style="opacity: 1"
+                      div.framer-4le8pe-container style="opacity: 1"
+                        div.framer-ypCPq.framer-1f5afh3.framer-v-1xm53r2 [Dot 4] style="opacity: 1"
+                          div.framer-LrXqP.framer-1q688l4 style="--frkg9v: var(--token-440156fa-50ac-4faf-baf1-398af31f7753, rgb(207, 48, 0)); opacity: 1"
+                          div.framer-LrXqP.framer-19cmjwz style="--frkg9v: var(--token-440156fa-50ac-4faf-baf1-398af31f7753, rgb(207, 48, 0)); opacity: 1"
+                          div.framer-LrXqP.framer-f0qvcj style="--frkg9v: var(--token-440156fa-50ac-4faf-baf1-398af31f7753, rgb(207, 48, 0)); opacity: 1"
+                          div.framer-LrXqP.framer-lyxc73 style="--frkg9v: var(--token-440156fa-50ac-4faf-baf1-398af31f7753, rgb(207, 48, 0)); opacity: 1"
+                      div.framer-qjcgj6 [Open] style="opacity: 1"
+                        div.framer-zljlbb
+                          h3.framer-text.framer-styles-preset-1pr57h3 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-a0htzi, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(10, 10, 10)))"
+                            "Enjoy Your Space"
+                        div.framer-1ymdlu8 [Line] style="background-color: var(--token-83576c6d-486a-4974-ab02-7017628e9739, rgb(150, 128, 113)); border-radius: 90px; opacity: 1"
+                        div.framer-1ygdxl9
+                          p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-3ff1c3af-d0e9-4f21-8434-380760732dd4, rgb(71, 71, 71)))"
+                            "Move in and enjoy a space you love."
+                    div.framer-1ml6ti3 [Video] style="mask: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 6%, rgb(0, 0, 0) 100%); opacity: 1"
+                      div.framer-1hrju11-container style="opacity: 1"
+                        video src=./assets/videos/WE9FEoCN5aN7vUsMRBQEO5Ldo-233fcd.mp4 style="cursor: auto; width: 100%; height: 100%; border-radius: 0px; display: block; object-fit: cover; background-color: rgba(0, 0, 0, 0); object-position: 50% 50%"
+                    div.framer-qpps6w-container style="opacity: 1"
+                      div.framer-JrwUD.framer-1vg3pox.framer-v-1vg3pox [Progress Bar] style="height: 100%; width: 100%; opacity: 1"
+                        div.framer-xq09dt [Container] style="background-color: var(--token-3b0e5039-05df-4d34-a3f8-aa47210d6ab4, rgb(209, 209, 209)); opacity: 1"
+                          div.framer-1scwecl [Progress filler] style="background-color: var(--token-83576c6d-486a-4974-ab02-7017628e9739, rgb(150, 128, 113)); will-change: transform; opacity: 1; transform: none"
+        section.framer-1uyjv2o [CTA]
+          div.framer-rsohhi [CTA]
+            div.ssr-variant
+              div.framer-13bnoov-container
+                div.framer-fP6Ow.framer-16enhd8.framer-v-16enhd8 [Variant 1] style="height: 100%; width: 100%; opacity: 1"
+                  div.framer-14j0gpl [Line 1] style="opacity: 1"
+                    div style="position: absolute; border-radius: inherit; corner-shape: inherit; top: 0; right: 0; bottom: 0; left: 0"
+                      img src=./assets/images/sI0bco2opGtbrzyBHwn0AQJAlD0-f386cc.png style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center; object-fit: cover"
+                  div.framer-1rzck3v [Line 1] style="transform: rotate(180deg); opacity: 1"
+                    div style="position: absolute; border-radius: inherit; corner-shape: inherit; top: 0; right: 0; bottom: 0; left: 0"
+                      img src=./assets/images/sI0bco2opGtbrzyBHwn0AQJAlD0-f386cc.png style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center; object-fit: cover"
+                  div.framer-1elh2zy [Line 2] style="opacity: 1"
+                    div style="position: absolute; border-radius: inherit; corner-shape: inherit; top: 0; right: 0; bottom: 0; left: 0"
+                      img src=./assets/images/0gyzzNVSTGk9CkIXJilYfPs0MT4-b8f758.png style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center; object-fit: cover"
+                  div.framer-1mkjpm9 [Line 2] style="transform: rotate(180deg); opacity: 1"
+                    div style="position: absolute; border-radius: inherit; corner-shape: inherit; top: 0; right: 0; bottom: 0; left: 0"
+                      img src=./assets/images/0gyzzNVSTGk9CkIXJilYfPs0MT4-b8f758.png style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center; object-fit: cover"
+            div.framer-13tnkqg [Title]
+              div.framer-zlb3gg style="transform: none"
+                h2.framer-text.framer-styles-preset-48d53 style="--framer-text-alignment: center; --framer-text-color: var(--token-f2dc4843-1d06-43ac-9b40-3e998873a17c, rgb(0, 0, 0))"
+                  "Ready to Love Your Space?"
+              div.ssr-variant.hidden-gf9ou0.hidden-1g9k2v9
+                div.framer-9f2biy style="transform: none"
+                  p.framer-text.framer-styles-preset-piej36 style="--framer-text-alignment: center; --framer-text-color: var(--token-f2dc4843-1d06-43ac-9b40-3e998873a17c, rgb(0, 0, 0))"
+                    "Tell us about your project. We'll help you bring it to life."
+              div.ssr-variant
+                div.framer-1bnw9vo-container
+                  a.framer-1RMtz.framer-1oto7d7.framer-v-1oto7d7.framer-13l8g7p [Variant 1] href=./contact/
+                    div.framer-1k85wgo [Text]
+                      p.framer-text
+                        "Talk to Us Today"
+                    div.framer-1kvpqiy-container style="opacity: 1"
+                      div style="height: 33px; width: 33px; background-color: transparent; display: flex; align-items: center; justify-content: center; gap: 0; overflow: visible; position: relative"
+                        div style="width: 33px; height: 33px; border-radius: 50%; overflow: hidden"
+                          div
+                            div
+            div.ssr-variant
+              div.framer-1nsir8t-container
+                div.framer-b5ust.framer-iql97e.framer-v-7piy8l [Playing video] style="height: 100%; width: 100%; border-radius: 0px; opacity: 1"
+                  div.framer-17aqcaw-container style="opacity: 1"
+                    video src=./assets/videos/fEi9fAY1naUnUOLp6ED33eaXA-fe0ad6.mp4 style="cursor: auto; width: 100%; height: 100%; border-radius: 0px; display: block; object-fit: cover; background-color: rgba(0, 0, 0, 0); object-position: 50% 50%"
+                  div.framer-oqiqnb [Image] style="opacity: 0"
+                    div style="position: absolute; border-radius: inherit; corner-shape: inherit; top: 0; right: 0; bottom: 0; left: 0"
+                      img src=./assets/images/6COzd5XuJeONLjcQsiyDO0fmNAA-8ce5af.jpeg style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: right center; object-fit: cover"
+        section.framer-1rgbut6 [FAQ ]
+          div.framer-epgoof [Faq]
+            div.ssr-variant.hidden-1g9k2v9
+              div.framer-sx4yiy style="transform: none"
+                h2.framer-text.framer-styles-preset-48d53 style="--framer-text-alignment: center; --framer-text-color: var(--token-f2dc4843-1d06-43ac-9b40-3e998873a17c, rgb(0, 0, 0))"
+                  "Common Questions"
+            div.ssr-variant.hidden-1g9k2v9
+              div.framer-1tvkv1r [FAQ] style="will-change: transform; opacity: 0.917449; transform: translateY(3.30205px)"
+                div.ssr-variant.hidden-gf9ou0
+                  div.framer-l77scq-container
+                    div.framer-1SZDZ.framer-63HkM.framer-smrk7p.framer-v-smrk7p [Closed] style="--7vlnpu: 32px; background-color: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(242, 242, 242)); width: 100%; border-radius: 24px; opacity: 1"
+                      div.framer-1fdsgxl [Heading Wrap] style="opacity: 1"
+                        div.framer-vkvcyx [Question]
+                          p.framer-text.framer-styles-preset-piej36 style="--framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(10, 10, 10)))"
+                            "How much does interior design cost?"
+                        div.framer-mFnGD.framer-nuf4w5 style="--frkg9v: var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(10, 10, 10)); opacity: 1"
+                div.ssr-variant.hidden-gf9ou0
+                  div.framer-bm4ppq-container
+                    div.framer-1SZDZ.framer-63HkM.framer-smrk7p.framer-v-smrk7p [Closed] style="--7vlnpu: 32px; background-color: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(242, 242, 242)); width: 100%; border-radius: 24px; opacity: 1"
+                      div.framer-1fdsgxl [Heading Wrap] style="opacity: 1"
+                        div.framer-vkvcyx [Question]
+                          p.framer-text.framer-styles-preset-piej36 style="--framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(10, 10, 10)))"
+                            "Do you work on small projects too?"
+                        div.framer-mFnGD.framer-nuf4w5 style="--frkg9v: var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(10, 10, 10)); opacity: 1"
+                div.ssr-variant.hidden-gf9ou0
+                  div.framer-1cblpfc-container
+                    div.framer-1SZDZ.framer-63HkM.framer-smrk7p.framer-v-smrk7p [Closed] style="--7vlnpu: 32px; background-color: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(242, 242, 242)); width: 100%; border-radius: 24px; opacity: 1"
+                      div.framer-1fdsgxl [Heading Wrap] style="opacity: 1"
+                        div.framer-vkvcyx [Question]
+                          p.framer-text.framer-styles-preset-piej36 style="--framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(10, 10, 10)))"
+                            "Do you only design homes?"
+                        div.framer-mFnGD.framer-nuf4w5 style="--frkg9v: var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(10, 10, 10)); opacity: 1"
+                div.ssr-variant.hidden-gf9ou0
+                  div.framer-1ypwnuj-container
+                    div.framer-1SZDZ.framer-63HkM.framer-smrk7p.framer-v-smrk7p [Closed] style="--7vlnpu: 32px; background-color: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(242, 242, 242)); width: 100%; border-radius: 24px; opacity: 1"
+                      div.framer-1fdsgxl [Heading Wrap] style="opacity: 1"
+                        div.framer-vkvcyx [Question]
+                          p.framer-text.framer-styles-preset-piej36 style="--framer-text-color: var(--extracted-r6o4lv, var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(10, 10, 10)))"
+                            "How long does a project take?"
+                        div.framer-mFnGD.framer-nuf4w5 style="--frkg9v: var(--token-1c069d64-0f1a-4cad-8d59-fde7488a587a, rgb(10, 10, 10)); opacity: 1"
+    div
+    div.framer-qszmmy
+    div.framer-r3gnis-container
+      div.ssr-variant.hidden-o1qzy2.hidden-o5e008
+        footer.framer-FmkBT.framer-oPDLJ.framer-exJWR.framer-63HkM.framer-KHSV5.framer-w4jy2q.framer-v-w4jy2q [Desktop] style="width: 100%; opacity: 1"
+          div.framer-1xe6utx [Line] style="opacity: 1"
+            div.framer-1vbaoll [Desktop background] style="height: auto; aspect-ratio: 4.96497 / 1; opacity: 1"
+              div style="position: absolute; border-radius: inherit; corner-shape: inherit; top: 0; right: 0; bottom: 0; left: 0"
+                img src=./assets/images/6OvYtLHAWTYFEnAqT5IR4pMIo2g-28a8a8.png style="display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center; object-fit: cover"
+          div.framer-1xw59xx style="background-color: var(--token-83576c6d-486a-4974-ab02-7017628e9739, rgb(150, 128, 113)); opacity: 1"
+            div.framer-1kes3zb [Footer] style="opacity: 1"
+              div.framer-1ba82ly [Tab 1] style="border-top-left-radius: 10px; border-top-right-radius: 10px; opacity: 1"
+                div.framer-7e5kf4 [Let's Talk] style="background-color: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(238, 230, 222)); border-radius: 24px; opacity: 1"
+                  div.framer-s362uv
+                    h3.framer-text.framer-styles-preset-1pr57h3 style="--framer-text-color: var(--extracted-a0htzi, var(--token-f2dc4843-1d06-43ac-9b40-3e998873a17c, rgb(0, 0, 0)))"
+                      "Ready to Love Your Space?"
+                  div.framer-1p4if9z-container style="opacity: 1"
+                    a.framer-uKWHf.framer-mh7fy.framer-v-mh7fy.framer-2mr8ng [Variant 1] href=./contact/
+                      div.framer-nym2w0 [Text]
+                        p.framer-text
+                          "Talk to Us Today"
+                      div.framer-3e0xtv-container style="opacity: 1"
+                        div style="height: 33px; width: 33px; background-color: transparent; display: flex; align-items: center; justify-content: center; gap: 0; overflow: visible; position: relative"
+                          div style="width: 33px; height: 33px; border-radius: 50%; overflow: hidden"
+                            div
+                              div
+              div.framer-qvdxy4 [Tab 1] style="border-top-left-radius: 10px; border-top-right-radius: 10px; opacity: 1"
+                div.framer-1a2m6no [Pages] style="opacity: 1"
+                  div.framer-1z0ewzl
+                    h4.framer-text.framer-styles-preset-1nvzv7u style="--framer-text-color: var(--extracted-1eung3n, var(--token-e1bc1f5a-8498-49bf-9b3c-fcb2a0fd6f00, rgb(255, 255, 255)))"
+                      "Pages"
+                  div.framer-1dwx1w2-container style="opacity: 1"
+                    a.framer-iVgkc.framer-CDupi.framer-12u9znr.framer-v-12u9znr.framer-a4n2hj [Button] href=./ style="width: 100%; opacity: 1"
+                      div.framer-1k8gs4i style="--extracted-r6o4lv: var(--token-8bfd3697-f19e-4049-865a-11224877104d, rgb(224, 224, 224)); transform: none; opacity: 1"
+                        p.framer-text.framer-styles-preset-lqeg3j style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-8bfd3697-f19e-4049-865a-11224877104d, rgb(224, 224, 224)))"
+                          "Home"
+                  div.framer-1nvw984-container style="opacity: 1"
+                    a.framer-iVgkc.framer-CDupi.framer-12u9znr.framer-v-12u9znr.framer-a4n2hj [Button] href=./about/ style="width: 100%; opacity: 1"
+                      div.framer-1k8gs4i style="--extracted-r6o4lv: var(--token-8bfd3697-f19e-4049-865a-11224877104d, rgb(224, 224, 224)); transform: none; opacity: 1"
+                        p.framer-text.framer-styles-preset-lqeg3j style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-8bfd3697-f19e-4049-865a-11224877104d, rgb(224, 224, 224)))"
+                          "About"
+                  div.framer-1i7gcfb-container style="opacity: 1"
+                    a.framer-iVgkc.framer-CDupi.framer-12u9znr.framer-v-12u9znr.framer-a4n2hj [Button] href=./projects/ style="width: 100%; opacity: 1"
+                      div.framer-1k8gs4i style="--extracted-r6o4lv: var(--token-8bfd3697-f19e-4049-865a-11224877104d, rgb(224, 224, 224)); transform: none; opacity: 1"
+                        p.framer-text.framer-styles-preset-lqeg3j style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-8bfd3697-f19e-4049-865a-11224877104d, rgb(224, 224, 224)))"
+                          "Projects"
+                  div.framer-1uvv465-container style="opacity: 1"
+                    a.framer-iVgkc.framer-CDupi.framer-12u9znr.framer-v-12u9znr.framer-a4n2hj [Button] href=./contact/ style="width: 100%; opacity: 1"
+                      div.framer-1k8gs4i style="--extracted-r6o4lv: var(--token-8bfd3697-f19e-4049-865a-11224877104d, rgb(224, 224, 224)); transform: none; opacity: 1"
+                        p.framer-text.framer-styles-preset-lqeg3j style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-8bfd3697-f19e-4049-865a-11224877104d, rgb(224, 224, 224)))"
+                          "Contact"
+                div.framer-19907dx [Pages] style="opacity: 1"
+                  div.framer-4qm65m
+                    h4.framer-text.framer-styles-preset-1nvzv7u style="--framer-text-color: var(--extracted-1eung3n, var(--token-e1bc1f5a-8498-49bf-9b3c-fcb2a0fd6f00, rgb(255, 255, 255)))"
+                      "Pages"
+                  div.framer-ti5ilj-container style="opacity: 1"
+                    a.framer-iVgkc.framer-CDupi.framer-12u9znr.framer-v-12u9znr.framer-a4n2hj [Button] href=./blog/ style="width: 100%; opacity: 1"
+                      div.framer-1k8gs4i style="--extracted-r6o4lv: var(--token-8bfd3697-f19e-4049-865a-11224877104d, rgb(224, 224, 224)); transform: none; opacity: 1"
+                        p.framer-text.framer-styles-preset-lqeg3j style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-8bfd3697-f19e-4049-865a-11224877104d, rgb(224, 224, 224)))"
+                          "Blog"
+                  div.framer-14f282h-container style="opacity: 1"
+                    a.framer-iVgkc.framer-CDupi.framer-12u9znr.framer-v-12u9znr.framer-a4n2hj [Button] style="width: 100%; opacity: 1"
+                      div.framer-1k8gs4i style="--extracted-r6o4lv: var(--token-8bfd3697-f19e-4049-865a-11224877104d, rgb(224, 224, 224)); transform: none; opacity: 1"
+                        p.framer-text.framer-styles-preset-lqeg3j style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-8bfd3697-f19e-4049-865a-11224877104d, rgb(224, 224, 224)))"
+                          "Testimonial"
+                  div.framer-l14ykg-container style="opacity: 1"
+                    a.framer-iVgkc.framer-CDupi.framer-12u9znr.framer-v-12u9znr.framer-a4n2hj [Button] href=./privacy/ style="width: 100%; opacity: 1"
+                      div.framer-1k8gs4i style="--extracted-r6o4lv: var(--token-8bfd3697-f19e-4049-865a-11224877104d, rgb(224, 224, 224)); transform: none; opacity: 1"
+                        p.framer-text.framer-styles-preset-lqeg3j style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-8bfd3697-f19e-4049-865a-11224877104d, rgb(224, 224, 224)))"
+                          "Privacy Policy"
+                  div.framer-1iaa9x5-container style="opacity: 1"
+                    a.framer-iVgkc.framer-CDupi.framer-12u9znr.framer-v-12u9znr.framer-a4n2hj [Button] href=./terms/ style="width: 100%; opacity: 1"
+                      div.framer-1k8gs4i style="--extracted-r6o4lv: var(--token-8bfd3697-f19e-4049-865a-11224877104d, rgb(224, 224, 224)); transform: none; opacity: 1"
+                        p.framer-text.framer-styles-preset-lqeg3j style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-8bfd3697-f19e-4049-865a-11224877104d, rgb(224, 224, 224)))"
+                          "Terms of service"
+                div.framer-58eh7b [Pages] style="opacity: 1"
+                  div.framer-v24jk1
+                    h4.framer-text.framer-styles-preset-1nvzv7u style="--framer-text-color: var(--extracted-1eung3n, var(--token-e1bc1f5a-8498-49bf-9b3c-fcb2a0fd6f00, rgb(255, 255, 255)))"
+                      "Contact"
+                  div.framer-1y28hx8-container style="opacity: 1"
+                    a.framer-iVgkc.framer-CDupi.framer-12u9znr.framer-v-12u9znr.framer-a4n2hj [Button] href=mailto:william@remodel.com style="width: 100%; opacity: 1"
+                      div.framer-1k8gs4i style="--extracted-r6o4lv: var(--token-8bfd3697-f19e-4049-865a-11224877104d, rgb(224, 224, 224)); transform: none; opacity: 1"
+                        p.framer-text.framer-styles-preset-lqeg3j style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-8bfd3697-f19e-4049-865a-11224877104d, rgb(224, 224, 224)))"
+                          "william@remodel.com"
+                  div.framer-13pqneb-container style="opacity: 1"
+                    a.framer-iVgkc.framer-CDupi.framer-12u9znr.framer-v-12u9znr.framer-a4n2hj [Button] href=tel:503 456 234 style="width: 100%; opacity: 1"
+                      div.framer-1k8gs4i style="--extracted-r6o4lv: var(--token-8bfd3697-f19e-4049-865a-11224877104d, rgb(224, 224, 224)); transform: none; opacity: 1"
+                        p.framer-text.framer-styles-preset-lqeg3j style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-8bfd3697-f19e-4049-865a-11224877104d, rgb(224, 224, 224)))"
+                          "503 456 234"
+                  div.framer-19vgo0r-container style="opacity: 1"
+                    a.framer-iVgkc.framer-CDupi.framer-12u9znr.framer-v-1aqs72f.framer-a4n2hj [Non Button] style="width: 100%; opacity: 1"
+                      div.framer-1k8gs4i style="--extracted-r6o4lv: var(--token-8bfd3697-f19e-4049-865a-11224877104d, rgb(224, 224, 224)); transform: none; opacity: 1"
+                        p.framer-text.framer-styles-preset-lqeg3j style="--framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, var(--token-8bfd3697-f19e-4049-865a-11224877104d, rgb(224, 224, 224)))"
+                          "14 Elm Street Dallas, TX"
+                div.framer-no4hua [Social] style="opacity: 1"
+                  div.framer-16vijbg-container style="opacity: 1"
+                    a.framer-G20vo.framer-ja0dx9.framer-v-ja0dx9.framer-1ln72lm [Social] href=https://www.instagram.com/deanofframer/ style="background-color: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(238, 230, 222)); border-radius: 8px; opacity: 1"
+                      div.framer-wqq0z.framer-1ywey2z style="--frkg9v: var(--token-f2dc4843-1d06-43ac-9b40-3e998873a17c, rgb(0, 0, 0)); opacity: 1"
+                  div.framer-1g4ocbp-container style="opacity: 1"
+                    a.framer-G20vo.framer-ja0dx9.framer-v-ja0dx9.framer-1ln72lm [Social] href=https://www.pinterest.com/michaelohakim/ style="background-color: var(--token-7252a629-7ca5-4ebc-89cf-7c3a72ac9391, rgb(238, 230, 222)); border-radius: 8px; opacity: 1"
+                      div.framer-JSCZt.framer-1ywey2z style="--frkg9v: var(--token-f2dc4843-1d06-43ac-9b40-3e998873a17c, rgb(0, 0, 0)); opacity: 1"
+              div.framer-1f14kek [Bottom]
+                div.framer-1k766yx
+                  p.framer-text.framer-styles-preset-piej36 style="--framer-text-color: var(--extracted-r6o4lv, var(--token-8bfd3697-f19e-4049-865a-11224877104d, rgb(224, 224, 224)))"
+                    "© 2026 Remodel. All rights reserved."
+                div.framer-dfegvb [Bottom Right] style="opacity: 1"
+                  div.framer-1pponez style="--extracted-3sq8v0: var(--token-e1bc1f5a-8498-49bf-9b3c-fcb2a0fd6f00, rgb(255, 255, 255)); transform: none; opacity: 1"
+                    p.framer-text.framer-styles-preset-piej36
+                      a.framer-text.framer-styles-preset-1owdf8i href=https://base.supply/
+                        "Website designed"
+                      span.framer-text style="--framer-text-color: var(--extracted-3sq8v0, var(--token-e1bc1f5a-8498-49bf-9b3c-fcb2a0fd6f00, rgb(255, 255, 255)))"
+                        "by"
+                      a.framer-text.framer-styles-preset-1owdf8i href=https://base.supply/
+                        "Dean"
+    div.framer-1vasls1-container.hidden-o5e008
+      div.framer-X1YKj.framer-1pn6038.framer-v-1pn6038 [Variant 1] style="width: 100%; opacity: 1"
+        div.framer-z6cv7z style="opacity: 1"
+          a.framer-10iaua4.framer-1hih7hh [Framer CTA] href=https://contra.com/payment-link/Y8auFCAz-remodel-interior-design-and-remodeling-template
+            div.framer-n59npa
+            div.framer-gqmctm style="opacity: 1"
+              div.framer-7e2hvc style="--extracted-r6o4lv: rgb(35, 31, 32); --framer-link-text-color: rgb(0, 153, 255); --framer-link-text-decoration: underline; transform: none; opacity: 1"
+                p.framer-text
+                  "Get Template"
+  div
+div
+  a.framer-6jWyo.framer-n0ccwk.framer-v-n0ccwk.framer-bmpgw8 [Light] href=https://www.framer.com appear=n0ccwk style="will-change: transform; pointer-events: auto; opacity: 1; transform: none"
+    div.framer-13yxzio [Backdrop]
+    div.framer-19yaanm [Content] style="transform: translate(-50%, -50%); opacity: 1"
+      div.framer-1kflzx5 style="opacity: 1"
+        div.framer-hcsc7.framer-e50co [Logo] style="--1bd4d3i: rgb(0, 0, 0); --otdjsv: rgb(0, 0, 0); transform: translateX(-50%); opacity: 1"
+      p style="position: absolute; transform: scale(0.001)"
+        "Create a free website with Framer, the website builder loved by startups, design"
+      div.framer-g7oZR.framer-1um7t9d [Text] style="--1bd4d3i: rgb(0, 0, 0); --otdjsv: rgb(0, 0, 0); opacity: 1"
+    div.framer-j4ugry [Bottom]
+    div.framer-jnuwbw [Border]
+link href=./_cdn/framerusercontent.com/sites/5gs6DDauMdwTGLvasgoysK/rolldown-runtime.Dh6celcD.mjs
+link href=./_cdn/framerusercontent.com/sites/5gs6DDauMdwTGLvasgoysK/react.CV_3rBxD.mjs
+link href=./_cdn/framerusercontent.com/sites/5gs6DDauMdwTGLvasgoysK/motion.CdSRWwto.mjs
+link href=./_cdn/framerusercontent.com/sites/5gs6DDauMdwTGLvasgoysK/framer.B0qnvVVY.mjs
+link href=./_cdn/framerusercontent.com/sites/5gs6DDauMdwTGLvasgoysK/Video.U_4p6n4p.mjs
+link href=./_cdn/framerusercontent.com/sites/5gs6DDauMdwTGLvasgoysK/bkgrGppuB.12ljnmEr.mjs
+link href=./_cdn/framerusercontent.com/sites/5gs6DDauMdwTGLvasgoysK/VvmuhjOg3.CnhC2qnN.mjs
+link href=./_cdn/framerusercontent.com/sites/5gs6DDauMdwTGLvasgoysK/shared-lib.Cj7Z24jQ.mjs
+link href=./_cdn/framerusercontent.com/sites/5gs6DDauMdwTGLvasgoysK/LMC_cBw2g.D70d3_Gp.mjs
+link href=./_cdn/framerusercontent.com/sites/5gs6DDauMdwTGLvasgoysK/hMoFYBqBy.K_wxjvR_.mjs
+link href=./_cdn/framerusercontent.com/sites/5gs6DDauMdwTGLvasgoysK/FollowEyes.DwcgK6ML.mjs
+link href=./_cdn/framerusercontent.com/sites/5gs6DDauMdwTGLvasgoysK/V9OZ6_mnD.BxSVB-QQ.mjs
+link href=./_cdn/framerusercontent.com/sites/5gs6DDauMdwTGLvasgoysK/WtX7HRPZM.D8xtSTXa.mjs
+link href=./_cdn/framerusercontent.com/sites/5gs6DDauMdwTGLvasgoysK/FQBtVWcCo.CBF2cXz1.mjs
+link href=./_cdn/framerusercontent.com/sites/5gs6DDauMdwTGLvasgoysK/t9D5PO_Pi.BbW8k6cw.mjs
+link href=./_cdn/framerusercontent.com/sites/5gs6DDauMdwTGLvasgoysK/gnuKH74P261OecDAc2JZ4CMqeTCT9a39UYLhRR6LmRM.BMpR5ldT.mjs
+link href=./_cdn/framerusercontent.com/sites/5gs6DDauMdwTGLvasgoysK/SmoothScroll_Prod.Bhb8D5E4.mjs
+link href=./_cdn/framerusercontent.com/sites/5gs6DDauMdwTGLvasgoysK/jB0eAZmvy.ylPqY2bS.mjs
+link href=./_cdn/framerusercontent.com/sites/5gs6DDauMdwTGLvasgoysK/yFo8aBv4g.CDm4UcUB.mjs
+link href=./_cdn/framerusercontent.com/sites/5gs6DDauMdwTGLvasgoysK/DMpBbyHb7.BNvAhe-t.mjs
+link href=./_cdn/framerusercontent.com/sites/5gs6DDauMdwTGLvasgoysK/xkuDZX1Be.tC0B3uOh.mjs
+link href=./_cdn/framerusercontent.com/sites/5gs6DDauMdwTGLvasgoysK/WuP7CDxyd.DnZAHNor.mjs
+link href=./_cdn/framerusercontent.com/sites/5gs6DDauMdwTGLvasgoysK/pm71nQRwE.CsI16KIG.mjs
+link href=./_cdn/framerusercontent.com/sites/5gs6DDauMdwTGLvasgoysK/TLMK37qFm.CXt1_IWs.mjs
+link href=./_cdn/framerusercontent.com/sites/5gs6DDauMdwTGLvasgoysK/E4gGZbAar.BRLQzBk8.mjs
+link href=./_cdn/framerusercontent.com/sites/5gs6DDauMdwTGLvasgoysK/EYF7XgWx8.HeaxYFI7.mjs
+link href=./_cdn/framerusercontent.com/sites/5gs6DDauMdwTGLvasgoysK/uo0TFsfZI.BDHQN2Ps.mjs
+link href=./_cdn/framerusercontent.com/sites/5gs6DDauMdwTGLvasgoysK/IQYWcmTRMryVwqkYrpe4QkJsFjH8qC3AGEQ_Cj2EnsM.BdQFIuFb.mjs
+div style="position: absolute; overflow: hidden; bottom: 0; left: 0; width: 0; height: 0; z-index: 0; contain: strict"
+elevenlabs-convai
+iframe src=https://framer.com/edit?framerSiteId=d2ccfb3088023a5dd332d531c3337f379

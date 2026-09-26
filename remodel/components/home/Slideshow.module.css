@@ -1,0 +1,80 @@
+.slideshow {
+  --per-view: 2;
+  --gap: 25px;
+  position: relative;
+}
+
+.viewport {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  user-select: none;
+}
+
+.track {
+  display: flex;
+  align-items: center;
+  gap: var(--gap);
+  width: 100%;
+  height: 100%;
+  transform: translateX(
+    calc(-1 * var(--index) * ((100% - (var(--per-view) - 1) * var(--gap)) / var(--per-view) + var(--gap)))
+  );
+}
+
+.track[data-animate="true"] {
+  transition: transform var(--spring-slide);
+}
+
+.slide {
+  display: flex;
+  flex: none;
+  width: calc((100% - (var(--per-view) - 1) * var(--gap)) / var(--per-view));
+  height: 100%;
+}
+
+.slide > * {
+  flex: 1 0 0;
+  width: 1px;
+  height: 100%;
+}
+
+.controls {
+  position: absolute;
+  top: -100px;
+  right: 0;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.arrow {
+  display: block;
+  width: 35px;
+  height: 35px;
+  border-radius: 40px;
+  background-color: var(--color-surface);
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.arrow img {
+  width: 35px;
+  height: 35px;
+}
+
+@media (max-width: 1199.98px) {
+  .slideshow {
+    --per-view: 1;
+  }
+}
+
+@media (max-width: 809.98px) {
+  .controls {
+    top: auto;
+    bottom: -52px;
+    left: 0;
+    justify-content: center;
+    gap: 18px;
+  }
+}

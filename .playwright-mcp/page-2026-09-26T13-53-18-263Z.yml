@@ -1,0 +1,227 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e8]:
+      - link [ref=e10] [cursor=pointer]:
+        - /url: ./
+        - img "Company Logo" [ref=e12]
+      - generic [ref=e13] [cursor=pointer]
+    - main [ref=e17]:
+      - generic [ref=e27]:
+        - heading "Interior Design for Dallas Homes" [level=1] [ref=e29]
+        - paragraph [ref=e31]: We design beautiful homes for families in Dallas and Fort Worth.
+        - generic [ref=e32]:
+          - link [ref=e34] [cursor=pointer]:
+            - /url: ./contact
+            - paragraph [ref=e36]: Talk to Us Today
+          - paragraph [ref=e57]: 4.9/5 (200+ Reviews)
+      - generic [ref=e63]:
+        - generic [ref=e64]:
+          - generic [ref=e66]:
+            - generic [ref=e67]: "0.1"
+            - img "Google logo" [ref=e72]
+          - generic [ref=e74]:
+            - generic [ref=e75]: "0.1"
+            - paragraph [ref=e80]: Houzz
+        - generic [ref=e81]:
+          - generic [ref=e84]:
+            - paragraph [ref=e87]: "2024"
+            - paragraph [ref=e89]: Best of Houzz Design
+          - generic [ref=e93]:
+            - paragraph [ref=e96]: "2026"
+            - paragraph [ref=e98]: Best of Houzz Design
+          - generic [ref=e102]:
+            - paragraph [ref=e105]: "2025"
+            - paragraph [ref=e107]: Best of Houzz Service
+      - generic [ref=e110]:
+        - generic [ref=e111]:
+          - heading "SEE OUR WORK" [level=2] [ref=e113]
+          - link [ref=e115] [cursor=pointer]:
+            - /url: ./projects
+            - paragraph [ref=e117]: See all Projects
+        - generic [ref=e125]:
+          - generic [ref=e127]:
+            - img "Image of an interior designed Home" [ref=e131]
+            - generic [ref=e132]:
+              - heading "Quiet Retreat" [level=3] [ref=e134]
+              - link [ref=e136] [cursor=pointer]:
+                - /url: ./projects/quiet-retreat
+                - paragraph [ref=e138]: View Project
+          - generic [ref=e145]:
+            - img "Image of an interior designed room" [ref=e149]
+            - generic [ref=e150]:
+              - heading "Bright Office" [level=3] [ref=e152]
+              - link [ref=e154] [cursor=pointer]:
+                - /url: ./projects/bright-office
+                - paragraph [ref=e156]: View Project
+          - generic [ref=e163]:
+            - img "Image of an interior designed room" [ref=e167]
+            - generic [ref=e168]:
+              - heading "Family Haven" [level=3] [ref=e170]
+              - link [ref=e172] [cursor=pointer]:
+                - /url: ./projects/family-haven
+                - paragraph [ref=e174]: View Project
+      - generic [ref=e181]:
+        - heading "WHAT WE DO" [level=2] [ref=e183]
+        - generic [ref=e188]:
+          - generic [ref=e191] [cursor=pointer]:
+            - heading "Residential" [level=3] [ref=e195]
+            - paragraph [ref=e197]: We design homes for families of all sizes. From new furniture to a full remodel, we make your home feel like you
+            - link [ref=e200]:
+              - /url: ./contact
+              - paragraph [ref=e202]: Talk to Us Today
+          - heading "Commercial" [level=3] [ref=e220] [cursor=pointer]
+      - generic [ref=e225]:
+        - heading "WHAT OUR CLIENTS SAY" [level=2] [ref=e227]
+        - generic [ref=e228]:
+          - generic [ref=e229]:
+            - generic [ref=e230]:
+              - paragraph [ref=e237]: Google
+              - paragraph [ref=e245]: 4.9/5 (200+ Reviews)
+            - link [ref=e247] [cursor=pointer]:
+              - /url: ./testimonial
+              - paragraph [ref=e249]: View al Reviews
+          - generic [ref=e256]:
+            - list [ref=e258]:
+              - listitem [ref=e259]:
+                - generic [ref=e262]:
+                  - paragraph [ref=e269]: Marcus R.
+                  - paragraph [ref=e277]: “Our old bathroom is completely transformed. The new shower and vanity look amazing and the space feels much bigger.”
+              - listitem [ref=e278]:
+                - generic [ref=e281]:
+                  - paragraph [ref=e288]: Daniel Von
+                  - paragraph [ref=e296]: "\"The renovation opened up the space and made our kitchen and living area much brighter.”"
+              - listitem [ref=e297]:
+                - generic [ref=e300]:
+                  - generic [ref=e301]:
+                    - img "girl wearing black top selective focus photography" [ref=e304]
+                    - paragraph [ref=e307]: Lisa Thompson
+                  - paragraph [ref=e315]: "\"Our kitchen looks beautiful now. The team worked carefully and finished the project on schedule.\""
+              - listitem [ref=e316]:
+                - generic [ref=e319]:
+                  - paragraph [ref=e326]: Michael Daniel
+                  - paragraph [ref=e334]: “Our home feels brand new. The renovation opened up the space and made our bedroom and living area much brighter.”
+              - listitem [ref=e335]:
+                - generic [ref=e338]:
+                  - paragraph [ref=e345]: Marcus R.
+                  - paragraph [ref=e353]: “Our old bathroom is completely transformed. The new shower and vanity look amazing and the space feels much bigger.”
+            - group "Slideshow pagination controls":
+              - generic:
+                - button "Previous" [ref=e354] [cursor=pointer]:
+                  - img "Back Arrow" [ref=e355]
+                - button "Next" [ref=e356] [cursor=pointer]:
+                  - img "Next Arrow" [ref=e357]
+      - generic [ref=e359]:
+        - img "woman in white off shoulder dress" [ref=e362]
+        - generic [ref=e363]:
+          - heading "Meet Joanie" [level=2] [ref=e365]
+          - paragraph [ref=e367]: Joanie started this studio over 30 years ago. Since then, she's helped hundreds of families and businesses design spaces that feel just right. Her work has been featured in top magazines and has won awards year after year.
+          - link [ref=e369] [cursor=pointer]:
+            - /url: ./about
+            - paragraph [ref=e371]: Learn More About Us
+      - generic [ref=e381]:
+        - heading "HOW WE GET IT DONE" [level=2] [ref=e383]
+        - generic [ref=e384]:
+          - heading "01" [level=4] [ref=e387] [cursor=pointer]
+          - generic [ref=e397]:
+            - heading "Talk to Us" [level=3] [ref=e399]
+            - paragraph [ref=e402]: Tell us about your project and what you need.
+          - heading "02" [level=4] [ref=e412] [cursor=pointer]
+          - generic [ref=e422]:
+            - heading "Plan Your Design" [level=3] [ref=e424]
+            - paragraph [ref=e427]: We create a design plan made just for your space.We create a design plan made just for your space.
+          - heading "03" [level=4] [ref=e437] [cursor=pointer]
+          - generic [ref=e447]:
+            - heading "Bring It to Life" [level=3] [ref=e449]
+            - paragraph [ref=e452]: Our team handle the details, from furniture to final touches.
+          - heading "04" [level=4] [ref=e462] [cursor=pointer]
+          - generic [ref=e472]:
+            - heading "Enjoy Your Space" [level=3] [ref=e474]
+            - paragraph [ref=e477]: Move in and enjoy a space you love.
+      - generic [ref=e487]:
+        - heading "Ready to Love Your Space?" [level=2] [ref=e489]
+        - heading "Tell us about your project. We'll help you bring it to life." [level=3] [ref=e491]
+        - link [ref=e493] [cursor=pointer]:
+          - /url: ./contact
+          - paragraph [ref=e495]: Talk to Us Today
+      - generic [ref=e508]:
+        - heading "Common Questions" [level=2] [ref=e510]
+        - generic [ref=e511]:
+          - paragraph [ref=e516] [cursor=pointer]: How much does interior design cost?
+          - paragraph [ref=e522] [cursor=pointer]: Do you work on small projects too?
+          - paragraph [ref=e528] [cursor=pointer]: Do you only design homes?
+          - paragraph [ref=e534] [cursor=pointer]: How long does a project take?
+    - contentinfo [ref=e537]:
+      - generic [ref=e542]:
+        - generic [ref=e544]:
+          - heading "Ready to Love Your Space?" [level=3] [ref=e546]
+          - link [ref=e548] [cursor=pointer]:
+            - /url: ./contact
+            - paragraph [ref=e550]: Talk to Us Today
+        - generic [ref=e556]:
+          - generic [ref=e557]:
+            - heading "Pages" [level=4] [ref=e559]
+            - link [ref=e561] [cursor=pointer]:
+              - /url: ./
+              - paragraph [ref=e563]: Home
+            - link [ref=e565] [cursor=pointer]:
+              - /url: ./about
+              - paragraph [ref=e567]: About
+            - link [ref=e569] [cursor=pointer]:
+              - /url: ./projects
+              - paragraph [ref=e571]: Projects
+            - link [ref=e573] [cursor=pointer]:
+              - /url: ./contact
+              - paragraph [ref=e575]: Contact
+          - generic [ref=e576]:
+            - heading "Pages" [level=4] [ref=e578]
+            - link [ref=e580] [cursor=pointer]:
+              - /url: ./blog
+              - paragraph [ref=e582]: Blog
+            - paragraph [ref=e586] [cursor=pointer]: Testimonial
+            - link [ref=e588] [cursor=pointer]:
+              - /url: ./privacy
+              - paragraph [ref=e590]: Privacy Policy
+            - link [ref=e592] [cursor=pointer]:
+              - /url: ./terms
+              - paragraph [ref=e594]: Terms of service
+          - generic [ref=e595]:
+            - heading "Contact" [level=4] [ref=e597]
+            - link [ref=e599] [cursor=pointer]:
+              - /url: mailto:william@remodel.com
+              - paragraph [ref=e601]: william@remodel.com
+            - link [ref=e603] [cursor=pointer]:
+              - /url: tel:503 456 234
+              - paragraph [ref=e605]: 503 456 234
+            - paragraph [ref=e609]: 14 Elm Street Dallas, TX
+          - generic [ref=e610]:
+            - link [ref=e612] [cursor=pointer]:
+              - /url: https://www.instagram.com/deanofframer/
+            - link [ref=e615] [cursor=pointer]:
+              - /url: https://www.pinterest.com/michaelohakim/
+        - generic [ref=e617]:
+          - paragraph [ref=e619]: © 2026 Remodel. All rights reserved.
+          - paragraph [ref=e622]:
+            - link "Website designed" [ref=e623] [cursor=pointer]:
+              - /url: https://base.supply/
+            - text: by
+            - link "Dean" [ref=e624] [cursor=pointer]:
+              - /url: https://base.supply/
+    - link [ref=e628] [cursor=pointer]:
+      - /url: https://contra.com/payment-link/Y8auFCAz-remodel-interior-design-and-remodeling-template
+      - paragraph [ref=e632]: Get Template
+  - link [ref=e633] [cursor=pointer]:
+    - /url: https://www.framer.com
+    - paragraph [ref=e638]: Create a free website with Framer, the website builder loved by startups, designers and agencies.
+  - generic:
+    - generic:
+      - generic [ref=e640]:
+        - text: Powered by ElevenLabs
+        - link "Agents" [ref=e641] [cursor=pointer]:
+          - /url: https://elevenlabs.io/agents
+      - generic [ref=e647]:
+        - paragraph [ref=e648]: Need help?
+        - button "Start a call" [ref=e650] [cursor=pointer]
+      - generic:
+        - generic: Is this response helpful?
+        - button "Yes"
+        - button "No"

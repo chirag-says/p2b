@@ -1,0 +1,989 @@
+div
+  div.framer-XnZTp.framer-1bk0vel
+    div.framer-ax14j6
+      div.framer-q8ya82-container
+        div.framer-4wUDf.framer-63HkM.framer-Dbitq.framer-19ddog0.framer-v-gen3hh [Phone Closed]
+          div.framer-evvopr [Container]
+            div.framer-vj7ewy [Logo & nav bar]
+              div.framer-cdb05x [Logo]
+                a.framer-rbovaf.framer-1bl1oel [Logo] href=./
+                  div
+                    img src=https://framerusercontent.com/images/HU0mN0pkyOiUymm1JMpPIrjQYSk.png?width=135&height=135
+              div.framer-14c1xyr [Menu]
+                div.framer-1vhen5f [Top]
+                div.framer-4j77lr [Bottom]
+    div.framer-ps6yJ.framer-Y7PzC.framer-63HkM.framer-CDupi.framer-D8sCW.framer-exJWR.framer-oPDLJ.framer-1bqzvwo
+      div.framer-um1u70-container
+        div
+      main.framer-yj12ww [Main]
+        section.framer-12svfce [Hero]
+          div.framer-134503r [Hero section]
+            div.framer-likbir-container
+              div.framer-AbRDk.framer-16ahd6p.framer-v-15gmy5e [Open]
+                div.framer-1koo5rq [Up]
+                  div.framer-12e1qeb
+                div.framer-1bgriju [Video]
+                  div.framer-15spl54-container
+                    video src=https://framerusercontent.com/assets/6WpUlqTWj1VFA4RNQ9snLmJxk.mp4
+            header.framer-1ugytsn [Header]
+              div.framer-mttbew
+                h1.framer-text.framer-styles-preset-1a5yxrz
+                  "Interior Design for Dallas Homes"
+              div.framer-1ncv6lw
+                p.framer-text.framer-styles-preset-piej36
+                  "We design beautiful homes for families in Dallas and Fort Worth."
+              div.framer-1ncfy0p [Button]
+                div.framer-h129pf-container
+                  a.framer-1RMtz.framer-1oto7d7.framer-v-1oto7d7.framer-13l8g7p [Variant 1] href=./contact
+                    div.framer-1k85wgo [Text]
+                      p.framer-text
+                        "Talk to Us Today"
+                    div.framer-1kvpqiy-container
+                      div
+                        div
+                          div
+                            div
+                div.framer-2ng5m5 [Review Box]
+                  div.framer-n15uoz [Logo]
+                    div.framer-1l7huc6-container
+                      div.framer-s5TNc.framer-1qjtxvc.framer-v-b3tynz [Google]
+                        div.framer-12pdhq [Image]
+                          div
+                            img src=https://framerusercontent.com/images/FZmmaU0xjYBGqxCuQchHFQlwEk.png?width=640&height=640
+                  div.framer-deo1ze [Google]
+                    div.framer-1s17e5 [Stars]
+                      div.framer-4zAy8.framer-1paz4wb
+                      div.framer-4zAy8.framer-1uh7toj
+                      div.framer-4zAy8.framer-e9fw3e
+                      div.framer-4zAy8.framer-1ojpa3p
+                      div.framer-4zAy8.framer-1g1928s
+                    div.framer-1vluiyz
+                      div.framer-2avqfz [Text]
+                        p.framer-text.framer-styles-preset-lqeg3j
+                          "4.9/5 (200+ Reviews)"
+        section.framer-wr6vb9 [Reviews]
+          div.framer-191re8y [Reviews]
+            div.framer-102g4nl [Line]
+              div.framer-1432ykq [Desktop background]
+                div
+                  img src=https://framerusercontent.com/images/sI0bco2opGtbrzyBHwn0AQJAlD0.png?width=3118&height=122
+            div.framer-ap6824 [Houzz]
+              div.framer-1iba9p7 [Ratings]
+                div.framer-1omm9fn-container
+                  div.framer-0TpM8.framer-xn28h5.framer-v-s0dlqo [Desktop 2]
+                    div.framer-57ni19-container
+                      div
+                        "5.0"
+                    div.framer-14oz5pt [Image]
+                      div.framer-6xflmk [Home advisor]
+                        div
+                          img src=https://framerusercontent.com/images/LjmZJ9uXcyr7VxCbjoNlhmWT9Cg.png?width=600&height=200
+                div.framer-3rzksu-container
+                  div.framer-0TpM8.framer-xn28h5.framer-v-178oqp6 [Houzz 2]
+                    div.framer-57ni19-container
+                      div
+                        "5.0"
+                    div.framer-7i0qw3 [Logo]
+                      div.framer-v14fc.framer-11eosqw
+                      div.framer-mxoyds
+                        p.framer-text
+                          "Houzz"
+              div.framer-zw6ymq [Awards]
+                div.framer-18wn9yy-container
+                  div.framer-4eyHP.framer-63HkM.framer-okxGu.framer-1x2xa.framer-v-1x2xa [Design]
+                    div.framer-1sx173l [Tex]
+                      div.framer-v14fc.framer-vvp5nf
+                      div.framer-1wsu74o
+                        p.framer-text.framer-styles-preset-piej36
+                          "2024"
+                      div.framer-1cq0crh
+                        p.framer-text.framer-styles-preset-1w3vw8y
+                          "Best of Houzz Design"
+                    div.framer-mPRVA.framer-165n3zu
+                div.framer-g9mhbf-container
+                  div.framer-4eyHP.framer-63HkM.framer-okxGu.framer-1x2xa.framer-v-1x2xa [Design]
+                    div.framer-1sx173l [Tex]
+                      div.framer-v14fc.framer-vvp5nf
+                      div.framer-1wsu74o
+                        p.framer-text.framer-styles-preset-piej36
+                          "2026"
+                      div.framer-1cq0crh
+                        p.framer-text.framer-styles-preset-1w3vw8y
+                          "Best of Houzz Design"
+                    div.framer-mPRVA.framer-165n3zu
+                div.framer-1c5ttsl-container
+                  div.framer-4eyHP.framer-63HkM.framer-okxGu.framer-1x2xa.framer-v-13ihoto [Service]
+                    div.framer-1sx173l [Tex]
+                      div.framer-v14fc.framer-vvp5nf
+                      div.framer-1wsu74o
+                        p.framer-text.framer-styles-preset-piej36
+                          "2025"
+                      div.framer-1cq0crh
+                        p.framer-text.framer-styles-preset-1w3vw8y
+                          "Best of Houzz Service"
+                    div.framer-mPRVA.framer-165n3zu
+        section.framer-1xiq5b0 [Projects ]
+          div.framer-1alcj9b [Projects]
+            div.framer-1tvrgh [Title & Button]
+              div.framer-mh30dz
+                h2.framer-text.framer-styles-preset-48d53
+                  "SEE OUR WORK"
+              div.framer-o2s20h-container
+                a.framer-1RMtz.framer-1oto7d7.framer-v-1oto7d7.framer-13l8g7p [Variant 1] href=./projects
+                  div.framer-1k85wgo [Text]
+                    p.framer-text
+                      "See all Projects"
+                  div.framer-1kvpqiy-container
+                    div
+                      div
+                        div
+                          div
+            div.framer-tm3h9o [Projects]
+              div.framer-1n7lm09 [Projects]
+                div.framer-1ij94ov
+                  div.framer-e51lvl-container
+                    div.framer-P05TW.framer-exJWR.framer-oPDLJ.framer-1ozdky0.framer-v-1nzupnt [Mobile]
+                      div.framer-18jyjbs-container
+                        div.framer-O6K25.framer-CDupi.framer-okxGu.framer-1rjnxot.framer-v-1vi0ckx [Variant 4]
+                          div
+                            img src=https://framerusercontent.com/images/TbmHyQ7TTmZuM79UUZucYi8Qigw.jpeg?width=2752&height=15
+                          div.framer-w5aumw [Background]
+                            div.framer-m7zo2h
+                          div.framer-1bsxsno [Background]
+                            div.framer-a8juf
+                      div.framer-1sgpvvb [Tag]
+                        div.framer-8r7u37
+                          h3.framer-text.framer-styles-preset-1pr57h3
+                            "Quiet Retreat"
+                        div.framer-hfuotp-container
+                          a.framer-1RMtz.framer-1oto7d7.framer-v-1oto7d7.framer-13l8g7p [Variant 1] href=./projects/quiet-retreat
+                            div.framer-1k85wgo [Text]
+                              p.framer-text
+                                "View Project"
+                            div.framer-1kvpqiy-container
+                              div
+                                div
+                                  div
+                                    div
+                  div.framer-e51lvl-container
+                    div.framer-P05TW.framer-exJWR.framer-oPDLJ.framer-1ozdky0.framer-v-1nzupnt [Mobile]
+                      div.framer-18jyjbs-container
+                        div.framer-O6K25.framer-CDupi.framer-okxGu.framer-1rjnxot.framer-v-1vi0ckx [Variant 4]
+                          div
+                            img src=https://framerusercontent.com/images/ifBOIqm4Im7UR8o68qpdEJLpI.jpeg?width=2752&height=1536
+                          div.framer-w5aumw [Background]
+                            div.framer-m7zo2h
+                          div.framer-1bsxsno [Background]
+                            div.framer-a8juf
+                      div.framer-1sgpvvb [Tag]
+                        div.framer-8r7u37
+                          h3.framer-text.framer-styles-preset-1pr57h3
+                            "Bright Office"
+                        div.framer-hfuotp-container
+                          a.framer-1RMtz.framer-1oto7d7.framer-v-1oto7d7.framer-13l8g7p [Variant 1] href=./projects/bright-office
+                            div.framer-1k85wgo [Text]
+                              p.framer-text
+                                "View Project"
+                            div.framer-1kvpqiy-container
+                              div
+                                div
+                                  div
+                                    div
+                  div.framer-e51lvl-container
+                    div.framer-P05TW.framer-exJWR.framer-oPDLJ.framer-1ozdky0.framer-v-1nzupnt [Mobile]
+                      div.framer-18jyjbs-container
+                        div.framer-O6K25.framer-CDupi.framer-okxGu.framer-1rjnxot.framer-v-1vi0ckx [Variant 4]
+                          div
+                            img src=https://framerusercontent.com/images/AUTGBz2hD9eOP1DvdPxZKQezc.jpeg?width=2752&height=1536
+                          div.framer-w5aumw [Background]
+                            div.framer-m7zo2h
+                          div.framer-1bsxsno [Background]
+                            div.framer-a8juf
+                      div.framer-1sgpvvb [Tag]
+                        div.framer-8r7u37
+                          h3.framer-text.framer-styles-preset-1pr57h3
+                            "Family Haven"
+                        div.framer-hfuotp-container
+                          a.framer-1RMtz.framer-1oto7d7.framer-v-1oto7d7.framer-13l8g7p [Variant 1] href=./projects/family-haven
+                            div.framer-1k85wgo [Text]
+                              p.framer-text
+                                "View Project"
+                            div.framer-1kvpqiy-container
+                              div
+                                div
+                                  div
+                                    div
+        section.framer-is74mn [Services ]
+          div.framer-1reqtqd [Services]
+            div.framer-18futtt
+              h2.framer-text.framer-styles-preset-48d53
+                "WHAT WE DO"
+            div.framer-1hjn8f9 [Services 3]
+              div.framer-rqxyvn-container
+                div.framer-Cibzq.framer-1xb6h6x.framer-v-11uu2x7 [Mobile]
+                  div.framer-139be8y
+                    div.framer-1qu1i3i
+                      div.framer-19z8g5-container
+                        div.framer-tClvd.framer-oPDLJ.framer-63HkM.framer-nac5ny.framer-v-1swm6lz [Mobile open]
+                          div.framer-19u51tf [Details]
+                            div.framer-1t26waq [Title]
+                              div.framer-d6BUc.framer-1envj8o
+                              div.framer-1il4qad
+                                h3.framer-text.framer-styles-preset-1pr57h3
+                                  "Residential"
+                            div.framer-wrbh73
+                              p.framer-text.framer-styles-preset-piej36
+                                "We design homes for families of all sizes. From new furniture to a full remodel,"
+                            div.framer-1retxq5 [Description]
+                              div.framer-1aqk2h-container
+                                a.framer-1RMtz.framer-1oto7d7.framer-v-1oto7d7.framer-13l8g7p [Variant 1] href=./contact
+                                  div.framer-1k85wgo [Text]
+                                    p.framer-text
+                                      "Talk to Us Today"
+                                  div.framer-1kvpqiy-container
+                                    div
+                                      div
+                                        div
+                                          div
+                          div.framer-4nx753-container
+                            div.framer-b5ust.framer-iql97e.framer-v-7piy8l [Playing video]
+                              div.framer-17aqcaw-container
+                                video src=https://framerusercontent.com/assets/Jd6ASXPMm3T9JUWByIT4SG0xc4o.mp4
+                              div.framer-oqiqnb [Image]
+                                div
+                                  img src=https://framerusercontent.com/images/6COzd5XuJeONLjcQsiyDO0fmNAA.jpeg?width=2752&height=15
+                      div.framer-rx5a0-container
+                        div.framer-tClvd.framer-oPDLJ.framer-63HkM.framer-nac5ny.framer-v-1f893sh [Mobile close]
+                          div.framer-19u51tf [Details]
+                            div.framer-1t26waq [Title]
+                              div.framer-ffhBr.framer-1envj8o
+                              div.framer-1il4qad
+                                h3.framer-text.framer-styles-preset-1pr57h3
+                                  "Commercial"
+        div.framer-xqsuft [Line]
+          div.framer-ofj00t [Desktop background]
+            div
+              img src=https://framerusercontent.com/images/6OvYtLHAWTYFEnAqT5IR4pMIo2g.png?width=3118&height=628
+        section.framer-11ewfsl [Testimonial ]
+          div.framer-1tzidwz [Testimonial]
+            div.framer-1r8nuuv
+              h2.framer-text.framer-styles-preset-48d53
+                "WHAT OUR CLIENTS SAY"
+            div.framer-btpfxp [Container Bottom]
+              div.framer-a76t6r [Column Right]
+                div.framer-9n9376 [Review Box]
+                  div.framer-gery36 [Logo]
+                    div.framer-9ms9kt-container
+                      div.framer-s5TNc.framer-1qjtxvc.framer-v-b3tynz [Google]
+                        div.framer-12pdhq [Image]
+                          div
+                            img src=https://framerusercontent.com/images/FZmmaU0xjYBGqxCuQchHFQlwEk.png?width=640&height=640
+                    div.framer-vky9qe
+                      p.framer-text.framer-styles-preset-piej36
+                        "Google"
+                  div.framer-1ysxycp [Stars]
+                    div.framer-4zAy8.framer-1wfjcki
+                    div.framer-4zAy8.framer-1o4bpxb
+                    div.framer-4zAy8.framer-1hrg8lq
+                    div.framer-4zAy8.framer-xun66m
+                    div.framer-4zAy8.framer-p5fxbl
+                  div.framer-tusff3 [Text]
+                    p.framer-text.framer-styles-preset-lqeg3j
+                      "4.9/5 (200+ Reviews)"
+                div.framer-3lv6or-container
+                  a.framer-1RMtz.framer-1oto7d7.framer-v-1oto7d7.framer-13l8g7p [Variant 1] href=./testimonial
+                    div.framer-1k85wgo [Text]
+                      p.framer-text
+                        "View al Reviews"
+                    div.framer-1kvpqiy-container
+                      div
+                        div
+                          div
+                            div
+              div.framer-15yna38-container
+                section.framer-slideshow.framer-slideshow-axis-x
+                  div
+                    ul
+                      li
+                        div.framer-15wfw95
+                          div.framer-16mz0x4-container
+                            div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop]
+                              div.framer-1r4lyeu [Text & Icon]
+                                div.framer-w2rd9w [Text & Icon]
+                                  div
+                                    img src=https://framerusercontent.com/images/CCf9ZXNHdvj9abCByequTbvRYI.jpg?width=2760&height=3153
+                                div.framer-5nj9xp
+                                  div.framer-b32r5z
+                                    p.framer-text.framer-styles-preset-piej36
+                                      "Lisa Thompson"
+                                  div.framer-1rgbdep [Star]
+                                    div.framer-4zAy8.framer-17nsh46
+                                    div.framer-4zAy8.framer-o99zg3
+                                    div.framer-4zAy8.framer-13w8rhu
+                                    div.framer-4zAy8.framer-1ekiszw
+                                    div.framer-4zAy8.framer-gdpop7
+                              div.framer-1ogq05j
+                                p.framer-text.framer-styles-preset-piej36
+                                  ""Our kitchen looks beautiful now. The team worked carefully and finished the pro"
+                      li
+                        div.framer-3gt3g8
+                          div.framer-v27v3c-container
+                            div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop]
+                              div.framer-1r4lyeu [Text & Icon]
+                                div.framer-w2rd9w [Text & Icon]
+                                  div
+                                    img src=https://framerusercontent.com/images/0zFcAQWGsGsQb16vo7UtTSpgZ44.jpg?width=2808&height=225
+                                div.framer-5nj9xp
+                                  div.framer-b32r5z
+                                    p.framer-text.framer-styles-preset-piej36
+                                      "Michael Daniel"
+                                  div.framer-1rgbdep [Star]
+                                    div.framer-4zAy8.framer-17nsh46
+                                    div.framer-4zAy8.framer-o99zg3
+                                    div.framer-4zAy8.framer-13w8rhu
+                                    div.framer-4zAy8.framer-1ekiszw
+                                    div.framer-4zAy8.framer-gdpop7
+                              div.framer-1ogq05j
+                                p.framer-text.framer-styles-preset-piej36
+                                  "“Our home feels brand new. The renovation opened up the space and made our bedro"
+                      li
+                        div.framer-vxf96b
+                          div.framer-97pebc-container
+                            div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop]
+                              div.framer-1r4lyeu [Text & Icon]
+                                div.framer-w2rd9w [Text & Icon]
+                                  div
+                                    img src=https://framerusercontent.com/images/DVxbRJYtO9u2XOVBTlemH2EFd0.jpg?width=4928&height=3264
+                                div.framer-5nj9xp
+                                  div.framer-b32r5z
+                                    p.framer-text.framer-styles-preset-piej36
+                                      "Marcus R."
+                                  div.framer-1rgbdep [Star]
+                                    div.framer-4zAy8.framer-17nsh46
+                                    div.framer-4zAy8.framer-o99zg3
+                                    div.framer-4zAy8.framer-13w8rhu
+                                    div.framer-4zAy8.framer-1ekiszw
+                                    div.framer-4zAy8.framer-gdpop7
+                              div.framer-1ogq05j
+                                p.framer-text.framer-styles-preset-piej36
+                                  "“Our old bathroom is completely transformed. The new shower and vanity look amaz"
+                      li
+                        div.framer-1gj8mzq
+                          div.framer-1nzpa5f-container
+                            div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop]
+                              div.framer-1r4lyeu [Text & Icon]
+                                div.framer-w2rd9w [Text & Icon]
+                                  div
+                                    img src=https://framerusercontent.com/images/vRV0SewxhVXANq9cpM5NmXPfMw.jpg?width=4000&height=6000
+                                div.framer-5nj9xp
+                                  div.framer-b32r5z
+                                    p.framer-text.framer-styles-preset-piej36
+                                      "Daniel Von"
+                                  div.framer-1rgbdep [Star]
+                                    div.framer-4zAy8.framer-17nsh46
+                                    div.framer-4zAy8.framer-o99zg3
+                                    div.framer-4zAy8.framer-13w8rhu
+                                    div.framer-4zAy8.framer-1ekiszw
+                                    div.framer-4zAy8.framer-gdpop7
+                              div.framer-1ogq05j
+                                p.framer-text.framer-styles-preset-piej36
+                                  ""The renovation opened up the space and made our kitchen and living area much br"
+                      li
+                        div.framer-15wfw95
+                          div.framer-16mz0x4-container
+                            div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop]
+                              div.framer-1r4lyeu [Text & Icon]
+                                div.framer-w2rd9w [Text & Icon]
+                                  div
+                                    img src=https://framerusercontent.com/images/CCf9ZXNHdvj9abCByequTbvRYI.jpg?width=2760&height=3153
+                                div.framer-5nj9xp
+                                  div.framer-b32r5z
+                                    p.framer-text.framer-styles-preset-piej36
+                                      "Lisa Thompson"
+                                  div.framer-1rgbdep [Star]
+                                    div.framer-4zAy8.framer-17nsh46
+                                    div.framer-4zAy8.framer-o99zg3
+                                    div.framer-4zAy8.framer-13w8rhu
+                                    div.framer-4zAy8.framer-1ekiszw
+                                    div.framer-4zAy8.framer-gdpop7
+                              div.framer-1ogq05j
+                                p.framer-text.framer-styles-preset-piej36
+                                  ""Our kitchen looks beautiful now. The team worked carefully and finished the pro"
+                      li
+                        div.framer-3gt3g8
+                          div.framer-v27v3c-container
+                            div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop]
+                              div.framer-1r4lyeu [Text & Icon]
+                                div.framer-w2rd9w [Text & Icon]
+                                  div
+                                    img src=https://framerusercontent.com/images/0zFcAQWGsGsQb16vo7UtTSpgZ44.jpg?width=2808&height=225
+                                div.framer-5nj9xp
+                                  div.framer-b32r5z
+                                    p.framer-text.framer-styles-preset-piej36
+                                      "Michael Daniel"
+                                  div.framer-1rgbdep [Star]
+                                    div.framer-4zAy8.framer-17nsh46
+                                    div.framer-4zAy8.framer-o99zg3
+                                    div.framer-4zAy8.framer-13w8rhu
+                                    div.framer-4zAy8.framer-1ekiszw
+                                    div.framer-4zAy8.framer-gdpop7
+                              div.framer-1ogq05j
+                                p.framer-text.framer-styles-preset-piej36
+                                  "“Our home feels brand new. The renovation opened up the space and made our bedro"
+                      li
+                        div.framer-vxf96b
+                          div.framer-97pebc-container
+                            div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop]
+                              div.framer-1r4lyeu [Text & Icon]
+                                div.framer-w2rd9w [Text & Icon]
+                                  div
+                                    img src=https://framerusercontent.com/images/DVxbRJYtO9u2XOVBTlemH2EFd0.jpg?width=4928&height=3264
+                                div.framer-5nj9xp
+                                  div.framer-b32r5z
+                                    p.framer-text.framer-styles-preset-piej36
+                                      "Marcus R."
+                                  div.framer-1rgbdep [Star]
+                                    div.framer-4zAy8.framer-17nsh46
+                                    div.framer-4zAy8.framer-o99zg3
+                                    div.framer-4zAy8.framer-13w8rhu
+                                    div.framer-4zAy8.framer-1ekiszw
+                                    div.framer-4zAy8.framer-gdpop7
+                              div.framer-1ogq05j
+                                p.framer-text.framer-styles-preset-piej36
+                                  "“Our old bathroom is completely transformed. The new shower and vanity look amaz"
+                      li
+                        div.framer-1gj8mzq
+                          div.framer-1nzpa5f-container
+                            div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop]
+                              div.framer-1r4lyeu [Text & Icon]
+                                div.framer-w2rd9w [Text & Icon]
+                                  div
+                                    img src=https://framerusercontent.com/images/vRV0SewxhVXANq9cpM5NmXPfMw.jpg?width=4000&height=6000
+                                div.framer-5nj9xp
+                                  div.framer-b32r5z
+                                    p.framer-text.framer-styles-preset-piej36
+                                      "Daniel Von"
+                                  div.framer-1rgbdep [Star]
+                                    div.framer-4zAy8.framer-17nsh46
+                                    div.framer-4zAy8.framer-o99zg3
+                                    div.framer-4zAy8.framer-13w8rhu
+                                    div.framer-4zAy8.framer-1ekiszw
+                                    div.framer-4zAy8.framer-gdpop7
+                              div.framer-1ogq05j
+                                p.framer-text.framer-styles-preset-piej36
+                                  ""The renovation opened up the space and made our kitchen and living area much br"
+                      li
+                        div.framer-15wfw95
+                          div.framer-16mz0x4-container
+                            div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop]
+                              div.framer-1r4lyeu [Text & Icon]
+                                div.framer-w2rd9w [Text & Icon]
+                                  div
+                                    img src=https://framerusercontent.com/images/CCf9ZXNHdvj9abCByequTbvRYI.jpg?width=2760&height=3153
+                                div.framer-5nj9xp
+                                  div.framer-b32r5z
+                                    p.framer-text.framer-styles-preset-piej36
+                                      "Lisa Thompson"
+                                  div.framer-1rgbdep [Star]
+                                    div.framer-4zAy8.framer-17nsh46
+                                    div.framer-4zAy8.framer-o99zg3
+                                    div.framer-4zAy8.framer-13w8rhu
+                                    div.framer-4zAy8.framer-1ekiszw
+                                    div.framer-4zAy8.framer-gdpop7
+                              div.framer-1ogq05j
+                                p.framer-text.framer-styles-preset-piej36
+                                  ""Our kitchen looks beautiful now. The team worked carefully and finished the pro"
+                      li
+                        div.framer-3gt3g8
+                          div.framer-v27v3c-container
+                            div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop]
+                              div.framer-1r4lyeu [Text & Icon]
+                                div.framer-w2rd9w [Text & Icon]
+                                  div
+                                    img src=https://framerusercontent.com/images/0zFcAQWGsGsQb16vo7UtTSpgZ44.jpg?width=2808&height=225
+                                div.framer-5nj9xp
+                                  div.framer-b32r5z
+                                    p.framer-text.framer-styles-preset-piej36
+                                      "Michael Daniel"
+                                  div.framer-1rgbdep [Star]
+                                    div.framer-4zAy8.framer-17nsh46
+                                    div.framer-4zAy8.framer-o99zg3
+                                    div.framer-4zAy8.framer-13w8rhu
+                                    div.framer-4zAy8.framer-1ekiszw
+                                    div.framer-4zAy8.framer-gdpop7
+                              div.framer-1ogq05j
+                                p.framer-text.framer-styles-preset-piej36
+                                  "“Our home feels brand new. The renovation opened up the space and made our bedro"
+                      li
+                        div.framer-vxf96b
+                          div.framer-97pebc-container
+                            div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop]
+                              div.framer-1r4lyeu [Text & Icon]
+                                div.framer-w2rd9w [Text & Icon]
+                                  div
+                                    img src=https://framerusercontent.com/images/DVxbRJYtO9u2XOVBTlemH2EFd0.jpg?width=4928&height=3264
+                                div.framer-5nj9xp
+                                  div.framer-b32r5z
+                                    p.framer-text.framer-styles-preset-piej36
+                                      "Marcus R."
+                                  div.framer-1rgbdep [Star]
+                                    div.framer-4zAy8.framer-17nsh46
+                                    div.framer-4zAy8.framer-o99zg3
+                                    div.framer-4zAy8.framer-13w8rhu
+                                    div.framer-4zAy8.framer-1ekiszw
+                                    div.framer-4zAy8.framer-gdpop7
+                              div.framer-1ogq05j
+                                p.framer-text.framer-styles-preset-piej36
+                                  "“Our old bathroom is completely transformed. The new shower and vanity look amaz"
+                      li
+                        div.framer-1gj8mzq
+                          div.framer-1nzpa5f-container
+                            div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop]
+                              div.framer-1r4lyeu [Text & Icon]
+                                div.framer-w2rd9w [Text & Icon]
+                                  div
+                                    img src=https://framerusercontent.com/images/vRV0SewxhVXANq9cpM5NmXPfMw.jpg?width=4000&height=6000
+                                div.framer-5nj9xp
+                                  div.framer-b32r5z
+                                    p.framer-text.framer-styles-preset-piej36
+                                      "Daniel Von"
+                                  div.framer-1rgbdep [Star]
+                                    div.framer-4zAy8.framer-17nsh46
+                                    div.framer-4zAy8.framer-o99zg3
+                                    div.framer-4zAy8.framer-13w8rhu
+                                    div.framer-4zAy8.framer-1ekiszw
+                                    div.framer-4zAy8.framer-gdpop7
+                              div.framer-1ogq05j
+                                p.framer-text.framer-styles-preset-piej36
+                                  ""The renovation opened up the space and made our kitchen and living area much br"
+                      li
+                        div.framer-15wfw95
+                          div.framer-16mz0x4-container
+                            div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop]
+                              div.framer-1r4lyeu [Text & Icon]
+                                div.framer-w2rd9w [Text & Icon]
+                                  div
+                                    img src=https://framerusercontent.com/images/CCf9ZXNHdvj9abCByequTbvRYI.jpg?width=2760&height=3153
+                                div.framer-5nj9xp
+                                  div.framer-b32r5z
+                                    p.framer-text.framer-styles-preset-piej36
+                                      "Lisa Thompson"
+                                  div.framer-1rgbdep [Star]
+                                    div.framer-4zAy8.framer-17nsh46
+                                    div.framer-4zAy8.framer-o99zg3
+                                    div.framer-4zAy8.framer-13w8rhu
+                                    div.framer-4zAy8.framer-1ekiszw
+                                    div.framer-4zAy8.framer-gdpop7
+                              div.framer-1ogq05j
+                                p.framer-text.framer-styles-preset-piej36
+                                  ""Our kitchen looks beautiful now. The team worked carefully and finished the pro"
+                      li
+                        div.framer-3gt3g8
+                          div.framer-v27v3c-container
+                            div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop]
+                              div.framer-1r4lyeu [Text & Icon]
+                                div.framer-w2rd9w [Text & Icon]
+                                  div
+                                    img src=https://framerusercontent.com/images/0zFcAQWGsGsQb16vo7UtTSpgZ44.jpg?width=2808&height=225
+                                div.framer-5nj9xp
+                                  div.framer-b32r5z
+                                    p.framer-text.framer-styles-preset-piej36
+                                      "Michael Daniel"
+                                  div.framer-1rgbdep [Star]
+                                    div.framer-4zAy8.framer-17nsh46
+                                    div.framer-4zAy8.framer-o99zg3
+                                    div.framer-4zAy8.framer-13w8rhu
+                                    div.framer-4zAy8.framer-1ekiszw
+                                    div.framer-4zAy8.framer-gdpop7
+                              div.framer-1ogq05j
+                                p.framer-text.framer-styles-preset-piej36
+                                  "“Our home feels brand new. The renovation opened up the space and made our bedro"
+                      li
+                        div.framer-vxf96b
+                          div.framer-97pebc-container
+                            div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop]
+                              div.framer-1r4lyeu [Text & Icon]
+                                div.framer-w2rd9w [Text & Icon]
+                                  div
+                                    img src=https://framerusercontent.com/images/DVxbRJYtO9u2XOVBTlemH2EFd0.jpg?width=4928&height=3264
+                                div.framer-5nj9xp
+                                  div.framer-b32r5z
+                                    p.framer-text.framer-styles-preset-piej36
+                                      "Marcus R."
+                                  div.framer-1rgbdep [Star]
+                                    div.framer-4zAy8.framer-17nsh46
+                                    div.framer-4zAy8.framer-o99zg3
+                                    div.framer-4zAy8.framer-13w8rhu
+                                    div.framer-4zAy8.framer-1ekiszw
+                                    div.framer-4zAy8.framer-gdpop7
+                              div.framer-1ogq05j
+                                p.framer-text.framer-styles-preset-piej36
+                                  "“Our old bathroom is completely transformed. The new shower and vanity look amaz"
+                      li
+                        div.framer-1gj8mzq
+                          div.framer-1nzpa5f-container
+                            div.framer-9Xmbu.framer-63HkM.framer-10bbgvi.framer-v-10bbgvi [Desktop]
+                              div.framer-1r4lyeu [Text & Icon]
+                                div.framer-w2rd9w [Text & Icon]
+                                  div
+                                    img src=https://framerusercontent.com/images/vRV0SewxhVXANq9cpM5NmXPfMw.jpg?width=4000&height=6000
+                                div.framer-5nj9xp
+                                  div.framer-b32r5z
+                                    p.framer-text.framer-styles-preset-piej36
+                                      "Daniel Von"
+                                  div.framer-1rgbdep [Star]
+                                    div.framer-4zAy8.framer-17nsh46
+                                    div.framer-4zAy8.framer-o99zg3
+                                    div.framer-4zAy8.framer-13w8rhu
+                                    div.framer-4zAy8.framer-1ekiszw
+                                    div.framer-4zAy8.framer-gdpop7
+                              div.framer-1ogq05j
+                                p.framer-text.framer-styles-preset-piej36
+                                  ""The renovation opened up the space and made our kitchen and living area much br"
+                  fieldset.framer--slideshow-controls
+                    div
+                      button
+                        img src=https://framerusercontent.com/images/uXyJBPl3aO9UsHoQ4Ze6aLOM.png?width=296&height=296
+                      button
+                        img src=https://framerusercontent.com/images/u3fT3R5ryGuCv19Zr1do5gzbgno.png?width=296&height=296
+        section.framer-dt0z7m [About]
+          div.framer-q2zqbz [About]
+            div.framer-1s4sbxl [Image]
+              div
+                img src=https://framerusercontent.com/images/e5IZ8hNvxlmSdymVUVaVlFRw.jpg?width=5304&height=7952
+            div.framer-xsyr2o [About details]
+              div.framer-132l9qo
+                h2.framer-text.framer-styles-preset-48d53
+                  "Meet Joanie"
+              div.framer-11eahk5
+                p.framer-text.framer-styles-preset-piej36
+                  "Joanie started this studio over 30 years ago. Since then, she's helped hundreds "
+              div.framer-cpdiyb-container
+                a.framer-1RMtz.framer-1oto7d7.framer-v-1oto7d7.framer-13l8g7p [Variant 1] href=./about
+                  div.framer-1k85wgo [Text]
+                    p.framer-text
+                      "Learn More About Us"
+                  div.framer-1kvpqiy-container
+                    div
+                      div
+                        div
+                          div
+        div.framer-qs1bgd [Line]
+          div.framer-8hdjha [Desktop background]
+            div
+              img src=https://framerusercontent.com/images/sI0bco2opGtbrzyBHwn0AQJAlD0.png?width=3118&height=122
+        section.framer-1702m92 [Process ]
+          div.framer-6abaur [Process]
+            div.framer-qmha03
+              h2.framer-text.framer-styles-preset-48d53
+                "HOW WE GET IT DONE"
+            div.framer-6fqgmj [Proces]
+              div.framer-gun7vn [1]
+                div.framer-h0jhd6
+                  h4.framer-text.framer-styles-preset-1nvzv7u
+                    "01"
+              div.framer-1gjelnp-container
+                div.framer-WvO6S.framer-oPDLJ.framer-63HkM.framer-1f0rqrl.framer-v-hy0iiu [Left 2]
+                  div.framer-1mia9px [Steps]
+                    div.framer-4le8pe-container
+                      div.framer-ypCPq.framer-1f5afh3.framer-v-1f5afh3 [Dot 1]
+                        div.framer-LrXqP.framer-1q688l4
+                        div.framer-LrXqP.framer-19cmjwz
+                        div.framer-LrXqP.framer-f0qvcj
+                        div.framer-LrXqP.framer-lyxc73
+                    div.framer-qjcgj6 [Open]
+                      div.framer-zljlbb
+                        h3.framer-text.framer-styles-preset-1pr57h3
+                          "Talk to Us"
+                      div.framer-1ymdlu8 [Line]
+                      div.framer-1ygdxl9
+                        p.framer-text.framer-styles-preset-piej36
+                          "Tell us about your project and what you need."
+                  div.framer-1ml6ti3 [Video]
+                    div.framer-1hrju11-container
+                      video src=https://framerusercontent.com/assets/Q2Nvlc7p3y5ZTqJlbQKgyg8lJUc.mp4
+                  div.framer-qpps6w-container
+                    div.framer-JrwUD.framer-1vg3pox.framer-v-1vg3pox [Progress Bar]
+                      div.framer-xq09dt [Container]
+                        div.framer-1scwecl [Progress filler]
+              div.framer-m8v6lc [2]
+                div.framer-mmyz1r
+                  h4.framer-text.framer-styles-preset-1nvzv7u
+                    "02"
+              div.framer-fva6ax-container
+                div.framer-WvO6S.framer-oPDLJ.framer-63HkM.framer-1f0rqrl.framer-v-hy0iiu [Left 2]
+                  div.framer-1mia9px [Steps]
+                    div.framer-4le8pe-container
+                      div.framer-ypCPq.framer-1f5afh3.framer-v-noe4p5 [Dot 2]
+                        div.framer-LrXqP.framer-1q688l4
+                        div.framer-LrXqP.framer-19cmjwz
+                        div.framer-LrXqP.framer-f0qvcj
+                        div.framer-LrXqP.framer-lyxc73
+                    div.framer-qjcgj6 [Open]
+                      div.framer-zljlbb
+                        h3.framer-text.framer-styles-preset-1pr57h3
+                          "Plan Your Design"
+                      div.framer-1ymdlu8 [Line]
+                      div.framer-1ygdxl9
+                        p.framer-text.framer-styles-preset-piej36
+                          "We create a design plan made just for your space.We create a design plan made ju"
+                  div.framer-1ml6ti3 [Video]
+                    div.framer-1hrju11-container
+                      video src=https://framerusercontent.com/assets/bK3qDdQJW3v6ZtLGQ1iESR1DNwE.mp4
+                  div.framer-qpps6w-container
+                    div.framer-JrwUD.framer-1vg3pox.framer-v-1vg3pox [Progress Bar]
+                      div.framer-xq09dt [Container]
+                        div.framer-1scwecl [Progress filler]
+              div.framer-t1fo78 [3]
+                div.framer-7t0iah
+                  h4.framer-text.framer-styles-preset-1nvzv7u
+                    "03"
+              div.framer-xpzsho-container
+                div.framer-WvO6S.framer-oPDLJ.framer-63HkM.framer-1f0rqrl.framer-v-hy0iiu [Left 2]
+                  div.framer-1mia9px [Steps]
+                    div.framer-4le8pe-container
+                      div.framer-ypCPq.framer-1f5afh3.framer-v-3rbst1 [Dot 3]
+                        div.framer-LrXqP.framer-1q688l4
+                        div.framer-LrXqP.framer-19cmjwz
+                        div.framer-LrXqP.framer-f0qvcj
+                        div.framer-LrXqP.framer-lyxc73
+                    div.framer-qjcgj6 [Open]
+                      div.framer-zljlbb
+                        h3.framer-text.framer-styles-preset-1pr57h3
+                          "Bring It to Life"
+                      div.framer-1ymdlu8 [Line]
+                      div.framer-1ygdxl9
+                        p.framer-text.framer-styles-preset-piej36
+                          "Our team handle the details, from furniture to final touches."
+                  div.framer-1ml6ti3 [Video]
+                    div.framer-1hrju11-container
+                      video src=https://framerusercontent.com/assets/zVAbNiDcfmCezC2jmGLUMxoTZuA.mp4
+                  div.framer-qpps6w-container
+                    div.framer-JrwUD.framer-1vg3pox.framer-v-1vg3pox [Progress Bar]
+                      div.framer-xq09dt [Container]
+                        div.framer-1scwecl [Progress filler]
+              div.framer-1iydg2i [3]
+                div.framer-m10cp6
+                  h4.framer-text.framer-styles-preset-1nvzv7u
+                    "04"
+              div.framer-y1g0db-container
+                div.framer-WvO6S.framer-oPDLJ.framer-63HkM.framer-1f0rqrl.framer-v-hy0iiu [Left 2]
+                  div.framer-1mia9px [Steps]
+                    div.framer-4le8pe-container
+                      div.framer-ypCPq.framer-1f5afh3.framer-v-1xm53r2 [Dot 4]
+                        div.framer-LrXqP.framer-1q688l4
+                        div.framer-LrXqP.framer-19cmjwz
+                        div.framer-LrXqP.framer-f0qvcj
+                        div.framer-LrXqP.framer-lyxc73
+                    div.framer-qjcgj6 [Open]
+                      div.framer-zljlbb
+                        h3.framer-text.framer-styles-preset-1pr57h3
+                          "Enjoy Your Space"
+                      div.framer-1ymdlu8 [Line]
+                      div.framer-1ygdxl9
+                        p.framer-text.framer-styles-preset-piej36
+                          "Move in and enjoy a space you love."
+                  div.framer-1ml6ti3 [Video]
+                    div.framer-1hrju11-container
+                      video src=https://framerusercontent.com/assets/WE9FEoCN5aN7vUsMRBQEO5Ldo.mp4
+                  div.framer-qpps6w-container
+                    div.framer-JrwUD.framer-1vg3pox.framer-v-1vg3pox [Progress Bar]
+                      div.framer-xq09dt [Container]
+                        div.framer-1scwecl [Progress filler]
+        section.framer-1uyjv2o [CTA]
+          div.framer-rsohhi [CTA]
+            div.framer-13bnoov-container
+              div.framer-fP6Ow.framer-16enhd8.framer-v-16enhd8 [Variant 1]
+                div.framer-14j0gpl [Line 1]
+                  div
+                    img src=https://framerusercontent.com/images/sI0bco2opGtbrzyBHwn0AQJAlD0.png?width=3118&height=122
+                div.framer-1rzck3v [Line 1]
+                  div
+                    img src=https://framerusercontent.com/images/sI0bco2opGtbrzyBHwn0AQJAlD0.png?width=3118&height=122
+                div.framer-1elh2zy [Line 2]
+                  div
+                    img src=https://framerusercontent.com/images/0gyzzNVSTGk9CkIXJilYfPs0MT4.png?width=56&height=1165
+                div.framer-1mkjpm9 [Line 2]
+                  div
+                    img src=https://framerusercontent.com/images/0gyzzNVSTGk9CkIXJilYfPs0MT4.png?width=56&height=1165
+            div.framer-13tnkqg [Title]
+              div.framer-zlb3gg
+                h2.framer-text.framer-styles-preset-48d53
+                  "Ready to Love Your Space?"
+              div.framer-9f2biy
+                h3.framer-text.framer-styles-preset-1pr57h3
+                  "Tell us about your project. We'll help you bring it to life."
+              div.framer-1bnw9vo-container
+                a.framer-1RMtz.framer-1oto7d7.framer-v-1oto7d7.framer-13l8g7p [Variant 1] href=./contact
+                  div.framer-1k85wgo [Text]
+                    p.framer-text
+                      "Talk to Us Today"
+                  div.framer-1kvpqiy-container
+                    div
+                      div
+                        div
+                          div
+            div.framer-1nsir8t-container
+              div.framer-b5ust.framer-iql97e.framer-v-7piy8l [Playing video]
+                div.framer-17aqcaw-container
+                  video src=https://framerusercontent.com/assets/fEi9fAY1naUnUOLp6ED33eaXA.mp4
+                div.framer-oqiqnb [Image]
+                  div
+                    img src=https://framerusercontent.com/images/6COzd5XuJeONLjcQsiyDO0fmNAA.jpeg?width=2752&height=15
+        section.framer-1rgbut6 [FAQ ]
+          div.framer-epgoof [Faq]
+            div.framer-sx4yiy
+              h2.framer-text.framer-styles-preset-48d53
+                "Common Questions"
+            div.framer-1tvkv1r [FAQ]
+              div.framer-l77scq-container
+                div.framer-1SZDZ.framer-63HkM.framer-smrk7p.framer-v-smrk7p [Closed]
+                  div.framer-1fdsgxl [Heading Wrap]
+                    div.framer-vkvcyx [Question]
+                      p.framer-text.framer-styles-preset-piej36
+                        "How much does interior design cost?"
+                    div.framer-mFnGD.framer-nuf4w5
+              div.framer-bm4ppq-container
+                div.framer-1SZDZ.framer-63HkM.framer-smrk7p.framer-v-smrk7p [Closed]
+                  div.framer-1fdsgxl [Heading Wrap]
+                    div.framer-vkvcyx [Question]
+                      p.framer-text.framer-styles-preset-piej36
+                        "Do you work on small projects too?"
+                    div.framer-mFnGD.framer-nuf4w5
+              div.framer-1cblpfc-container
+                div.framer-1SZDZ.framer-63HkM.framer-smrk7p.framer-v-smrk7p [Closed]
+                  div.framer-1fdsgxl [Heading Wrap]
+                    div.framer-vkvcyx [Question]
+                      p.framer-text.framer-styles-preset-piej36
+                        "Do you only design homes?"
+                    div.framer-mFnGD.framer-nuf4w5
+              div.framer-1ypwnuj-container
+                div.framer-1SZDZ.framer-63HkM.framer-smrk7p.framer-v-smrk7p [Closed]
+                  div.framer-1fdsgxl [Heading Wrap]
+                    div.framer-vkvcyx [Question]
+                      p.framer-text.framer-styles-preset-piej36
+                        "How long does a project take?"
+                    div.framer-mFnGD.framer-nuf4w5
+    div
+    div.framer-qszmmy
+    div.framer-r3gnis-container
+      footer.framer-FmkBT.framer-oPDLJ.framer-exJWR.framer-63HkM.framer-KHSV5.framer-w4jy2q.framer-v-3z6pzv [Tablet]
+        div.framer-1xe6utx [Line]
+          div.framer-1vbaoll [Desktop background]
+            div
+              img src=https://framerusercontent.com/images/6OvYtLHAWTYFEnAqT5IR4pMIo2g.png?width=3118&height=628
+        div.framer-1xw59xx
+          div.framer-1kes3zb [Footer]
+            div.framer-1ba82ly [Tab 1]
+              div.framer-7e5kf4 [Let's Talk]
+                div.framer-s362uv
+                  h3.framer-text.framer-styles-preset-1pr57h3
+                    "Ready to Love Your Space?"
+                div.framer-1p4if9z-container
+                  a.framer-uKWHf.framer-mh7fy.framer-v-mh7fy.framer-2mr8ng [Variant 1] href=./contact
+                    div.framer-nym2w0 [Text]
+                      p.framer-text
+                        "Talk to Us Today"
+                    div.framer-3e0xtv-container
+                      div
+                        div
+                          div
+                            div
+            div.framer-qvdxy4 [Tab 1]
+              div.framer-1a2m6no [Pages]
+                div.framer-1z0ewzl
+                  h4.framer-text.framer-styles-preset-1nvzv7u
+                    "Pages"
+                div.framer-1dwx1w2-container
+                  a.framer-iVgkc.framer-CDupi.framer-12u9znr.framer-v-12u9znr.framer-a4n2hj [Button] href=./
+                    div.framer-1k8gs4i
+                      p.framer-text.framer-styles-preset-lqeg3j
+                        "Home"
+                div.framer-1nvw984-container
+                  a.framer-iVgkc.framer-CDupi.framer-12u9znr.framer-v-12u9znr.framer-a4n2hj [Button] href=./about
+                    div.framer-1k8gs4i
+                      p.framer-text.framer-styles-preset-lqeg3j
+                        "About"
+                div.framer-1i7gcfb-container
+                  a.framer-iVgkc.framer-CDupi.framer-12u9znr.framer-v-12u9znr.framer-a4n2hj [Button] href=./projects
+                    div.framer-1k8gs4i
+                      p.framer-text.framer-styles-preset-lqeg3j
+                        "Projects"
+                div.framer-1uvv465-container
+                  a.framer-iVgkc.framer-CDupi.framer-12u9znr.framer-v-12u9znr.framer-a4n2hj [Button] href=./contact
+                    div.framer-1k8gs4i
+                      p.framer-text.framer-styles-preset-lqeg3j
+                        "Contact"
+              div.framer-19907dx [Pages]
+                div.framer-4qm65m
+                  h4.framer-text.framer-styles-preset-1nvzv7u
+                    "Pages"
+                div.framer-ti5ilj-container
+                  a.framer-iVgkc.framer-CDupi.framer-12u9znr.framer-v-12u9znr.framer-a4n2hj [Button] href=./blog
+                    div.framer-1k8gs4i
+                      p.framer-text.framer-styles-preset-lqeg3j
+                        "Blog"
+                div.framer-14f282h-container
+                  a.framer-iVgkc.framer-CDupi.framer-12u9znr.framer-v-12u9znr.framer-a4n2hj [Button]
+                    div.framer-1k8gs4i
+                      p.framer-text.framer-styles-preset-lqeg3j
+                        "Testimonial"
+                div.framer-l14ykg-container
+                  a.framer-iVgkc.framer-CDupi.framer-12u9znr.framer-v-12u9znr.framer-a4n2hj [Button] href=./privacy
+                    div.framer-1k8gs4i
+                      p.framer-text.framer-styles-preset-lqeg3j
+                        "Privacy Policy"
+                div.framer-1iaa9x5-container
+                  a.framer-iVgkc.framer-CDupi.framer-12u9znr.framer-v-12u9znr.framer-a4n2hj [Button] href=./terms
+                    div.framer-1k8gs4i
+                      p.framer-text.framer-styles-preset-lqeg3j
+                        "Terms of service"
+              div.framer-58eh7b [Pages]
+                div.framer-v24jk1
+                  h4.framer-text.framer-styles-preset-1nvzv7u
+                    "Contact"
+                div.framer-1y28hx8-container
+                  a.framer-iVgkc.framer-CDupi.framer-12u9znr.framer-v-12u9znr.framer-a4n2hj [Button] href=mailto:william@remodel.com
+                    div.framer-1k8gs4i
+                      p.framer-text.framer-styles-preset-lqeg3j
+                        "william@remodel.com"
+                div.framer-13pqneb-container
+                  a.framer-iVgkc.framer-CDupi.framer-12u9znr.framer-v-12u9znr.framer-a4n2hj [Button] href=tel:503 456 234
+                    div.framer-1k8gs4i
+                      p.framer-text.framer-styles-preset-lqeg3j
+                        "503 456 234"
+                div.framer-19vgo0r-container
+                  a.framer-iVgkc.framer-CDupi.framer-12u9znr.framer-v-1aqs72f.framer-a4n2hj [Non Button]
+                    div.framer-1k8gs4i
+                      p.framer-text.framer-styles-preset-lqeg3j
+                        "14 Elm Street Dallas, TX"
+              div.framer-no4hua [Social]
+                div.framer-16vijbg-container
+                  a.framer-G20vo.framer-ja0dx9.framer-v-ja0dx9.framer-1ln72lm [Social] href=https://www.instagram.com/deanofframer/
+                    div.framer-wqq0z.framer-1ywey2z
+                div.framer-1g4ocbp-container
+                  a.framer-G20vo.framer-ja0dx9.framer-v-ja0dx9.framer-1ln72lm [Social] href=https://www.pinterest.com/michaelohakim/
+                    div.framer-JSCZt.framer-1ywey2z
+            div.framer-1f14kek [Bottom]
+              div.framer-1k766yx
+                p.framer-text.framer-styles-preset-piej36
+                  "© 2026 Remodel. All rights reserved."
+              div.framer-dfegvb [Bottom Right]
+                div.framer-1pponez
+                  p.framer-text.framer-styles-preset-piej36
+                    a.framer-text.framer-styles-preset-1owdf8i href=https://base.supply/
+                      "Website designed"
+                    span.framer-text
+                      "by"
+                    a.framer-text.framer-styles-preset-1owdf8i href=https://base.supply/
+                      "Dean"
+    div.framer-1vasls1-container
+      div.framer-X1YKj.framer-1pn6038.framer-v-1pn6038 [Variant 1]
+        div.framer-z6cv7z
+          a.framer-10iaua4.framer-1hih7hh [Framer CTA] href=https://contra.com/payment-link/Y8auFCAz-remodel-interior-design-and-remodeling-template
+            div.framer-n59npa
+            div.framer-gqmctm
+              div.framer-7e2hvc
+                p.framer-text
+                  "Get Template"
+  div

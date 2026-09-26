@@ -1,0 +1,48 @@
+.button {
+  display: inline-flex;
+  flex: none;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  width: min-content;
+  padding: 8px 8px 8px 20px;
+  border-radius: 30px;
+  box-shadow: var(--button-shadow);
+  transition: transform var(--spring-hover);
+  will-change: transform;
+}
+
+.button:hover {
+  transform: scale(1.1);
+}
+
+.label {
+  font-family: var(--font-ui);
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.4em;
+  letter-spacing: -0.02em;
+  white-space: pre;
+}
+
+.accent {
+  padding: 12px 12px 12px 20px;
+  background-color: var(--color-accent);
+  color: var(--color-white);
+  --eye-color: var(--color-white);
+  --pupil-color: var(--color-accent);
+}
+
+.dark {
+  background-color: var(--color-black);
+  color: var(--color-white);
+  --eye-color: var(--color-white);
+  --pupil-color: var(--color-black);
+}
+
+.light {
+  background-color: var(--color-bg);
+  color: var(--color-black);
+  --eye-color: var(--color-black);
+  --pupil-color: var(--color-white);
+}

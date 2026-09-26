@@ -1,0 +1,1 @@
+`.framer-d6BUc { -webkit-mask: ${d}; aspect-ratio: 1; background-color: var(--syh4gt); mask: ${d}; width: 20px; }`

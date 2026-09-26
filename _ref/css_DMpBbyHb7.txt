@@ -1,0 +1,5 @@
+`.framer-s5TNc.framer-1k4ru0x, .framer-s5TNc .framer-1k4ru0x { display: block; }`
+`.framer-s5TNc.framer-1qjtxvc { align-content: center; align-items: center; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: min-content; }`
+`.framer-s5TNc .framer-1bqwns8 { aspect-ratio: 1 / 1; flex: none; height: auto; position: relative; width: 20px; }`
+`.framer-s5TNc .framer-12pdhq { aspect-ratio: 1 / 1; flex: 1 0 0px; height: auto; overflow: visible; position: relative; width: 1px; }`
+`.framer-s5TNc.framer-v-b3tynz.framer-1qjtxvc { width: 20px; }`
