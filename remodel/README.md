@@ -29,6 +29,6 @@ public/         images and videos copied from the export
 - Scroll effects (hero fade, horizontal pillar gallery, process progress lines) use the same range formula as Framer's "scroll section" transforms. See `lib/scrollTargets.ts`.
 - `REMOTE_OFFICE_VIDEO` (menu and alternate service cards) was not included in the export, so it is streamed from Framer's CDN.
 - Only the homepage exists. Every link points to `#` until the other pages are built.
-- Prices live in `PRICES` in `lib/content.ts`; the Complete Build Plan figure is unconfirmed (see the comment there).
+- Prices live in `PRICES` in `lib/content.ts`. They are the strategy document's recommended figures and are not final (see the comment there).
 - Optional env: `NEXT_PUBLIC_SITE_URL` (canonical/Open Graph base).
 - `app/icon.svg` is a placeholder mark until a Plan2Build logo is supplied.

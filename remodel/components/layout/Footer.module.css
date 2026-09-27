@@ -214,4 +214,9 @@
     flex: none;
     width: 100%;
   }
+
+  .credit {
+    width: 100%;
+    white-space: normal;
+  }
 }

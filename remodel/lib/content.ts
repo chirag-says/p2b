@@ -2,6 +2,10 @@
  * Plan2Build homepage copy. All text, prices and link targets live here so
  * they can change without touching components.
  *
+ * Source: "Plan2Build Strategy and POC" (21 Sept 2026). Only homeowner-facing
+ * material is used; unit economics, competitor figures, investor narrative
+ * and POC kill criteria in that document are internal and stay off the site.
+ *
  * Navigation is intentionally non-functional: every link points to "#".
  */
 
@@ -14,6 +18,7 @@ const link = (label: string): Link => ({ label, href: PLACEHOLDER_HREF });
 
 export const BRAND = {
   name: "Plan2Build",
+  company: "ConjunIQ",
   tagline: "Independent · Unbiased · On Your Side",
 };
 
@@ -24,7 +29,7 @@ export const NAV_LINKS: Link[] = [
   link("Home"),
   link("What We Do"),
   link("Our Story"),
-  link("How We Get It Done"),
+  link("How It Works"),
   link("FAQ"),
   link("Contact"),
 ];
@@ -39,35 +44,25 @@ export const MENU_CONTACT: Link[] = [PRIMARY_CTA, link("Contact us")];
 export const REMOTE_OFFICE_VIDEO = "https://framerusercontent.com/assets/nRpIdzwsFwU3zMPwFbiGNxNr8Xs.mp4";
 
 /**
- * Prices, kept in one place.
- *
- * buildPlan: the client references disagree. The brief's design tiers start at
- * ₹29,999 (1 BHK + 2D Design + Landscape) and run to ₹59,999+ for larger or
- * custom cases; the strategy document (21 Sept 2026) proposes ₹15,000–₹20,000
- * and mentions an earlier ₹2,999. The brief's tiers are shown until the client
- * confirms the current figure.
+ * Prices, kept in one place. These are the strategy document's recommended
+ * figures; the document lists final pricing as an open founder decision, so
+ * change them here once it is settled. `short` forms fit the 105px badges.
  */
 export const PRICES = {
   costCheck: "Free",
-  quoteReview: "₹4,999",
-  compare: "₹9,999",
-  buildPlan: "₹29,999 – ₹59,999+",
-  buildPlanTiers: {
-    oneBhk: "₹29,999",
-    twoBhk: "₹39,999",
-    threeBhk: "₹49,999",
-    boqAddOn: "₹10,000",
-    custom: "up to ₹59,999+",
-  },
-  stageCheck: "₹5,000 – ₹7,500",
-  threeStagePackage: "₹18,000 – ₹22,000",
-  assurance: "₹30,000 – ₹40,000+",
+  buildPlan: "₹45,000 – ₹50,000",
+  buildPlanShort: "₹45K–50K",
+  assurance: "₹55,000 – ₹60,000",
+  assuranceShort: "₹55K–60K",
 } as const;
 
+/** Buttons drop the spaces around the dash so the label stays on one line. */
+const tight = (price: string) => price.replace(/ /g, "");
+
 export const HERO = {
-  title: "Build your home with clarity, confidence and control.",
+  title: "Know what your home should cost before you build it.",
   subtitle:
-    "Plan2Build helps individual home builders understand what their home should cost, compare contractor quotes on a common basis, verify critical stages of construction and access trusted products, partners and related services.",
+    "Plan2Build puts your cost, scope and specification in writing, compares contractor quotes on the same scope and independently checks the work that cannot be undone. You keep the builder you chose. We never take the construction contract.",
   cta: PRIMARY_CTA,
   secondary: { eyebrow: BRAND.tagline, ...SECONDARY_CTA },
   video: "/videos/Create_a_premium_cinematic_web.mp4",
@@ -77,8 +72,8 @@ export const HERO = {
 export type Highlight = { prefix: string; value: number; suffix: string; label: string; note: string };
 
 export const HIGHLIGHTS: Highlight[] = [
-  { prefix: "₹", value: 40, suffix: "L+", label: "Build cost", note: "Excl. land" },
-  { prefix: "₹", value: 0, suffix: "", label: "Upfront fee", note: "Your choice" },
+  { prefix: "", value: 67, suffix: "", label: "Decisions", note: "In writing" },
+  { prefix: "", value: 6, suffix: "", label: "Site gates", note: "Independently checked" },
 ];
 
 /** The three coloured badges beside the stat cards. */
@@ -86,34 +81,37 @@ export type Badge = { title: string; label: string; color: string };
 
 export const BADGES: Badge[] = [
   { title: PRICES.costCheck, label: "Home Cost Check", color: "rgb(81, 184, 73)" },
-  { title: PRICES.quoteReview, label: "Independent Quote Review", color: "rgb(81, 184, 73)" },
-  { title: PRICES.compare, label: "Compare & Decide", color: "rgb(243, 186, 54)" },
+  { title: PRICES.buildPlanShort, label: "Build Plan & Advice", color: "rgb(81, 184, 73)" },
+  { title: PRICES.assuranceShort, label: "Six-Gate Assurance", color: "rgb(243, 186, 54)" },
 ];
 
 export type Pillar = { title: string; description: string; image: string; action: Link };
 
-/** The three Plan2Build pillars, shown in the scroll-driven gallery. */
+/** The three layers of the business, shown in the scroll-driven gallery. */
 export const PILLARS = {
   title: "THREE WAYS WE HELP",
   cta: link("See All Services"),
   items: [
     {
       title: "Plan & Decide",
-      description: "Know what to build, what it should cost and what you are actually being quoted.",
+      description:
+        "Cost, scope and specification in writing, with a stage-wise cash-flow plan so the money does not run out mid-build.",
       image: "/images/pillar-plan.jpeg",
-      action: link("Compare Your Quotes"),
+      action: PRIMARY_CTA,
+    },
+    {
+      title: "Buy & Connect",
+      description:
+        "Verified contractor introductions and materials at a margin we disclose in rupees. Finance, insurance, solar and interiors when you need them.",
+      image: "/images/pillar-connect.jpeg",
+      action: link("Explore Partners"),
     },
     {
       title: "Verify & Assure",
-      description: "Independent checks at the stages where mistakes become expensive.",
+      description:
+        "Six independent checks at the stages that cannot be undone, backed by a capped remedy if we miss a structural defect.",
       image: "/images/pillar-verify.jpeg",
-      action: link("Book a Stage Check"),
-    },
-    {
-      title: "Transact & Connect",
-      description: "Access trusted products, partners and related services for a better build.",
-      image: "/images/pillar-connect.jpeg",
-      action: link("Explore Partners"),
+      action: link("Book Assurance"),
     },
   ] satisfies Pillar[],
 };
@@ -139,51 +137,51 @@ export const SERVICES = {
       title: "Home Cost Check",
       icon: "plan",
       description:
-        "Get a quick estimate to plan better: likely construction cost for your plot size, typical specifications for your city and guidance on next steps. Understand the likely cost and what to do next.",
+        "Find out what a house like yours should cost in your city before anyone quotes you. Our estimate uses a city rate index built from real sites, not a national average. Start here, free.",
       cta: link(`${PRICES.costCheck} Home Cost Check`),
       video: PLAN_VIDEO,
     },
     {
-      id: "quote-review",
-      title: "Independent Quote Review",
-      icon: "verify",
-      description:
-        "An expert review of your contractor's quote: what is included, missing and unclear, risk areas, key questions to ask and an expert discussion. Know exactly what you are paying for and where the risks are.",
-      cta: link(`Review for ${PRICES.quoteReview}`),
-      video: REMOTE_OFFICE_VIDEO,
-    },
-    {
-      id: "compare",
-      title: "Compare & Decide",
-      icon: "plan",
-      description:
-        "Compare up to three quotations on a common basis: detailed comparison report, specification and quality check, cost-saving opportunities and an expert discussion. Choose the right contractor and scope with clarity.",
-      cta: link(`Compare for ${PRICES.compare}`),
-      video: PLAN_VIDEO,
-    },
-    {
       id: "build-plan",
-      title: "Complete Build Plan",
+      title: "Build Plan & Advice",
       icon: "verify",
-      description: `Detailed planning, drawings and specifications for execution. With 2D design and landscape: 1 BHK ${PRICES.buildPlanTiers.oneBhk}, 2 BHK ${PRICES.buildPlanTiers.twoBhk}, 3 BHK ${PRICES.buildPlanTiers.threeBhk}; larger or custom homes ${PRICES.buildPlanTiers.custom}. BOQ add-on ${PRICES.buildPlanTiers.boqAddOn}.`,
-      cta: link(`Plan from ${PRICES.buildPlanTiers.oneBhk}`),
+      description: `Your budget, bill of quantities, specification, schedule and stage-wise cash-flow plan, plus a calendar of which decisions are due when. ${PRICES.buildPlan} per house, paid in three instalments as your build moves forward.`,
+      cta: link(tight(PRICES.buildPlan)),
       video: REMOTE_OFFICE_VIDEO,
     },
     {
-      id: "stage-checks",
-      title: "Stage Checks",
+      id: "quote-comparison",
+      title: "Quote Comparison",
       icon: "plan",
-      description: `On-site inspection by a certified engineer: quality and specification checks, photo reports, risks and corrective actions. ${PRICES.stageCheck} per stage check, or ${PRICES.threeStagePackage} for three stages. Be confident your home is built as planned.`,
-      cta: link(`${PRICES.stageCheck.replace(/ /g, "")} / stage`),
+      description:
+        "Every contractor gets the same RFQ pack, and we compare what each quote actually includes. Not “B is ₹4 lakh cheaper” but “B is ₹4 lakh lower because it leaves out waterproofing and specifies lower-grade steel.”",
+      cta: link("Included in Your Build Plan"),
       video: PLAN_VIDEO,
     },
     {
       id: "assurance",
-      title: "Assurance Package",
+      title: "Six-Gate Assurance",
+      icon: "verify",
+      description: `An independent auditor checks six stages that cannot be undone, and every change you ask for is priced and agreed before it is built. If we clear a gate and a structural defect in what we checked surfaces later, we pay to fix it, up to a cap. ${PRICES.assurance} per house.`,
+      cta: link(tight(PRICES.assurance)),
+      video: REMOTE_OFFICE_VIDEO,
+    },
+    {
+      id: "materials",
+      title: "Materials & Partners",
+      icon: "plan",
+      description:
+        "Buy the materials in your specification through us at a margin shown in rupees on your sheet, or buy them anywhere else. Verified contractors, finance, insurance, solar and interiors are there if you want them.",
+      cta: link("Explore Partners"),
+      video: PLAN_VIDEO,
+    },
+    {
+      id: "build-record",
+      title: "Build Record",
       icon: "verify",
       description:
-        "Multi-stage quality assurance: multiple stage inspections, detailed reports, checks against approved plans and specifications and expert support throughout construction. Independent assurance for your whole build.",
-      cta: link(PRICES.assurance.replace(/ /g, "")),
+        "Your land has papers. Your building has none. We record every material decision as specified, chosen, bought, installed and verified, and you keep that record for renovation, resale, insurance and warranty claims.",
+      cta: link("Included with Assurance"),
       video: REMOTE_OFFICE_VIDEO,
     },
   ] satisfies Service[],
@@ -191,36 +189,41 @@ export const SERVICES = {
 
 export type Principle = { topic: string; quote: string };
 
-/** Principles, not customer reviews: attribution is deliberately generic. */
+/** The published independence rules, one per slide. */
 export const PRINCIPLES = {
-  title: "WHAT HOME BUILDERS GET",
+  title: "OUR INDEPENDENCE RULES",
   source: BRAND.name,
   sourceNote: BRAND.tagline,
-  attribution: "Plan2Build Home Builder",
+  attribution: "Plan2Build Rule",
   cta: PRIMARY_CTA,
   items: [
     {
-      topic: "Before construction",
-      quote: "“Know what you are paying for before construction starts.”",
+      topic: "Specification",
+      quote: "We specify performance: grade, class, rating and system. Never a brand.",
     },
     {
-      topic: "Comparing quotes",
-      quote: "“Compare quotations on the same scope, not just the headline number.”",
+      topic: "Brand choice",
+      quote:
+        "You see at least three qualifying products, one of them in the value tier, ordered by price and never by who pays us.",
     },
     {
-      topic: "During construction",
-      quote: "“Stay informed about the work that matters before it gets covered up.”",
+      topic: "Qualification",
+      quote: "Products qualify on published technical criteria. A product that fails cannot pay its way in.",
     },
     {
-      topic: "Choosing a contractor",
-      quote: "“The cheapest quote is almost never the cheapest house.”",
+      topic: "Structural work",
+      quote: "We take no manufacturer money on concrete, steel, foundation or slab. Safety-critical decisions stay clean.",
+    },
+    {
+      topic: "Our earnings",
+      quote: "What we earn is shown in rupees on the specification sheet you keep.",
     },
   ] satisfies Principle[],
 };
 
 export const STORY = {
   title: "Our Story",
-  body: "Plan2Build exists to make home construction more understandable, more transparent and more manageable for individual homeowners. Building a home means complex decisions, contractor quotes that are hard to compare and choices that become expensive when made too late. We help you structure those decisions, working independently, so you stay in control.",
+  body: "A family building its own home has had two options. Hand the house to a construction company and drop the builder you already chose, or take advice from someone whose real business is selling you materials. Most of the work is informal, with no written scope, no record and no recourse. Plan2Build gives you independent advice and keeps the contractor you trust. We make you a competent buyer, not a construction expert.",
   cta: PRIMARY_CTA,
   image: "/images/2f3f0210ddd06dcb863a689d93e99345.jpg",
 };
@@ -228,38 +231,38 @@ export const STORY = {
 export type ProcessStep = { number: string; title: string; description: string; video: string };
 
 export const PROCESS = {
-  title: "HOW WE GET IT DONE",
+  title: "HOW IT WORKS",
   steps: [
     {
       number: "01",
-      title: "Understand Your Home",
-      description: "Understand your plot, requirements and likely construction cost.",
+      title: "Plan",
+      description: "Get your cost, scope, specification and cash-flow plan in writing before you award the contract.",
       video: "/videos/process-talk.mp4",
     },
     {
       number: "02",
-      title: "Compare & Plan",
-      description: "Turn contractor quotations into a comparable scope.",
+      title: "Compare",
+      description: "Send one standard RFQ pack and see every quote on the same scope, not just the headline number.",
       video: "/videos/process-plan.mp4",
     },
     {
       number: "03",
-      title: "Verify Critical Work",
-      description: "Check the stages where mistakes can become expensive.",
+      title: "Build",
+      description: "Your contractor builds. We check six gates and log every change before it is built.",
       video: "/videos/process-build.mp4",
     },
     {
       number: "04",
-      title: "Build With Confidence",
-      description: "Maintain a clear record and access the right support, products and services.",
+      title: "Track",
+      description: "Every material is recorded as specified, bought, installed and verified. Your building gets its papers.",
       video: "/videos/process-enjoy.mp4",
     },
   ] satisfies ProcessStep[],
 };
 
 export const CTA = {
-  title: "Build with more clarity. Decide with more confidence.",
-  body: "Know your cost. Compare your quotes. Build with confidence.",
+  title: "Your land has papers. Your building has none.",
+  body: "Know your cost. Compare on the same scope. Keep a record of what went into your walls.",
   button: PRIMARY_CTA,
   video: "/videos/cta.mp4",
 };
@@ -272,40 +275,46 @@ export const FAQ = {
     {
       question: "What is Plan2Build?",
       answer:
-        "Plan2Build helps individual home builders understand construction costs, compare contractor quotes, verify critical construction stages and access trusted products and services.",
+        "Plan2Build helps families building their own home decide well and buy well. We put cost, scope and specification in writing, compare contractor quotes on the same scope, independently check the stages that cannot be undone and keep a permanent record of your build.",
     },
     {
       question: "Who is Plan2Build for?",
       answer:
-        "Plan2Build is designed for people building standalone homes on their own or controlled plot, typically with a construction cost of ₹40 lakh or more, excluding land.",
+        "Families building an independent house on their own plot, typically with a construction budget of ₹50 lakh or more, excluding land. We are starting in Raipur.",
     },
     {
       question: "Does Plan2Build replace my contractor?",
       answer:
-        "No. Plan2Build does not take the construction contract. Your contractor remains responsible for building the home.",
+        "No. We never take the construction contract. You keep the builder you chose, and execution, supervision and liability stay with them.",
     },
     {
-      question: "Can Plan2Build compare my contractor quotations?",
+      question: "How is your quote comparison different?",
       answer:
-        "Yes. Independent Quote Review and Compare & Decide are designed to help you understand what is included, what is missing and how quotations compare on a common basis.",
+        "We do not rank contractors by price. Every contractor quotes against the same RFQ pack, and we show you why the numbers differ: missing waterproofing, a lower steel grade, thinner plaster. The cheapest number is often a smaller scope.",
     },
     {
       question: "How much does Plan2Build cost?",
-      answer: `Services range from a free Home Cost Check to paid planning, comparison, stage inspection and assurance packages: Independent Quote Review ${PRICES.quoteReview}, Compare & Decide ${PRICES.compare}, Stage Checks ${PRICES.stageCheck} per stage and the Assurance Package ${PRICES.assurance}.`,
+      answer: `The Home Cost Check is free. The Build Plan and advice costs ${PRICES.buildPlan} per house, paid in three instalments. Six-Gate Assurance costs ${PRICES.assurance} per house. If you buy materials through us, our margin is shown in rupees on your specification sheet.`,
+    },
+    {
+      question: "What happens if you miss a defect?",
+      answer:
+        "If we clear a gate and a structural defect in the work we inspected surfaces later, we pay to fix it, up to a stated cap.",
     },
     {
       question: "Are you tied to a particular material brand?",
       answer:
-        "Plan2Build's positioning is independent. Specifications should come before brand recommendations, and relevant commercial relationships should be disclosed where applicable.",
+        "No. We specify performance, never a brand. You choose from at least three qualifying products ordered by price, we take no manufacturer money on structural work, and our auditor is never told who supplied the material.",
     },
     {
-      question: "Do I have to use Plan2Build's partners?",
+      question: "Do I have to buy through Plan2Build?",
       answer:
-        "No. Partner and ecosystem services, from building materials, construction finance and insurance to solar, interiors and finishes, should not remove the homeowner's choice. There is no upfront platform fee, and any Plan2Build commercial relationship is disclosed where applicable.",
+        "No. Materials, contractor introductions, finance, insurance, solar and interiors are all optional. Your specification works with any supplier.",
     },
     {
-      question: "Does Plan2Build inspect construction work?",
-      answer: "Stage Checks and Assurance packages provide independent checks during construction.",
+      question: "Why would my contractor agree to this?",
+      answer:
+        "Good contractors lose bids to lesser scopes quoted as if they were equal. A standard scope protects their price, and the change log means every change you ask for is priced and agreed before they build it.",
     },
   ] satisfies Faq[],
 };
@@ -316,17 +325,17 @@ export const FOOTER = {
     {
       title: "For Home Builders",
       links: [
-        link("Cost Estimate"),
-        link("Quote Review"),
-        link("Compare & Decide"),
+        link("Home Cost Check"),
         link("Build Plan"),
-        link("Stage Checks"),
-        link("Assurance"),
+        link("Quote Comparison"),
+        link("Six-Gate Assurance"),
+        link("Materials & Partners"),
+        link("Build Record"),
       ],
     },
     {
       title: "Plan2Build",
-      links: [link("What We Do"), link("Our Story"), link("How We Get It Done"), link("FAQ")],
+      links: [link("What We Do"), link("Our Story"), link("How It Works"), link("FAQ")],
     },
     {
       title: "Contact",
@@ -334,6 +343,6 @@ export const FOOTER = {
     },
   ],
   description:
-    "Independent guidance for individual home builders — from planning and cost clarity to quote comparison, stage checks and trusted services.",
-  copyright: "© 2026 Plan2Build. All rights reserved.",
+    "Independent advice for families building their own home: cost and scope in writing, quotes compared on the same scope, six-gate assurance and a permanent build record.",
+  copyright: `© 2026 ${BRAND.name} by ${BRAND.company}. All rights reserved.`,
 };
