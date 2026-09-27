@@ -93,7 +93,7 @@ export function ServiceSwitcher({ services }: Props) {
               <motion.div className={styles.media} layout={isDesktop} transition={SWAP_TRANSITION}>
                 <div className={styles.collapseInner}>
                   <div className={styles.mediaFrame}>
-                    {open && <InViewVideo key={service.id} src={service.video} className={styles.video} />}
+                    {open && <InViewVideo key={service.id} src={service.video} className={styles.video} maxDuration={8} />}
                   </div>
                 </div>
               </motion.div>

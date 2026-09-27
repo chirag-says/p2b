@@ -41,7 +41,7 @@ export const MENU_CONTACT: Link[] = [PRIMARY_CTA, link("Contact us")];
  * Not included in the export (the original site streams it from Framer's CDN).
  * Used by the open menu and as the second service video.
  */
-export const REMOTE_OFFICE_VIDEO = "https://framerusercontent.com/assets/nRpIdzwsFwU3zMPwFbiGNxNr8Xs.mp4";
+export const REMOTE_OFFICE_VIDEO = "/videos/Recreate_the_animation_style_a.mp4";
 
 /**
  * Prices, kept in one place. These are the strategy document's recommended
@@ -96,21 +96,21 @@ export const PILLARS = {
       title: "Plan & Decide",
       description:
         "Cost, scope and specification in writing, with a stage-wise cash-flow plan so the money does not run out mid-build.",
-      image: "/images/pillar-plan.jpeg",
+      image: "/images/pillar-plan.webp",
       action: PRIMARY_CTA,
     },
     {
       title: "Buy & Connect",
       description:
         "Verified contractor introductions and materials at a margin we disclose in rupees. Finance, insurance, solar and interiors when you need them.",
-      image: "/images/pillar-connect.jpeg",
+      image: "/images/pillar-connect.webp",
       action: link("Explore Partners"),
     },
     {
       title: "Verify & Assure",
       description:
         "Six independent checks at the stages that cannot be undone, backed by a capped remedy if we miss a structural defect.",
-      image: "/images/pillar-verify.jpeg",
+      image: "/images/pillar-verify.webp",
       action: link("Book Assurance"),
     },
   ] satisfies Pillar[],
@@ -127,7 +127,7 @@ export type Service = {
   video: string;
 };
 
-const PLAN_VIDEO = "/videos/service-residential.mp4";
+const PLAN_VIDEO = "/videos/Recreate_the_animation_style_a.mp4";
 
 export const SERVICES = {
   title: "WHAT WE DO",
@@ -264,7 +264,7 @@ export const CTA = {
   title: "Your land has papers. Your building has none.",
   body: "Know your cost. Compare on the same scope. Keep a record of what went into your walls.",
   button: PRIMARY_CTA,
-  video: "/videos/cta.mp4",
+  video: "/videos/Recreate_the_animation_style_a.mp4",
 };
 
 export type Faq = { question: string; answer: string };

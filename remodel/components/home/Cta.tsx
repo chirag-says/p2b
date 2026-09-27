@@ -43,7 +43,7 @@ export function Cta() {
           <EyeButton href={CTA.button.href} label={CTA.button.label} tone="accent" className={styles.button} />
         </div>
         <div className={styles.media}>
-          <InViewVideo src={CTA.video} className={styles.video} />
+          <InViewVideo src={CTA.video} className={styles.video} maxDuration={8} />
         </div>
       </div>
     </section>
